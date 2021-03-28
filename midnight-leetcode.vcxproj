@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="midnight-leetcode.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="two-sum.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
