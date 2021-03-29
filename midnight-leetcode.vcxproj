@@ -142,7 +142,9 @@
     <ClCompile Include="midnight-leetcode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="reverse-integer.h" />
+    <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="two-sum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

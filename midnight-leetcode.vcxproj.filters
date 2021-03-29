@@ -26,5 +26,11 @@
     <ClInclude Include="reverse-integer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="palindrome-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="roman-to-integer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

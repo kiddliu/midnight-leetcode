@@ -5,8 +5,10 @@
 
 #include "two-sum.h"
 #include "reverse-integer.h"
+#include "palindrome-number.h"
+#include "roman-to-integer.h"
 
 
 int main() { 
-  std::cout << solution::reverse(1534236469);
+  std::cout << std::boolalpha << solution::romanToInt("MCMXCIV");
 }
