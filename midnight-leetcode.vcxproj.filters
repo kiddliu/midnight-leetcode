@@ -32,5 +32,8 @@
     <ClInclude Include="roman-to-integer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="longest-common-prefix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

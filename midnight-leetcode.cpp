@@ -7,8 +7,9 @@
 #include "reverse-integer.h"
 #include "palindrome-number.h"
 #include "roman-to-integer.h"
-
+#include "longest-common-prefix.h"
 
 int main() { 
-  std::cout << std::boolalpha << solution::romanToInt("MCMXCIV");
+  std::vector<std::string> v{"dog", "racecar", "car"};
+  std::cout << std::boolalpha << solution::longestCommonPrefix(v);
 }
