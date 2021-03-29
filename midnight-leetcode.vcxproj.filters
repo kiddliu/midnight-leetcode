@@ -23,5 +23,8 @@
     <ClInclude Include="two-sum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="reverse-integer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

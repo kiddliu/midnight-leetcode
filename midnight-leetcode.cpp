@@ -4,10 +4,9 @@
 #include <iostream>
 
 #include "two-sum.h"
-
+#include "reverse-integer.h"
 
 
 int main() { 
-  auto&& nums = std::vector<int>{1, 3, 5};
-  solution::twoSum(nums, 6);
+  std::cout << solution::reverse(1534236469);
 }
