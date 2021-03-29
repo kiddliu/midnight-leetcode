@@ -8,8 +8,8 @@
 #include "palindrome-number.h"
 #include "roman-to-integer.h"
 #include "longest-common-prefix.h"
+#include "valid-parentheses.h"
 
 int main() { 
-  std::vector<std::string> v{"dog", "racecar", "car"};
-  std::cout << std::boolalpha << solution::longestCommonPrefix(v);
+  std::cout << std::boolalpha << solution::isValid("()[]{}");
 }

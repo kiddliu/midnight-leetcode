@@ -35,5 +35,8 @@
     <ClInclude Include="longest-common-prefix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="valid-parentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
