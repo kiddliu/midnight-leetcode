@@ -44,5 +44,8 @@
     <ClInclude Include="list-node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="remove-duplicates-from-sorted-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

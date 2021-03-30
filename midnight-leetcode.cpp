@@ -3,13 +3,9 @@
 
 #include <iostream>
 
-#include "two-sum.h"
-#include "reverse-integer.h"
-#include "palindrome-number.h"
-#include "roman-to-integer.h"
-#include "longest-common-prefix.h"
-#include "valid-parentheses.h"
+#include "remove-duplicates-from-sorted-array.h"
 
 int main() { 
-  std::cout << std::boolalpha << solution::isValid("()[]{}");
+  std::vector<int> nums {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
+  std::cout << std::boolalpha << solution::removeDuplicates(nums);
 }
