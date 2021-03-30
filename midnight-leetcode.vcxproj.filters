@@ -38,5 +38,11 @@
     <ClInclude Include="valid-parentheses.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="merge-two-sorted-lists.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="list-node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

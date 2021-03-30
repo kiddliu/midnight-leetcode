@@ -142,7 +142,9 @@
     <ClCompile Include="midnight-leetcode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="list-node.h" />
     <ClInclude Include="longest-common-prefix.h" />
+    <ClInclude Include="merge-two-sorted-lists.h" />
     <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="roman-to-integer.h" />
