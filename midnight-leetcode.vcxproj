@@ -147,6 +147,7 @@
     <ClInclude Include="merge-two-sorted-lists.h" />
     <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="remove-duplicates-from-sorted-array.h" />
+    <ClInclude Include="remove-element.h" />
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="two-sum.h" />

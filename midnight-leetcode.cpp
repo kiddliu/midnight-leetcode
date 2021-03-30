@@ -3,9 +3,9 @@
 
 #include <iostream>
 
-#include "remove-duplicates-from-sorted-array.h"
+#include "remove-element.h"
 
 int main() { 
-  std::vector<int> nums {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
-  std::cout << std::boolalpha << solution::removeDuplicates(nums);
+  std::vector<int> nums {3, 3};
+  std::cout << std::boolalpha << solution::removeElement(nums, 3);
 }
