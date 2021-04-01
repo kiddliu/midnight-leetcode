@@ -142,6 +142,7 @@
     <ClCompile Include="midnight-leetcode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="implement-strstr.h" />
     <ClInclude Include="list-node.h" />
     <ClInclude Include="longest-common-prefix.h" />
     <ClInclude Include="merge-two-sorted-lists.h" />

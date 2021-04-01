@@ -7,16 +7,15 @@
 namespace solution {
 
 bool match(const char& l, const char& r) {
-  return
-    ((l == '(' && r == ')'))
-    || ((l == '{' && r == '}'))
-    || ((l == '[' && r == ']'));
+  return ((l == '(' && r == ')')) || ((l == '{' && r == '}')) ||
+         ((l == '[' && r == ']'));
 }
 
 bool isValid(std::string s) {
   // Stack
-  // Runtime: 0 ms, faster than 100.00% of C++ online submissions for Valid Parentheses.
-  // Memory Usage: 6.3 MB, less than 64.53% of C++ online submissions for Valid Parentheses.
+  // Runtime: 0 ms, faster than 100.00% of C++ online submissions for Valid
+  // Parentheses. Memory Usage: 6.3 MB, less than 64.53% of C++ online
+  // submissions for Valid Parentheses.
   //
   if (s.size() == 1) return false;
 
@@ -34,6 +33,6 @@ bool isValid(std::string s) {
   return result.empty();
 }
 
-}
+}  // namespace solution
 
 #endif  // VALID_PARENTHESES_H_

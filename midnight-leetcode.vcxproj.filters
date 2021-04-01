@@ -50,5 +50,8 @@
     <ClInclude Include="remove-element.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="implement-strstr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

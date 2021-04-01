@@ -7,8 +7,9 @@ namespace solution {
 
 ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
   // Compare and Inject
-  // Runtime: 8 ms, faster than 71.84% of C++ online submissions for Merge Two Sorted Lists.
-  // Memory Usage: 14.8 MB, less than 27.76% of C++ online submissions for Merge Two Sorted Lists.
+  // Runtime: 8 ms, faster than 71.84% of C++ online submissions for Merge Two
+  // Sorted Lists. Memory Usage: 14.8 MB, less than 27.76% of C++ online
+  // submissions for Merge Two Sorted Lists.
   //
   if (l1->next == nullptr && l2->next == nullptr) {
     return l1;
@@ -50,6 +51,6 @@ ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
   return result;
 }
 
-}
+}  // namespace solution
 
 #endif  // MERGE_TWO_SORTED_LISTS_H_

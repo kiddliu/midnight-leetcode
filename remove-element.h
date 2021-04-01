@@ -8,8 +8,9 @@ namespace solution {
 
 int removeElement(std::vector<int>& nums, int val) {
   // Brute force
-  // Runtime: 0 ms, faster than 100.00% of C++ online submissions for Remove Element.
-  // Memory Usage: 8.7 MB, less than 88.04% of C++ online submissions for Remove Element.
+  // Runtime: 0 ms, faster than 100.00% of C++ online submissions for Remove
+  // Element. Memory Usage: 8.7 MB, less than 88.04% of C++ online submissions
+  // for Remove Element.
   //
   auto current = nums.begin();
   while (current != nums.end()) {
@@ -22,6 +23,6 @@ int removeElement(std::vector<int>& nums, int val) {
   return nums.size();
 }
 
-}
+}  // namespace solution
 
 #endif  // REMOVE_ELEMENT_H_

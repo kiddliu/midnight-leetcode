@@ -2,6 +2,7 @@
 #define LONGEST_COMMON_PREFIX_H_
 
 #include <algorithm>
+#include <iterator>
 #include <string>
 #include <vector>
 

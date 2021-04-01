@@ -7,8 +7,9 @@ namespace solution {
 
 int removeDuplicates(std::vector<int>& nums) {
   // Two pointers
-  // Runtime: 8 ms, faster than 83.88% of C++ online submissions for Remove Duplicates from Sorted Array.
-  // Memory Usage: 13.7 MB, less than 12.63% of C++ online submissions for Remove Duplicates from Sorted Array.
+  // Runtime: 8 ms, faster than 83.88% of C++ online submissions for Remove
+  // Duplicates from Sorted Array. Memory Usage: 13.7 MB, less than 12.63% of
+  // C++ online submissions for Remove Duplicates from Sorted Array.
   //
   if (nums.size() < 2) return nums.size();
 
@@ -21,9 +22,9 @@ int removeDuplicates(std::vector<int>& nums) {
     p2++;
   }
 
-  return p1 - nums.begin() + 1; 
+  return p1 - nums.begin() + 1;
 }
 
-}
+}  // namespace solution
 
 #endif  // REMOVE_DUPLICATES_FROM_SORTED_ARRAY_H_
