@@ -56,5 +56,8 @@
     <ClInclude Include="search-insert-position.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="maximum-subarray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
