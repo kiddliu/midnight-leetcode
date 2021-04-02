@@ -53,5 +53,8 @@
     <ClInclude Include="implement-strstr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="search-insert-position.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
