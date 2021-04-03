@@ -4,6 +4,6 @@
 
 #include <iostream>
 
-#include "implement-strstr.h"
+#include "length-of-last-word.h"
 
-int main() { std::cout << std::boolalpha << solution::strStr("hello", "ll"); }
+int main() { std::cout << std::boolalpha << solution::lengthOfLastWord("a "); }
