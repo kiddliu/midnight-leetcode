@@ -142,6 +142,7 @@
     <ClCompile Include="midnight-leetcode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="add-binary.h" />
     <ClInclude Include="implement-strstr.h" />
     <ClInclude Include="length-of-last-word.h" />
     <ClInclude Include="list-node.h" />

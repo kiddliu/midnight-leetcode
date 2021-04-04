@@ -65,5 +65,8 @@
     <ClInclude Include="plus-one.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="add-binary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

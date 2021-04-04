@@ -4,6 +4,6 @@
 
 #include <iostream>
 
-#include "length-of-last-word.h"
+#include "add-binary.h"
 
-int main() { std::cout << std::boolalpha << solution::lengthOfLastWord("a "); }
+int main() { std::cout << std::boolalpha << solution::addBinary("1", "111"); }
