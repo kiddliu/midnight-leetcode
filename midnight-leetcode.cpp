@@ -4,6 +4,6 @@
 
 #include <iostream>
 
-#include "add-binary.h"
+#include "sqrtx.h"
 
-int main() { std::cout << std::boolalpha << solution::addBinary("1", "111"); }
+int main() { std::cout << std::boolalpha << solution::mySqrt(4); }
