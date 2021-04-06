@@ -71,5 +71,8 @@
     <ClInclude Include="sqrtx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="climbing-stairs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
