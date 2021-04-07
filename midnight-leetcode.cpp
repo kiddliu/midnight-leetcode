@@ -4,6 +4,18 @@
 
 #include <iostream>
 
-#include "sqrtx.h"
+#include "list-node.h"
+#include "remove-duplicates-from-sorted-list.h"
 
-int main() { std::cout << std::boolalpha << solution::mySqrt(4); }
+int main() { 
+  auto *node = new ListNode(1),
+    *node2 = new ListNode(1),
+    *node3 = new ListNode(1),
+    *node4 = new ListNode(3),
+    *node5 = new ListNode(3);
+  node->next = node2;
+  node2->next = node3;
+  node3->next = node4;
+  node4->next = node5;
+  std::cout << std::boolalpha << solution::deleteDuplicates(node);
+}
