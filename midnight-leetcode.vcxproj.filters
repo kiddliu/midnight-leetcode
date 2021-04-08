@@ -77,5 +77,8 @@
     <ClInclude Include="remove-duplicates-from-sorted-list.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="merge-sorted-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

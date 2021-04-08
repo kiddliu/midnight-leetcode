@@ -149,6 +149,7 @@
     <ClInclude Include="list-node.h" />
     <ClInclude Include="longest-common-prefix.h" />
     <ClInclude Include="maximum-subarray.h" />
+    <ClInclude Include="merge-sorted-array.h" />
     <ClInclude Include="merge-two-sorted-lists.h" />
     <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="plus-one.h" />
