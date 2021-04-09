@@ -158,8 +158,10 @@
     <ClInclude Include="remove-element.h" />
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="roman-to-integer.h" />
+    <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-insert-position.h" />
     <ClInclude Include="sqrtx.h" />
+    <ClInclude Include="tree-node.h" />
     <ClInclude Include="two-sum.h" />
     <ClInclude Include="valid-parentheses.h" />
   </ItemGroup>
