@@ -161,6 +161,7 @@
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-insert-position.h" />
     <ClInclude Include="sqrtx.h" />
+    <ClInclude Include="symmetric-tree.h" />
     <ClInclude Include="tree-node.h" />
     <ClInclude Include="two-sum.h" />
     <ClInclude Include="valid-parentheses.h" />
