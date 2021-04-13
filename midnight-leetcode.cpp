@@ -5,11 +5,9 @@
 #include <iostream>
 #include <vector>
 
-#include "merge-sorted-array.h"
-
+#include "convert-sorted-array-to-binary-search-tree.h"
 
 int main() {
-  std::vector<int> v1{4, 0, 0, 0, 0, 0};
-  std::vector<int> v2{1, 2, 3, 5, 6};
-  /*std::cout << std::boolalpha <<*/ solution::merge(v1, 1, v2, 5);
+  std::vector<int> v{0, 1, 2, 3, 4, 5, 6};
+  /*std::cout << std::boolalpha <<*/ solution::sortedArrayToBST(v);
 }
