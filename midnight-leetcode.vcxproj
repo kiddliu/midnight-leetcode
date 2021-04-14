@@ -143,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add-binary.h" />
+    <ClInclude Include="balanced-binary-tree.h" />
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="implement-strstr.h" />

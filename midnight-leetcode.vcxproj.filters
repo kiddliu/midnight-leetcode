@@ -95,5 +95,8 @@
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="balanced-binary-tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
