@@ -101,5 +101,8 @@
     <ClInclude Include="minimum-depth-of-binary-tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="path-sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -156,6 +156,7 @@
     <ClInclude Include="merge-two-sorted-lists.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
     <ClInclude Include="palindrome-number.h" />
+    <ClInclude Include="path-sum.h" />
     <ClInclude Include="plus-one.h" />
     <ClInclude Include="remove-duplicates-from-sorted-array.h" />
     <ClInclude Include="remove-duplicates-from-sorted-list.h" />
