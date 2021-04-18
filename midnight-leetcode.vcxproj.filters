@@ -107,5 +107,8 @@
     <ClInclude Include="pascals-triangle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="pascals-triangle-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -5,9 +5,9 @@
 #include <iostream>
 #include <vector>
 
-#include "convert-sorted-array-to-binary-search-tree.h"
+#include "pascals-triangle-ii.h"
 
 int main() {
   std::vector<int> v{0, 1, 2, 3, 4, 5, 6};
-  /*std::cout << std::boolalpha <<*/ solution::sortedArrayToBST(v);
+  /*std::cout << std::boolalpha <<*/ solution::getRow(3);
 }
