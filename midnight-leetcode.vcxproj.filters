@@ -110,5 +110,8 @@
     <ClInclude Include="pascals-triangle-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="best-time-to-buy-and-sell-stock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
