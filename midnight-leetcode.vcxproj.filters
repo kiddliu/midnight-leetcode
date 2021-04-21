@@ -116,5 +116,8 @@
     <ClInclude Include="best-time-to-buy-and-sell-stock-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="valid-palindrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

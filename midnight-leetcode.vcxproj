@@ -173,6 +173,7 @@
     <ClInclude Include="symmetric-tree.h" />
     <ClInclude Include="tree-node.h" />
     <ClInclude Include="two-sum.h" />
+    <ClInclude Include="valid-palindrome.h" />
     <ClInclude Include="valid-parentheses.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
