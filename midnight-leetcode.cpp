@@ -5,10 +5,9 @@
 #include <iostream>
 #include <vector>
 
-#include "valid-palindrome.h"
+#include "single-number.h"
 
 int main() {
-  std::vector<int> v{2, 4, 1};
-  /*std::cout << std::boolalpha <<*/ solution::isPalindrome(
-      ".,");
+  std::vector<int> v{2, 2, 1};
+  /*std::cout << std::boolalpha <<*/ solution::singleNumber(v);
 }
