@@ -122,5 +122,8 @@
     <ClInclude Include="single-number.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="linked-list-cycle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

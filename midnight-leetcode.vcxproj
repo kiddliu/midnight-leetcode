@@ -150,6 +150,7 @@
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="implement-strstr.h" />
     <ClInclude Include="length-of-last-word.h" />
+    <ClInclude Include="linked-list-cycle.h" />
     <ClInclude Include="list-node.h" />
     <ClInclude Include="longest-common-prefix.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
