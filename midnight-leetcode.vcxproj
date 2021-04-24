@@ -157,6 +157,7 @@
     <ClInclude Include="maximum-subarray.h" />
     <ClInclude Include="merge-sorted-array.h" />
     <ClInclude Include="merge-two-sorted-lists.h" />
+    <ClInclude Include="min-stack.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
     <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="pascals-triangle-ii.h" />
