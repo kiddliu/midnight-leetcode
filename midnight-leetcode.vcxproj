@@ -149,6 +149,7 @@
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="implement-strstr.h" />
+    <ClInclude Include="intersection-of-two-linked-lists.h" />
     <ClInclude Include="length-of-last-word.h" />
     <ClInclude Include="linked-list-cycle.h" />
     <ClInclude Include="list-node.h" />

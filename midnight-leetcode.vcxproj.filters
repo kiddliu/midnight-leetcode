@@ -128,5 +128,8 @@
     <ClInclude Include="min-stack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="intersection-of-two-linked-lists.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
