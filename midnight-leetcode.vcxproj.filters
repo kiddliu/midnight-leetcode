@@ -131,5 +131,8 @@
     <ClInclude Include="intersection-of-two-linked-lists.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="two-sum-ii-input-array-is-sorted.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

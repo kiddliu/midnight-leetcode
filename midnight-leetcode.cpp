@@ -8,11 +8,11 @@
 
 #include "list-node.h"
 
-#include "intersection-of-two-linked-lists.h"
+#include "two-sum-ii-input-array-is-sorted.h"
 
 int main() {
-  ListNode *node = new ListNode(1);
-  std::cout << std::boolalpha << solution::getIntersectionNode(node, node);
+  std::vector<int> v{1, 3, 4, 4};
+  /*std::cout << std::boolalpha <<*/ solution::twoSum(v, 8);
 
   //solution::MinStack minStack{};
   //minStack.push(-2);
