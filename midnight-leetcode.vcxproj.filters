@@ -134,5 +134,8 @@
     <ClInclude Include="two-sum-ii-input-array-is-sorted.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="excel-sheet-column-title.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

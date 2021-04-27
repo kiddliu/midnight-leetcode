@@ -8,11 +8,14 @@
 
 #include "list-node.h"
 
-#include "two-sum-ii-input-array-is-sorted.h"
+#include "excel-sheet-column-title.h"
 
 int main() {
   std::vector<int> v{1, 3, 4, 4};
-  /*std::cout << std::boolalpha <<*/ solution::twoSum(v, 8);
+  assert(solution::convertToTitle(701) == "ZY");
+  assert(solution::convertToTitle(1) == "A");
+  assert(solution::convertToTitle(28) == "AB");
+  assert(solution::convertToTitle(2147483647) == "FXSHRXW");
 
   //solution::MinStack minStack{};
   //minStack.push(-2);
