@@ -137,5 +137,8 @@
     <ClInclude Include="excel-sheet-column-title.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="majority-element.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

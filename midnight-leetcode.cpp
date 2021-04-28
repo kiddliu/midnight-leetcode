@@ -8,14 +8,11 @@
 
 #include "list-node.h"
 
-#include "excel-sheet-column-title.h"
+#include "majority-element.h"
 
 int main() {
-  std::vector<int> v{1, 3, 4, 4};
-  assert(solution::convertToTitle(701) == "ZY");
-  assert(solution::convertToTitle(1) == "A");
-  assert(solution::convertToTitle(28) == "AB");
-  assert(solution::convertToTitle(2147483647) == "FXSHRXW");
+  std::vector<int> v{3, 2, 3};
+  assert(solution::majorityElement(v) == 3);
 
   //solution::MinStack minStack{};
   //minStack.push(-2);

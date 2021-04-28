@@ -155,6 +155,7 @@
     <ClInclude Include="linked-list-cycle.h" />
     <ClInclude Include="list-node.h" />
     <ClInclude Include="longest-common-prefix.h" />
+    <ClInclude Include="majority-element.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
     <ClInclude Include="maximum-subarray.h" />
     <ClInclude Include="merge-sorted-array.h" />
