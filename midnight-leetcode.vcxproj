@@ -150,6 +150,7 @@
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
+    <ClInclude Include="factorial-trailing-zeroes.h" />
     <ClInclude Include="implement-strstr.h" />
     <ClInclude Include="intersection-of-two-linked-lists.h" />
     <ClInclude Include="length-of-last-word.h" />

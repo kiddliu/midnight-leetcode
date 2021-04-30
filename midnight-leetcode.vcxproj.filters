@@ -143,5 +143,8 @@
     <ClInclude Include="excel-sheet-column-number.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="factorial-trailing-zeroes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
