@@ -146,5 +146,8 @@
     <ClInclude Include="factorial-trailing-zeroes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="combine-two-tables.sql">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
