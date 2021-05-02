@@ -149,5 +149,8 @@
     <ClInclude Include="combine-two-tables.sql">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="second-highest-salary.sql">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

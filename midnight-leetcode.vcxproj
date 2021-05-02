@@ -177,6 +177,7 @@
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-insert-position.h" />
+    <ClInclude Include="second-highest-salary.sql" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="sqrtx.h" />
     <ClInclude Include="symmetric-tree.h" />
