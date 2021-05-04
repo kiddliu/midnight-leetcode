@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="SQL Files">
+      <UniqueIdentifier>{d63fff29-021e-47dd-8e6f-01d44e29bc20}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="midnight-leetcode.cpp">
@@ -147,13 +150,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="combine-two-tables.sql">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="second-highest-salary.sql">
-      <Filter>Header Files</Filter>
+      <Filter>SQL Files</Filter>
     </ClInclude>
     <ClInclude Include="employees-earning-more-than-their-managers.sql">
-      <Filter>Header Files</Filter>
+      <Filter>SQL Files</Filter>
     </ClInclude>
+    <ClInclude Include="second-highest-salary.sql">
+      <Filter>SQL Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="duplicate-emails.sql">
+      <Filter>SQL Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

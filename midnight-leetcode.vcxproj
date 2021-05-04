@@ -188,6 +188,9 @@
     <ClInclude Include="valid-palindrome.h" />
     <ClInclude Include="valid-parentheses.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="duplicate-emails.sql" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
