@@ -149,18 +149,21 @@
     <ClInclude Include="factorial-trailing-zeroes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="combine-two-tables.sql">
-      <Filter>SQL Files</Filter>
-    </ClInclude>
-    <ClInclude Include="employees-earning-more-than-their-managers.sql">
-      <Filter>SQL Files</Filter>
-    </ClInclude>
-    <ClInclude Include="second-highest-salary.sql">
-      <Filter>SQL Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <None Include="combine-two-tables.sql">
+      <Filter>SQL Files</Filter>
+    </None>
+    <None Include="customers-who-never-order.sql">
+      <Filter>SQL Files</Filter>
+    </None>
     <None Include="duplicate-emails.sql">
+      <Filter>SQL Files</Filter>
+    </None>
+    <None Include="employees-earning-more-than-their-managers.sql">
+      <Filter>SQL Files</Filter>
+    </None>
+    <None Include="second-highest-salary.sql">
       <Filter>SQL Files</Filter>
     </None>
   </ItemGroup>

@@ -147,9 +147,7 @@
     <ClInclude Include="best-time-to-buy-and-sell-stock-ii.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock.h" />
     <ClInclude Include="climbing-stairs.h" />
-    <ClInclude Include="combine-two-tables.sql" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
-    <ClInclude Include="employees-earning-more-than-their-managers.sql" />
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
@@ -178,7 +176,6 @@
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-insert-position.h" />
-    <ClInclude Include="second-highest-salary.sql" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="sqrtx.h" />
     <ClInclude Include="symmetric-tree.h" />
@@ -189,7 +186,11 @@
     <ClInclude Include="valid-parentheses.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="combine-two-tables.sql" />
+    <None Include="customers-who-never-order.sql" />
     <None Include="duplicate-emails.sql" />
+    <None Include="employees-earning-more-than-their-managers.sql" />
+    <None Include="second-highest-salary.sql" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
