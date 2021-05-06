@@ -8,8 +8,6 @@
 
 #include "list-node.h"
 
-#include "factorial-trailing-zeroes.h"
+#include "reverse-bits.h"
 
-int main() {
-  assert(solution::trailingZeroes(1000) == 249);
-}
+int main() { assert(solution::reverseBits(4294967293) == 3221225471); }

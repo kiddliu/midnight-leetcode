@@ -172,6 +172,7 @@
     <ClInclude Include="remove-duplicates-from-sorted-array.h" />
     <ClInclude Include="remove-duplicates-from-sorted-list.h" />
     <ClInclude Include="remove-element.h" />
+    <ClInclude Include="reverse-bits.h" />
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="same-tree.h" />
