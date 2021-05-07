@@ -8,6 +8,6 @@
 
 #include "list-node.h"
 
-#include "reverse-bits.h"
+#include "number-of-1-bits.h"
 
-int main() { assert(solution::reverseBits(4294967293) == 3221225471); }
+int main() { assert(solution::hammingWeight(4294967293) == 31); }
