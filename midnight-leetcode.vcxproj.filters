@@ -16,6 +16,9 @@
     <Filter Include="SQL Files">
       <UniqueIdentifier>{d63fff29-021e-47dd-8e6f-01d44e29bc20}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Bash Scripts">
+      <UniqueIdentifier>{36b0dd28-5286-4152-bd73-85dd301c2913}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="midnight-leetcode.cpp">
@@ -171,6 +174,12 @@
     </None>
     <None Include="second-highest-salary.sql">
       <Filter>SQL Files</Filter>
+    </None>
+    <None Include="valid-phone-numbers.sh">
+      <Filter>Bash Scripts</Filter>
+    </None>
+    <None Include="tenth-line.sh">
+      <Filter>Bash Scripts</Filter>
     </None>
   </ItemGroup>
 </Project>
