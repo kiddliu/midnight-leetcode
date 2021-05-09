@@ -190,8 +190,10 @@
   <ItemGroup>
     <None Include="combine-two-tables.sql" />
     <None Include="customers-who-never-order.sql" />
+    <None Include="delete-duplicate-emails.sql" />
     <None Include="duplicate-emails.sql" />
     <None Include="employees-earning-more-than-their-managers.sql" />
+    <None Include="rising-temperature.sql" />
     <None Include="second-highest-salary.sql" />
     <None Include="tenth-line.sh" />
     <None Include="valid-phone-numbers.sh" />

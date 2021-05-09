@@ -181,5 +181,11 @@
     <None Include="tenth-line.sh">
       <Filter>Bash Scripts</Filter>
     </None>
+    <None Include="delete-duplicate-emails.sql">
+      <Filter>SQL Files</Filter>
+    </None>
+    <None Include="rising-temperature.sql">
+      <Filter>SQL Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
