@@ -8,6 +8,15 @@
 
 #include "list-node.h"
 
-#include "happy-number.h"
+#include "remove-linked-list-elements.h"
 
-int main() { assert(solution::isHappy(2) == false); }
+int main() {
+  ListNode* head = new ListNode(1,
+                                new ListNode(2,
+                                             new ListNode(6,
+                                                          new ListNode(3,
+                                                                       new ListNode(4,
+                                                                                    new ListNode(5,
+                                                                                                 new ListNode(6))))))); 
+  assert(solution::removeElements(head, 6) == head);
+}
