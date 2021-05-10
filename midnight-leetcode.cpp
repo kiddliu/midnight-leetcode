@@ -8,6 +8,6 @@
 
 #include "list-node.h"
 
-#include "number-of-1-bits.h"
+#include "happy-number.h"
 
-int main() { assert(solution::hammingWeight(4294967293) == 31); }
+int main() { assert(solution::isHappy(2) == false); }
