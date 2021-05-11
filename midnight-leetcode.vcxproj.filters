@@ -167,6 +167,12 @@
     <ClInclude Include="binary-tree-inorder-traversal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="binary-tree-preorder-traversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="binary-tree-postorder-traversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
