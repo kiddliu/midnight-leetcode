@@ -7,16 +7,12 @@
 #include <vector>
 
 #include "list-node.h"
+#include "tree-node.h"
 
-#include "remove-linked-list-elements.h"
+#include "binary-tree-inorder-traversal.h"
 
 int main() {
-  ListNode* head = new ListNode(1,
-                                new ListNode(2,
-                                             new ListNode(6,
-                                                          new ListNode(3,
-                                                                       new ListNode(4,
-                                                                                    new ListNode(5,
-                                                                                                 new ListNode(6))))))); 
-  assert(solution::removeElements(head, 6) == head);
+  auto node =
+      new TreeNode(1, nullptr, new TreeNode(2, new TreeNode(3), nullptr));
+  solution::inorderTraversal(node);
 }

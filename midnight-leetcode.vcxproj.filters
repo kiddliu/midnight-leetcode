@@ -164,6 +164,9 @@
     <ClInclude Include="remove-linked-list-elements.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="binary-tree-inorder-traversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
