@@ -9,10 +9,6 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "binary-tree-inorder-traversal.h"
+#include "isomorphic-strings.h"
 
-int main() {
-  auto node =
-      new TreeNode(1, nullptr, new TreeNode(2, new TreeNode(3), nullptr));
-  solution::inorderTraversal(node);
-}
+int main() { assert(solution::isIsomorphic("badc", "baba") == false); }

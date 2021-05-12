@@ -173,6 +173,12 @@
     <ClInclude Include="binary-tree-postorder-traversal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="count-primes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="isomorphic-strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
