@@ -150,6 +150,7 @@
     <ClInclude Include="binary-tree-postorder-traversal.h" />
     <ClInclude Include="binary-tree-preorder-traversal.h" />
     <ClInclude Include="climbing-stairs.h" />
+    <ClInclude Include="contains-duplicate.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="excel-sheet-column-number.h" />
@@ -182,6 +183,7 @@
     <ClInclude Include="remove-linked-list-elements.h" />
     <ClInclude Include="reverse-bits.h" />
     <ClInclude Include="reverse-integer.h" />
+    <ClInclude Include="reverse-linked-list.h" />
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-insert-position.h" />
