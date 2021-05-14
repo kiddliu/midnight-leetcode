@@ -150,6 +150,7 @@
     <ClInclude Include="binary-tree-postorder-traversal.h" />
     <ClInclude Include="binary-tree-preorder-traversal.h" />
     <ClInclude Include="climbing-stairs.h" />
+    <ClInclude Include="contains-duplicate-ii.h" />
     <ClInclude Include="contains-duplicate.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="count-primes.h" />
@@ -157,6 +158,7 @@
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
     <ClInclude Include="happy-number.h" />
+    <ClInclude Include="implement-stack-using-queues.h" />
     <ClInclude Include="implement-strstr.h" />
     <ClInclude Include="intersection-of-two-linked-lists.h" />
     <ClInclude Include="isomorphic-strings.h" />

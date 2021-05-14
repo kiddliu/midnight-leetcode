@@ -185,6 +185,12 @@
     <ClInclude Include="contains-duplicate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="contains-duplicate-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="implement-stack-using-queues.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
