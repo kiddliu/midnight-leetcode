@@ -161,6 +161,7 @@
     <ClInclude Include="implement-stack-using-queues.h" />
     <ClInclude Include="implement-strstr.h" />
     <ClInclude Include="intersection-of-two-linked-lists.h" />
+    <ClInclude Include="invert-binary-tree.h" />
     <ClInclude Include="isomorphic-strings.h" />
     <ClInclude Include="length-of-last-word.h" />
     <ClInclude Include="linked-list-cycle.h" />
@@ -191,6 +192,7 @@
     <ClInclude Include="search-insert-position.h" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="sqrtx.h" />
+    <ClInclude Include="summary-ranges.h" />
     <ClInclude Include="symmetric-tree.h" />
     <ClInclude Include="tree-node.h" />
     <ClInclude Include="two-sum-ii-input-array-is-sorted.h" />

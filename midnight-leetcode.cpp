@@ -4,18 +4,16 @@
 
 #include <cassert>
 #include <iostream>
+#include <string>
 #include <vector>
 
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "implement-stack-using-queues.h"
+#include "summary-ranges.h"
 
 int main() {
-  solution::MyStack* myStack = new solution::MyStack();
-  myStack->push(1);
-  myStack->push(2);
-  assert(myStack->top() == 2);    // return 2
-  assert(myStack->pop() == 2);    // return 2
-  assert(myStack->empty() == false);  // return False
+  std::vector<int> v1{0, 2, 3, 4, 6, 8, 9};
+  std::vector<std::string> v2{"0", "2->4", "6", "8->9"};
+  assert(solution::summaryRanges(v1) == v2);
 }
