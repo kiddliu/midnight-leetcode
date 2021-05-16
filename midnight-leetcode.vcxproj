@@ -158,6 +158,7 @@
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
     <ClInclude Include="happy-number.h" />
+    <ClInclude Include="implement-queue-using-stacks.h" />
     <ClInclude Include="implement-stack-using-queues.h" />
     <ClInclude Include="implement-strstr.h" />
     <ClInclude Include="intersection-of-two-linked-lists.h" />
@@ -180,6 +181,7 @@
     <ClInclude Include="pascals-triangle.h" />
     <ClInclude Include="path-sum.h" />
     <ClInclude Include="plus-one.h" />
+    <ClInclude Include="power-of-two.h" />
     <ClInclude Include="remove-duplicates-from-sorted-array.h" />
     <ClInclude Include="remove-duplicates-from-sorted-list.h" />
     <ClInclude Include="remove-element.h" />

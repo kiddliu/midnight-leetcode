@@ -10,10 +10,8 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "summary-ranges.h"
+#include "power-of-two.h"
 
 int main() {
-  std::vector<int> v1{0, 2, 3, 4, 6, 8, 9};
-  std::vector<std::string> v2{"0", "2->4", "6", "8->9"};
-  assert(solution::summaryRanges(v1) == v2);
+  assert(solution::isPowerOfTwo(1) == true);
 }
