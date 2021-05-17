@@ -176,6 +176,7 @@
     <ClInclude Include="min-stack.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
     <ClInclude Include="number-of-1-bits.h" />
+    <ClInclude Include="palindrome-linked-list.h" />
     <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="pascals-triangle-ii.h" />
     <ClInclude Include="pascals-triangle.h" />

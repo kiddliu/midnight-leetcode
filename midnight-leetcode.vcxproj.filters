@@ -203,6 +203,9 @@
     <ClInclude Include="implement-queue-using-stacks.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="palindrome-linked-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
