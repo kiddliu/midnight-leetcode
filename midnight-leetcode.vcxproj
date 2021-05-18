@@ -154,6 +154,7 @@
     <ClInclude Include="contains-duplicate.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="count-primes.h" />
+    <ClInclude Include="delete-node-in-a-linked-list.h" />
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
@@ -201,6 +202,7 @@
     <ClInclude Include="tree-node.h" />
     <ClInclude Include="two-sum-ii-input-array-is-sorted.h" />
     <ClInclude Include="two-sum.h" />
+    <ClInclude Include="valid-anagram.h" />
     <ClInclude Include="valid-palindrome.h" />
     <ClInclude Include="valid-parentheses.h" />
   </ItemGroup>

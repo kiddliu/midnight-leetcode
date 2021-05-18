@@ -10,8 +10,8 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "power-of-two.h"
+#include "valid-anagram.h"
 
 int main() {
-  assert(solution::isPowerOfTwo(1) == true);
+  assert(solution::isAnagram("abc", "abb") == false);
 }

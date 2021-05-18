@@ -209,6 +209,12 @@
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="delete-node-in-a-linked-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="valid-anagram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
