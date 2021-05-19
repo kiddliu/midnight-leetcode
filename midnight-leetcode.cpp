@@ -10,8 +10,8 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "valid-anagram.h"
+#include "add-digits.h"
 
 int main() {
-  assert(solution::isAnagram("abc", "abb") == false);
+  assert(solution::addDigits(10) == 1);
 }

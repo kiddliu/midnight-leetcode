@@ -143,10 +143,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add-binary.h" />
+    <ClInclude Include="add-digits.h" />
     <ClInclude Include="balanced-binary-tree.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock-ii.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock.h" />
     <ClInclude Include="binary-tree-inorder-traversal.h" />
+    <ClInclude Include="binary-tree-paths.h" />
     <ClInclude Include="binary-tree-postorder-traversal.h" />
     <ClInclude Include="binary-tree-preorder-traversal.h" />
     <ClInclude Include="climbing-stairs.h" />

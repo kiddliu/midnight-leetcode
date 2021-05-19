@@ -215,6 +215,12 @@
     <ClInclude Include="valid-anagram.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="binary-tree-paths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="add-digits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
