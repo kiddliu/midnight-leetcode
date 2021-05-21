@@ -227,6 +227,9 @@
     <ClInclude Include="missing-number.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="first-bad-version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

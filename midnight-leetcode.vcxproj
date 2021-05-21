@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -160,6 +160,7 @@
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
+    <ClInclude Include="first-bad-version.h" />
     <ClInclude Include="happy-number.h" />
     <ClInclude Include="implement-queue-using-stacks.h" />
     <ClInclude Include="implement-stack-using-queues.h" />
@@ -180,6 +181,7 @@
     <ClInclude Include="min-stack.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
     <ClInclude Include="missing-number.h" />
+    <ClInclude Include="move-zeroes.h" />
     <ClInclude Include="number-of-1-bits.h" />
     <ClInclude Include="palindrome-linked-list.h" />
     <ClInclude Include="palindrome-number.h" />

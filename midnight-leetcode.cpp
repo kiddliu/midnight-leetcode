@@ -10,8 +10,9 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "add-digits.h"
+#include "move-zeroes.h"
 
 int main() {
-  assert(solution::addDigits(10) == 1);
+  std::vector<int> v{1,2,3,4,5};
+  solution::moveZeroes(v);
 }
