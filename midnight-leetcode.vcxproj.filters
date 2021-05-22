@@ -230,6 +230,15 @@
     <ClInclude Include="first-bad-version.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="move-zeroes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="word-pattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="nim-game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -10,9 +10,8 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "move-zeroes.h"
+#include "word-pattern.h"
 
 int main() {
-  std::vector<int> v{1,2,3,4,5};
-  solution::moveZeroes(v);
+  solution::wordPattern("abcdefghijklmnnmlkjihgfedcba", "aa bb cc dd ee ff gg hh ii jj kk ll mm nn nn mm ll kk jj ii hh gg ff ee dd cc bb aa");
 }
