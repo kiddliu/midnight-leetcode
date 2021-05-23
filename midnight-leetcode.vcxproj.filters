@@ -239,6 +239,12 @@
     <ClInclude Include="nim-game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="range-sum-query-immutable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="power-of-three.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
