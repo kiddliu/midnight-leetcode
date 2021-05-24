@@ -190,6 +190,7 @@
     <ClInclude Include="pascals-triangle.h" />
     <ClInclude Include="path-sum.h" />
     <ClInclude Include="plus-one.h" />
+    <ClInclude Include="power-of-four.h" />
     <ClInclude Include="power-of-three.h" />
     <ClInclude Include="power-of-two.h" />
     <ClInclude Include="range-sum-query-immutable.h" />
@@ -200,6 +201,7 @@
     <ClInclude Include="reverse-bits.h" />
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="reverse-linked-list.h" />
+    <ClInclude Include="reverse-string.h" />
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-insert-position.h" />

@@ -245,6 +245,12 @@
     <ClInclude Include="power-of-three.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="power-of-four.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="reverse-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -10,8 +10,9 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "word-pattern.h"
+#include "reverse-string.h"
 
 int main() {
-  solution::wordPattern("abcdefghijklmnnmlkjihgfedcba", "aa bb cc dd ee ff gg hh ii jj kk ll mm nn nn mm ll kk jj ii hh gg ff ee dd cc bb aa");
+  std::vector<char> v{'h', 'e', 'l', 'l', 'o'};
+  solution::reverseString(v);
 }
