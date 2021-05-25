@@ -10,9 +10,8 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "reverse-string.h"
+#include "reverse-vowels-of-a-string.h"
 
 int main() {
-  std::vector<char> v{'h', 'e', 'l', 'l', 'o'};
-  solution::reverseString(v);
+  solution::reverseVowels(".,");
 }

@@ -165,6 +165,7 @@
     <ClInclude Include="implement-queue-using-stacks.h" />
     <ClInclude Include="implement-stack-using-queues.h" />
     <ClInclude Include="implement-strstr.h" />
+    <ClInclude Include="intersection-of-two-arrays.h" />
     <ClInclude Include="intersection-of-two-linked-lists.h" />
     <ClInclude Include="invert-binary-tree.h" />
     <ClInclude Include="isomorphic-strings.h" />
@@ -202,6 +203,7 @@
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="reverse-linked-list.h" />
     <ClInclude Include="reverse-string.h" />
+    <ClInclude Include="reverse-vowels-of-a-string.h" />
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-insert-position.h" />

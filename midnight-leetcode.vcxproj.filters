@@ -251,6 +251,12 @@
     <ClInclude Include="reverse-string.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="reverse-vowels-of-a-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="intersection-of-two-arrays.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
