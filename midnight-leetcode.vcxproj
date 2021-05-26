@@ -165,6 +165,7 @@
     <ClInclude Include="implement-queue-using-stacks.h" />
     <ClInclude Include="implement-stack-using-queues.h" />
     <ClInclude Include="implement-strstr.h" />
+    <ClInclude Include="intersection-of-two-arrays-ii.h" />
     <ClInclude Include="intersection-of-two-arrays.h" />
     <ClInclude Include="intersection-of-two-linked-lists.h" />
     <ClInclude Include="invert-binary-tree.h" />
@@ -218,6 +219,7 @@
     <ClInclude Include="valid-anagram.h" />
     <ClInclude Include="valid-palindrome.h" />
     <ClInclude Include="valid-parentheses.h" />
+    <ClInclude Include="valid-perfect-square.h" />
     <ClInclude Include="word-pattern.h" />
   </ItemGroup>
   <ItemGroup>

@@ -257,6 +257,12 @@
     <ClInclude Include="intersection-of-two-arrays.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="intersection-of-two-arrays-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="valid-perfect-square.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

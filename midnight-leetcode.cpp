@@ -10,8 +10,8 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "reverse-vowels-of-a-string.h"
+#include "valid-perfect-square.h"
 
 int main() {
-  solution::reverseVowels(".,");
+  solution::isPerfectSquare(16);
 }
