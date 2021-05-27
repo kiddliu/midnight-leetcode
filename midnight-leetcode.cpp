@@ -10,8 +10,8 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "valid-perfect-square.h"
+#include "ransom-note.h"
 
 int main() {
-  solution::isPerfectSquare(16);
+  solution::canConstruct("aa", "aab");
 }

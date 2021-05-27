@@ -263,6 +263,12 @@
     <ClInclude Include="valid-perfect-square.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="guess-number-higher-or-lower.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ransom-note.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

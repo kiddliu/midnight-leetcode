@@ -161,6 +161,7 @@
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
     <ClInclude Include="first-bad-version.h" />
+    <ClInclude Include="guess-number-higher-or-lower.h" />
     <ClInclude Include="happy-number.h" />
     <ClInclude Include="implement-queue-using-stacks.h" />
     <ClInclude Include="implement-stack-using-queues.h" />
@@ -196,6 +197,7 @@
     <ClInclude Include="power-of-three.h" />
     <ClInclude Include="power-of-two.h" />
     <ClInclude Include="range-sum-query-immutable.h" />
+    <ClInclude Include="ransom-note.h" />
     <ClInclude Include="remove-duplicates-from-sorted-array.h" />
     <ClInclude Include="remove-duplicates-from-sorted-list.h" />
     <ClInclude Include="remove-element.h" />
