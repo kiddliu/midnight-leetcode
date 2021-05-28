@@ -269,6 +269,12 @@
     <ClInclude Include="ransom-note.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="first-unique-character-in-a-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="find-the-difference.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -160,7 +160,9 @@
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
+    <ClInclude Include="find-the-difference.h" />
     <ClInclude Include="first-bad-version.h" />
+    <ClInclude Include="first-unique-character-in-a-string.h" />
     <ClInclude Include="guess-number-higher-or-lower.h" />
     <ClInclude Include="happy-number.h" />
     <ClInclude Include="implement-queue-using-stacks.h" />

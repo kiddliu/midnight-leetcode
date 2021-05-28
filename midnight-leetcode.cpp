@@ -10,8 +10,6 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "ransom-note.h"
+#include "first-unique-character-in-a-string.h"
 
-int main() {
-  solution::canConstruct("aa", "aab");
-}
+int main() { solution::firstUniqChar("leetcode"); }
