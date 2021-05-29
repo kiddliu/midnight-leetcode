@@ -151,6 +151,7 @@
     <ClInclude Include="binary-tree-paths.h" />
     <ClInclude Include="binary-tree-postorder-traversal.h" />
     <ClInclude Include="binary-tree-preorder-traversal.h" />
+    <ClInclude Include="binary-watch.h" />
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="contains-duplicate-ii.h" />
     <ClInclude Include="contains-duplicate.h" />
@@ -172,6 +173,7 @@
     <ClInclude Include="intersection-of-two-arrays.h" />
     <ClInclude Include="intersection-of-two-linked-lists.h" />
     <ClInclude Include="invert-binary-tree.h" />
+    <ClInclude Include="is-subsequence.h" />
     <ClInclude Include="isomorphic-strings.h" />
     <ClInclude Include="length-of-last-word.h" />
     <ClInclude Include="linked-list-cycle.h" />

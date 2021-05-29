@@ -275,6 +275,12 @@
     <ClInclude Include="find-the-difference.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="is-subsequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="binary-watch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

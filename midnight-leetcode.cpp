@@ -10,6 +10,6 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "first-unique-character-in-a-string.h"
+#include "binary-watch.h"
 
-int main() { solution::firstUniqChar("leetcode"); }
+int main() { solution::readBinaryWatch(5); }
