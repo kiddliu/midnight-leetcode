@@ -155,6 +155,7 @@
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="contains-duplicate-ii.h" />
     <ClInclude Include="contains-duplicate.h" />
+    <ClInclude Include="convert-a-number-to-hexadecimal.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
@@ -216,6 +217,7 @@
     <ClInclude Include="search-insert-position.h" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="sqrtx.h" />
+    <ClInclude Include="sum-of-left-leaves.h" />
     <ClInclude Include="summary-ranges.h" />
     <ClInclude Include="symmetric-tree.h" />
     <ClInclude Include="tree-node.h" />

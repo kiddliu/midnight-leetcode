@@ -10,6 +10,6 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "binary-watch.h"
+#include "convert-a-number-to-hexadecimal.h"
 
-int main() { solution::readBinaryWatch(5); }
+int main() { solution::toHex(-1); }

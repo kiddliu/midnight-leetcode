@@ -281,6 +281,12 @@
     <ClInclude Include="binary-watch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sum-of-left-leaves.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="convert-a-number-to-hexadecimal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
