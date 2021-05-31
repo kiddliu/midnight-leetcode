@@ -165,6 +165,7 @@
     <ClInclude Include="find-the-difference.h" />
     <ClInclude Include="first-bad-version.h" />
     <ClInclude Include="first-unique-character-in-a-string.h" />
+    <ClInclude Include="fizz-buzz.h" />
     <ClInclude Include="guess-number-higher-or-lower.h" />
     <ClInclude Include="happy-number.h" />
     <ClInclude Include="implement-queue-using-stacks.h" />
@@ -180,6 +181,7 @@
     <ClInclude Include="linked-list-cycle.h" />
     <ClInclude Include="list-node.h" />
     <ClInclude Include="longest-common-prefix.h" />
+    <ClInclude Include="longest-palindrome.h" />
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
     <ClInclude Include="majority-element.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
