@@ -293,6 +293,12 @@
     <ClInclude Include="fizz-buzz.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="third-maximum-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="add-strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

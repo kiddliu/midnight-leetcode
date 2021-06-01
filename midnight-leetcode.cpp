@@ -10,6 +10,6 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "convert-a-number-to-hexadecimal.h"
+#include "add-strings.h"
 
-int main() { solution::toHex(-1); }
+int main() { solution::addStrings("11", "123"); }

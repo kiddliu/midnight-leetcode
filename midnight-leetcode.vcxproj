@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="add-binary.h" />
     <ClInclude Include="add-digits.h" />
+    <ClInclude Include="add-strings.h" />
     <ClInclude Include="balanced-binary-tree.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock-ii.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock.h" />
@@ -222,6 +223,7 @@
     <ClInclude Include="sum-of-left-leaves.h" />
     <ClInclude Include="summary-ranges.h" />
     <ClInclude Include="symmetric-tree.h" />
+    <ClInclude Include="third-maximum-number.h" />
     <ClInclude Include="tree-node.h" />
     <ClInclude Include="two-sum-ii-input-array-is-sorted.h" />
     <ClInclude Include="two-sum.h" />
