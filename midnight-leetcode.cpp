@@ -10,6 +10,6 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "add-strings.h"
+#include "arranging-coins.h"
 
-int main() { solution::addStrings("11", "123"); }
+int main() { solution::arrangeCoins(5); }

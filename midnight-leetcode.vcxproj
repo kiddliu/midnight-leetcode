@@ -145,6 +145,7 @@
     <ClInclude Include="add-binary.h" />
     <ClInclude Include="add-digits.h" />
     <ClInclude Include="add-strings.h" />
+    <ClInclude Include="arranging-coins.h" />
     <ClInclude Include="balanced-binary-tree.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock-ii.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock.h" />
@@ -195,6 +196,7 @@
     <ClInclude Include="move-zeroes.h" />
     <ClInclude Include="nim-game.h" />
     <ClInclude Include="number-of-1-bits.h" />
+    <ClInclude Include="number-of-segments-in-a-string.h" />
     <ClInclude Include="palindrome-linked-list.h" />
     <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="pascals-triangle-ii.h" />

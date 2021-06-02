@@ -299,6 +299,12 @@
     <ClInclude Include="add-strings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="number-of-segments-in-a-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="arranging-coins.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
