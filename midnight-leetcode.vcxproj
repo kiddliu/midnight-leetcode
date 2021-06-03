@@ -164,6 +164,7 @@
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
+    <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-the-difference.h" />
     <ClInclude Include="first-bad-version.h" />
     <ClInclude Include="first-unique-character-in-a-string.h" />
@@ -192,6 +193,7 @@
     <ClInclude Include="merge-two-sorted-lists.h" />
     <ClInclude Include="min-stack.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
+    <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
     <ClInclude Include="missing-number.h" />
     <ClInclude Include="move-zeroes.h" />
     <ClInclude Include="nim-game.h" />

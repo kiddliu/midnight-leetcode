@@ -305,6 +305,12 @@
     <ClInclude Include="arranging-coins.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-all-numbers-disappeared-in-an-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="minimum-moves-to-equal-array-elements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -10,6 +10,9 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "arranging-coins.h"
+#include "find-all-numbers-disappeared-in-an-array.h"
 
-int main() { solution::arrangeCoins(5); }
+int main() {
+  std::vector<int> v{1, 1};
+  solution::findDisappearedNumbers(v);
+}
