@@ -10,9 +10,9 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "find-all-numbers-disappeared-in-an-array.h"
+#include "repeated-substring-pattern.h"
 
 int main() {
-  std::vector<int> v{1, 1};
-  solution::findDisappearedNumbers(v);
+  std::vector<int> v1{1, 2}, v2{1, 2, 3};
+  solution::repeatedSubstringPattern("abcabc");
 }

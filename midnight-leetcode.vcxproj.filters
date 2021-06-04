@@ -311,6 +311,12 @@
     <ClInclude Include="minimum-moves-to-equal-array-elements.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="assign-cookies.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="repeated-substring-pattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

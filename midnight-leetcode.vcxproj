@@ -146,6 +146,7 @@
     <ClInclude Include="add-digits.h" />
     <ClInclude Include="add-strings.h" />
     <ClInclude Include="arranging-coins.h" />
+    <ClInclude Include="assign-cookies.h" />
     <ClInclude Include="balanced-binary-tree.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock-ii.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock.h" />
@@ -214,6 +215,7 @@
     <ClInclude Include="remove-duplicates-from-sorted-list.h" />
     <ClInclude Include="remove-element.h" />
     <ClInclude Include="remove-linked-list-elements.h" />
+    <ClInclude Include="repeated-substring-pattern.h" />
     <ClInclude Include="reverse-bits.h" />
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="reverse-linked-list.h" />
