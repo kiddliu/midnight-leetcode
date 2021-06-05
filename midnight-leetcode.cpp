@@ -10,9 +10,9 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "repeated-substring-pattern.h"
+#include "island-perimeter.h"
 
 int main() {
-  std::vector<int> v1{1, 2}, v2{1, 2, 3};
-  solution::repeatedSubstringPattern("abcabc");
+  std::vector<std::vector<int>> v{{0, 1}};
+  solution::islandPerimeter(v);
 }

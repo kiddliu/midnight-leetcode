@@ -171,6 +171,7 @@
     <ClInclude Include="first-unique-character-in-a-string.h" />
     <ClInclude Include="fizz-buzz.h" />
     <ClInclude Include="guess-number-higher-or-lower.h" />
+    <ClInclude Include="hamming-distance.h" />
     <ClInclude Include="happy-number.h" />
     <ClInclude Include="implement-queue-using-stacks.h" />
     <ClInclude Include="implement-stack-using-queues.h" />
@@ -180,6 +181,7 @@
     <ClInclude Include="intersection-of-two-linked-lists.h" />
     <ClInclude Include="invert-binary-tree.h" />
     <ClInclude Include="is-subsequence.h" />
+    <ClInclude Include="island-perimeter.h" />
     <ClInclude Include="isomorphic-strings.h" />
     <ClInclude Include="length-of-last-word.h" />
     <ClInclude Include="linked-list-cycle.h" />

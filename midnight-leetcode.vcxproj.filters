@@ -317,6 +317,12 @@
     <ClInclude Include="repeated-substring-pattern.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="hamming-distance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="island-perimeter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
