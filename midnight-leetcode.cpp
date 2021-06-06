@@ -10,9 +10,9 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "island-perimeter.h"
+#include "license-key-formatting.h"
 
 int main() {
   std::vector<std::vector<int>> v{{0, 1}};
-  solution::islandPerimeter(v);
+  solution::licenseKeyFormatting("2-5g-3-J", 2);
 }

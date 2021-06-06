@@ -184,6 +184,7 @@
     <ClInclude Include="island-perimeter.h" />
     <ClInclude Include="isomorphic-strings.h" />
     <ClInclude Include="length-of-last-word.h" />
+    <ClInclude Include="license-key-formatting.h" />
     <ClInclude Include="linked-list-cycle.h" />
     <ClInclude Include="list-node.h" />
     <ClInclude Include="longest-common-prefix.h" />
@@ -200,6 +201,7 @@
     <ClInclude Include="missing-number.h" />
     <ClInclude Include="move-zeroes.h" />
     <ClInclude Include="nim-game.h" />
+    <ClInclude Include="number-complement.h" />
     <ClInclude Include="number-of-1-bits.h" />
     <ClInclude Include="number-of-segments-in-a-string.h" />
     <ClInclude Include="palindrome-linked-list.h" />
