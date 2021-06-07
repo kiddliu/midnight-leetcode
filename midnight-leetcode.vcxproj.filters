@@ -329,6 +329,12 @@
     <ClInclude Include="license-key-formatting.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="max-consecutive-ones.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="construct-the-rectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

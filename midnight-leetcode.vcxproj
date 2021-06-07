@@ -156,6 +156,7 @@
     <ClInclude Include="binary-tree-preorder-traversal.h" />
     <ClInclude Include="binary-watch.h" />
     <ClInclude Include="climbing-stairs.h" />
+    <ClInclude Include="construct-the-rectangle.h" />
     <ClInclude Include="contains-duplicate-ii.h" />
     <ClInclude Include="contains-duplicate.h" />
     <ClInclude Include="convert-a-number-to-hexadecimal.h" />
@@ -191,6 +192,7 @@
     <ClInclude Include="longest-palindrome.h" />
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
     <ClInclude Include="majority-element.h" />
+    <ClInclude Include="max-consecutive-ones.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
     <ClInclude Include="maximum-subarray.h" />
     <ClInclude Include="merge-sorted-array.h" />
