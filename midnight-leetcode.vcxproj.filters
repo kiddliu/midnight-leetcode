@@ -335,6 +335,12 @@
     <ClInclude Include="construct-the-rectangle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="teemo-attacking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="next-greater-element-i.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
