@@ -167,6 +167,7 @@
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
+    <ClInclude Include="find-mode-in-binary-search-tree.h" />
     <ClInclude Include="find-the-difference.h" />
     <ClInclude Include="first-bad-version.h" />
     <ClInclude Include="first-unique-character-in-a-string.h" />
@@ -184,6 +185,7 @@
     <ClInclude Include="is-subsequence.h" />
     <ClInclude Include="island-perimeter.h" />
     <ClInclude Include="isomorphic-strings.h" />
+    <ClInclude Include="keyboard-row.h" />
     <ClInclude Include="length-of-last-word.h" />
     <ClInclude Include="license-key-formatting.h" />
     <ClInclude Include="linked-list-cycle.h" />
