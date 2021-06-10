@@ -10,9 +10,9 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "find-mode-in-binary-search-tree.h"
+#include "relative-ranks.h"
 
-int main() { 
-  auto n = new TreeNode(0);
-  solution::findMode(n); 
+int main() {
+  std::vector<int> v{10, 3, 8, 9, 4};
+  solution::findRelativeRanks(v); 
 }

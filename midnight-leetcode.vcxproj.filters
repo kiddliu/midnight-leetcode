@@ -347,6 +347,12 @@
     <ClInclude Include="find-mode-in-binary-search-tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="base-7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="relative-ranks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
