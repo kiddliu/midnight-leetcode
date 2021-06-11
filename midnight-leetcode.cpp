@@ -10,9 +10,6 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "relative-ranks.h"
+#include "fibonacci-number.h"
 
-int main() {
-  std::vector<int> v{10, 3, 8, 9, 4};
-  solution::findRelativeRanks(v); 
-}
+int main() { assert(solution::fib(30) == 832040); }

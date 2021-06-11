@@ -353,6 +353,12 @@
     <ClInclude Include="relative-ranks.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="perfect-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fibonacci-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

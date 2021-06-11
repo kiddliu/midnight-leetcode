@@ -167,6 +167,7 @@
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
+    <ClInclude Include="fibonacci-number.h" />
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
     <ClInclude Include="find-the-difference.h" />
@@ -215,6 +216,7 @@
     <ClInclude Include="pascals-triangle-ii.h" />
     <ClInclude Include="pascals-triangle.h" />
     <ClInclude Include="path-sum.h" />
+    <ClInclude Include="perfect-number.h" />
     <ClInclude Include="plus-one.h" />
     <ClInclude Include="power-of-four.h" />
     <ClInclude Include="power-of-three.h" />
