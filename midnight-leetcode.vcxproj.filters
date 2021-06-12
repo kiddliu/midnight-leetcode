@@ -359,6 +359,12 @@
     <ClInclude Include="fibonacci-number.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="detect-capital.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="longest-uncommon-subsequence-i.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -164,6 +164,7 @@
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
+    <ClInclude Include="detect-capital.h" />
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
@@ -194,6 +195,7 @@
     <ClInclude Include="list-node.h" />
     <ClInclude Include="longest-common-prefix.h" />
     <ClInclude Include="longest-palindrome.h" />
+    <ClInclude Include="longest-uncommon-subsequence-i.h" />
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
     <ClInclude Include="majority-element.h" />
     <ClInclude Include="max-consecutive-ones.h" />
