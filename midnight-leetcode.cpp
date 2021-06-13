@@ -10,6 +10,11 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "fibonacci-number.h"
+#include "minimum-absolute-difference-in-bst.h"
 
-int main() { assert(solution::fib(30) == 832040); }
+int main() {
+  auto n = new TreeNode(543,
+                        new TreeNode(384, nullptr, new TreeNode(445)),
+                        new TreeNode(652, nullptr, new TreeNode(699)));
+  return solution::getMinimumDifference(n);
+}

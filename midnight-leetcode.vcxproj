@@ -204,6 +204,7 @@
     <ClInclude Include="merge-sorted-array.h" />
     <ClInclude Include="merge-two-sorted-lists.h" />
     <ClInclude Include="min-stack.h" />
+    <ClInclude Include="minimum-absolute-difference-in-bst.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
     <ClInclude Include="missing-number.h" />
@@ -234,6 +235,7 @@
     <ClInclude Include="reverse-bits.h" />
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="reverse-linked-list.h" />
+    <ClInclude Include="reverse-string-ii.h" />
     <ClInclude Include="reverse-string.h" />
     <ClInclude Include="reverse-vowels-of-a-string.h" />
     <ClInclude Include="roman-to-integer.h" />

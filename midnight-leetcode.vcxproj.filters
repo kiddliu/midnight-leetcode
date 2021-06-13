@@ -365,6 +365,12 @@
     <ClInclude Include="longest-uncommon-subsequence-i.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="minimum-absolute-difference-in-bst.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="reverse-string-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
