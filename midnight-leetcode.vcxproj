@@ -165,6 +165,7 @@
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
     <ClInclude Include="detect-capital.h" />
+    <ClInclude Include="diameter-of-binary-tree.h" />
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
@@ -243,6 +244,7 @@
     <ClInclude Include="search-insert-position.h" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="sqrtx.h" />
+    <ClInclude Include="student-attendance-record-i.h" />
     <ClInclude Include="sum-of-left-leaves.h" />
     <ClInclude Include="summary-ranges.h" />
     <ClInclude Include="symmetric-tree.h" />

@@ -371,6 +371,12 @@
     <ClInclude Include="reverse-string-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="diameter-of-binary-tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="student-attendance-record-i.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
