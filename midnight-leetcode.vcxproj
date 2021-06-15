@@ -201,6 +201,7 @@
     <ClInclude Include="majority-element.h" />
     <ClInclude Include="max-consecutive-ones.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
+    <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
     <ClInclude Include="maximum-subarray.h" />
     <ClInclude Include="merge-sorted-array.h" />
     <ClInclude Include="merge-two-sorted-lists.h" />
@@ -212,6 +213,7 @@
     <ClInclude Include="move-zeroes.h" />
     <ClInclude Include="next-greater-element-i.h" />
     <ClInclude Include="nim-game.h" />
+    <ClInclude Include="node.h" />
     <ClInclude Include="number-complement.h" />
     <ClInclude Include="number-of-1-bits.h" />
     <ClInclude Include="number-of-segments-in-a-string.h" />
