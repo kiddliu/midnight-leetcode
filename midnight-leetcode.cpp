@@ -10,11 +10,8 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "minimum-absolute-difference-in-bst.h"
+#include "reverse-words-in-a-string-iii.h"
 
 int main() {
-  auto n = new TreeNode(543,
-                        new TreeNode(384, nullptr, new TreeNode(445)),
-                        new TreeNode(652, nullptr, new TreeNode(699)));
-  return solution::getMinimumDifference(n);
+  solution::reverseWords("Let's take LeetCode contest");
 }

@@ -239,6 +239,7 @@
     <ClInclude Include="reverse-string-ii.h" />
     <ClInclude Include="reverse-string.h" />
     <ClInclude Include="reverse-vowels-of-a-string.h" />
+    <ClInclude Include="reverse-words-in-a-string-iii.h" />
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-insert-position.h" />
