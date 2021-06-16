@@ -386,6 +386,12 @@
     <ClInclude Include="node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="array-partition-i.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="binary-tree-tilt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

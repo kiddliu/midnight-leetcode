@@ -146,6 +146,7 @@
     <ClInclude Include="add-digits.h" />
     <ClInclude Include="add-strings.h" />
     <ClInclude Include="arranging-coins.h" />
+    <ClInclude Include="array-partition-i.h" />
     <ClInclude Include="assign-cookies.h" />
     <ClInclude Include="balanced-binary-tree.h" />
     <ClInclude Include="base-7.h" />
@@ -155,6 +156,7 @@
     <ClInclude Include="binary-tree-paths.h" />
     <ClInclude Include="binary-tree-postorder-traversal.h" />
     <ClInclude Include="binary-tree-preorder-traversal.h" />
+    <ClInclude Include="binary-tree-tilt.h" />
     <ClInclude Include="binary-watch.h" />
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="construct-the-rectangle.h" />
