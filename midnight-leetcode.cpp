@@ -10,8 +10,9 @@
 #include "list-node.h"
 #include "tree-node.h"
 
-#include "reverse-words-in-a-string-iii.h"
+#include "reshape-the-matrix.h"
 
 int main() {
-  solution::reverseWords("Let's take LeetCode contest");
+  std::vector<std::vector<int>> v{{1, 2}, {3, 4}};
+  solution::matrixReshape(v, 1, 4);
 }

@@ -237,6 +237,7 @@
     <ClInclude Include="remove-element.h" />
     <ClInclude Include="remove-linked-list-elements.h" />
     <ClInclude Include="repeated-substring-pattern.h" />
+    <ClInclude Include="reshape-the-matrix.h" />
     <ClInclude Include="reverse-bits.h" />
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="reverse-linked-list.h" />
@@ -250,6 +251,7 @@
     <ClInclude Include="single-number.h" />
     <ClInclude Include="sqrtx.h" />
     <ClInclude Include="student-attendance-record-i.h" />
+    <ClInclude Include="subtree-of-another-tree.h" />
     <ClInclude Include="sum-of-left-leaves.h" />
     <ClInclude Include="summary-ranges.h" />
     <ClInclude Include="symmetric-tree.h" />
