@@ -8,11 +8,12 @@
 #include <vector>
 
 #include "list-node.h"
+#include "node.h"
 #include "tree-node.h"
 
-#include "reshape-the-matrix.h"
+#include "n-ary-tree-preorder-traversal.h"
 
 int main() {
-  std::vector<std::vector<int>> v{{1, 2}, {3, 4}};
-  solution::matrixReshape(v, 1, 4);
+  auto n = new Node(1, std::vector<Node*>{new Node(3, std::vector<Node*>(new Node(5), new Node(6))), new Node(2), new Node(4)});
+  solution::preorder(n);
 }

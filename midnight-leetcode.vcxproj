@@ -168,6 +168,7 @@
     <ClInclude Include="delete-node-in-a-linked-list.h" />
     <ClInclude Include="detect-capital.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
+    <ClInclude Include="distribute-candies.h" />
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
@@ -213,6 +214,7 @@
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
     <ClInclude Include="missing-number.h" />
     <ClInclude Include="move-zeroes.h" />
+    <ClInclude Include="n-ary-tree-preorder-traversal.h" />
     <ClInclude Include="next-greater-element-i.h" />
     <ClInclude Include="nim-game.h" />
     <ClInclude Include="node.h" />
