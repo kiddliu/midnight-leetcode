@@ -404,6 +404,12 @@
     <ClInclude Include="n-ary-tree-preorder-traversal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="n-ary-tree-postorder-traversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="longest-harmonious-subsequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

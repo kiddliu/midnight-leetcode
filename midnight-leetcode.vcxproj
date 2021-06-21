@@ -198,6 +198,7 @@
     <ClInclude Include="linked-list-cycle.h" />
     <ClInclude Include="list-node.h" />
     <ClInclude Include="longest-common-prefix.h" />
+    <ClInclude Include="longest-harmonious-subsequence.h" />
     <ClInclude Include="longest-palindrome.h" />
     <ClInclude Include="longest-uncommon-subsequence-i.h" />
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
@@ -214,6 +215,7 @@
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
     <ClInclude Include="missing-number.h" />
     <ClInclude Include="move-zeroes.h" />
+    <ClInclude Include="n-ary-tree-postorder-traversal.h" />
     <ClInclude Include="n-ary-tree-preorder-traversal.h" />
     <ClInclude Include="next-greater-element-i.h" />
     <ClInclude Include="nim-game.h" />
