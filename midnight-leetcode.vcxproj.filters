@@ -442,5 +442,8 @@
     <None Include="big-countries.sql">
       <Filter>SQL Files</Filter>
     </None>
+    <None Include="classes-more-than-5-students.sql">
+      <Filter>SQL Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
