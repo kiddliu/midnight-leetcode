@@ -212,6 +212,7 @@
     <ClInclude Include="min-stack.h" />
     <ClInclude Include="minimum-absolute-difference-in-bst.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
+    <ClInclude Include="minimum-index-sum-of-two-lists.h" />
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
     <ClInclude Include="missing-number.h" />
     <ClInclude Include="move-zeroes.h" />
@@ -233,6 +234,7 @@
     <ClInclude Include="power-of-four.h" />
     <ClInclude Include="power-of-three.h" />
     <ClInclude Include="power-of-two.h" />
+    <ClInclude Include="range-addition-ii.h" />
     <ClInclude Include="range-sum-query-immutable.h" />
     <ClInclude Include="ransom-note.h" />
     <ClInclude Include="relative-ranks.h" />

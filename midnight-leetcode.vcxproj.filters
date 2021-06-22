@@ -410,6 +410,12 @@
     <ClInclude Include="longest-harmonious-subsequence.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="range-addition-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="minimum-index-sum-of-two-lists.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
