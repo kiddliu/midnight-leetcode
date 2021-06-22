@@ -439,5 +439,8 @@
     <None Include="rising-temperature.sql">
       <Filter>SQL Files</Filter>
     </None>
+    <None Include="big-countries.sql">
+      <Filter>SQL Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
