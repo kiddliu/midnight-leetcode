@@ -158,7 +158,9 @@
     <ClInclude Include="binary-tree-preorder-traversal.h" />
     <ClInclude Include="binary-tree-tilt.h" />
     <ClInclude Include="binary-watch.h" />
+    <ClInclude Include="can-place-flowers.h" />
     <ClInclude Include="climbing-stairs.h" />
+    <ClInclude Include="construct-string-from-binary-tree.h" />
     <ClInclude Include="construct-the-rectangle.h" />
     <ClInclude Include="contains-duplicate-ii.h" />
     <ClInclude Include="contains-duplicate.h" />

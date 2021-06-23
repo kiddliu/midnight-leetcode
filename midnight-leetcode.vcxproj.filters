@@ -416,6 +416,12 @@
     <ClInclude Include="minimum-index-sum-of-two-lists.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="can-place-flowers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="construct-string-from-binary-tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
