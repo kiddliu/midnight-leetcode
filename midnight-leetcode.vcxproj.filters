@@ -422,6 +422,9 @@
     <ClInclude Include="construct-string-from-binary-tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="merge-two-binary-trees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
@@ -455,6 +458,9 @@
       <Filter>SQL Files</Filter>
     </None>
     <None Include="classes-more-than-5-students.sql">
+      <Filter>SQL Files</Filter>
+    </None>
+    <None Include="not-boring-movies.sql">
       <Filter>SQL Files</Filter>
     </None>
   </ItemGroup>

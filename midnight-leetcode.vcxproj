@@ -210,6 +210,7 @@
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
     <ClInclude Include="maximum-subarray.h" />
     <ClInclude Include="merge-sorted-array.h" />
+    <ClInclude Include="merge-two-binary-trees.h" />
     <ClInclude Include="merge-two-sorted-lists.h" />
     <ClInclude Include="min-stack.h" />
     <ClInclude Include="minimum-absolute-difference-in-bst.h" />
@@ -283,6 +284,7 @@
     <None Include="delete-duplicate-emails.sql" />
     <None Include="duplicate-emails.sql" />
     <None Include="employees-earning-more-than-their-managers.sql" />
+    <None Include="not-boring-movies.sql" />
     <None Include="rising-temperature.sql" />
     <None Include="second-highest-salary.sql" />
     <None Include="tenth-line.sh" />
