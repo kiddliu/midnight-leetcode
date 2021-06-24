@@ -425,6 +425,9 @@
     <ClInclude Include="merge-two-binary-trees.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="maximum-product-of-three-numbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
@@ -461,6 +464,9 @@
       <Filter>SQL Files</Filter>
     </None>
     <None Include="not-boring-movies.sql">
+      <Filter>SQL Files</Filter>
+    </None>
+    <None Include="swap-salary.sql">
       <Filter>SQL Files</Filter>
     </None>
   </ItemGroup>
