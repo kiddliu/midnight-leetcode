@@ -428,6 +428,12 @@
     <ClInclude Include="maximum-product-of-three-numbers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="average-of-levels-in-binary-tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="maximum-average-subarray-i.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

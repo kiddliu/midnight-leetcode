@@ -148,6 +148,7 @@
     <ClInclude Include="arranging-coins.h" />
     <ClInclude Include="array-partition-i.h" />
     <ClInclude Include="assign-cookies.h" />
+    <ClInclude Include="average-of-levels-in-binary-tree.h" />
     <ClInclude Include="balanced-binary-tree.h" />
     <ClInclude Include="base-7.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock-ii.h" />
@@ -206,6 +207,7 @@
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
     <ClInclude Include="majority-element.h" />
     <ClInclude Include="max-consecutive-ones.h" />
+    <ClInclude Include="maximum-average-subarray-i.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
     <ClInclude Include="maximum-product-of-three-numbers.h" />
