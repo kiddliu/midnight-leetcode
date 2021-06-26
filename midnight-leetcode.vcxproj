@@ -260,6 +260,7 @@
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-insert-position.h" />
+    <ClInclude Include="set-mismatch.h" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="sqrtx.h" />
     <ClInclude Include="student-attendance-record-i.h" />
@@ -271,6 +272,7 @@
     <ClInclude Include="third-maximum-number.h" />
     <ClInclude Include="tree-node.h" />
     <ClInclude Include="two-sum-ii-input-array-is-sorted.h" />
+    <ClInclude Include="two-sum-iv-input-is-a-bst.h" />
     <ClInclude Include="two-sum.h" />
     <ClInclude Include="ugly-number.h" />
     <ClInclude Include="valid-anagram.h" />

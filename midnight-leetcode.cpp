@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "n-ary-tree-preorder-traversal.h"
+#include "set-mismatch.h"
 
 int main() {
-  auto n = new Node(1, std::vector<Node*>{new Node(3, std::vector<Node*>(new Node(5), new Node(6))), new Node(2), new Node(4)});
-  solution::preorder(n);
+  std::vector<int> v{8, 7, 3, 5, 3, 6, 1, 4};
+  solution::findErrorNums(v);
 }

@@ -434,6 +434,12 @@
     <ClInclude Include="maximum-average-subarray-i.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="set-mismatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="two-sum-iv-input-is-a-bst.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
