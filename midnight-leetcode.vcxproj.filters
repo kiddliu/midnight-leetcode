@@ -440,6 +440,12 @@
     <ClInclude Include="two-sum-iv-input-is-a-bst.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="robot-return-to-origin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="image-smoother.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
