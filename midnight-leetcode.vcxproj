@@ -202,6 +202,7 @@
     <ClInclude Include="linked-list-cycle.h" />
     <ClInclude Include="list-node.h" />
     <ClInclude Include="longest-common-prefix.h" />
+    <ClInclude Include="longest-continuous-increasing-subsequence.h" />
     <ClInclude Include="longest-harmonious-subsequence.h" />
     <ClInclude Include="longest-palindrome.h" />
     <ClInclude Include="longest-uncommon-subsequence-i.h" />
@@ -262,6 +263,7 @@
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-insert-position.h" />
+    <ClInclude Include="second-minimum-node-in-a-binary-tree.h" />
     <ClInclude Include="set-mismatch.h" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="sqrtx.h" />

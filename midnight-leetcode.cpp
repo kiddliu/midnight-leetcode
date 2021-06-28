@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "set-mismatch.h"
+#include "longest-continuous-increasing-subsequence.h"
 
 int main() {
-  std::vector<int> v{8, 7, 3, 5, 3, 6, 1, 4};
-  solution::findErrorNums(v);
+  std::vector<int> v{1, 3, 5, 4, 2, 3, 4, 5};
+  solution::findLengthOfLCIS(v);
 }

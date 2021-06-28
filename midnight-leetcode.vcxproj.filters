@@ -446,6 +446,12 @@
     <ClInclude Include="image-smoother.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="second-minimum-node-in-a-binary-tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="longest-continuous-increasing-subsequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
