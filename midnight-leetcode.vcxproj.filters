@@ -452,6 +452,12 @@
     <ClInclude Include="longest-continuous-increasing-subsequence.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="valid-palindrome-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="baseball-game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

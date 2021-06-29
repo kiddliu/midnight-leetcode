@@ -11,9 +11,10 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "longest-continuous-increasing-subsequence.h"
+#include "valid-palindrome-ii.h"
 
 int main() {
-  std::vector<int> v{1, 3, 5, 4, 2, 3, 4, 5};
-  solution::findLengthOfLCIS(v);
+  std::string s{
+      "aguokepatgbnvfqmgmlcupuufxoohdfpgjdmysgvhmvffcnqxjjxqncffvmhvgsymdjgpfdhooxfuupuculmgmqfvnbgtapekouga"};
+  solution::validPalindrome(s);
 }

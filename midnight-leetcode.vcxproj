@@ -151,6 +151,7 @@
     <ClInclude Include="average-of-levels-in-binary-tree.h" />
     <ClInclude Include="balanced-binary-tree.h" />
     <ClInclude Include="base-7.h" />
+    <ClInclude Include="baseball-game.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock-ii.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock.h" />
     <ClInclude Include="binary-tree-inorder-traversal.h" />
@@ -280,6 +281,7 @@
     <ClInclude Include="two-sum.h" />
     <ClInclude Include="ugly-number.h" />
     <ClInclude Include="valid-anagram.h" />
+    <ClInclude Include="valid-palindrome-ii.h" />
     <ClInclude Include="valid-palindrome.h" />
     <ClInclude Include="valid-parentheses.h" />
     <ClInclude Include="valid-perfect-square.h" />
