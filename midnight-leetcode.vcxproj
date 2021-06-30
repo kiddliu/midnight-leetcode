@@ -154,6 +154,7 @@
     <ClInclude Include="baseball-game.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock-ii.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock.h" />
+    <ClInclude Include="binary-number-with-alternating-bits.h" />
     <ClInclude Include="binary-tree-inorder-traversal.h" />
     <ClInclude Include="binary-tree-paths.h" />
     <ClInclude Include="binary-tree-postorder-traversal.h" />
@@ -173,6 +174,8 @@
     <ClInclude Include="detect-capital.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
     <ClInclude Include="distribute-candies.h" />
+    <ClInclude Include="employee-importance.h" />
+    <ClInclude Include="employee.h" />
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />

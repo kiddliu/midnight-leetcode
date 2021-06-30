@@ -458,6 +458,15 @@
     <ClInclude Include="baseball-game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="employee-importance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="employee.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="binary-number-with-alternating-bits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
