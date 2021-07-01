@@ -169,7 +169,9 @@
     <ClInclude Include="contains-duplicate.h" />
     <ClInclude Include="convert-a-number-to-hexadecimal.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
+    <ClInclude Include="count-binary-substrings.h" />
     <ClInclude Include="count-primes.h" />
+    <ClInclude Include="degree-of-an-array.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
     <ClInclude Include="detect-capital.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />

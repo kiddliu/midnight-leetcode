@@ -11,10 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "valid-palindrome-ii.h"
+#include "degree-of-an-array.h"
 
 int main() {
-  std::string s{
-      "aguokepatgbnvfqmgmlcupuufxoohdfpgjdmysgvhmvffcnqxjjxqncffvmhvgsymdjgpfdhooxfuupuculmgmqfvnbgtapekouga"};
-  solution::validPalindrome(s);
+  std::vector<int> v{1, 2, 2, 3, 1};
+  solution::findShortestSubArray(v);
 }
