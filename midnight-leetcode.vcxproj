@@ -203,6 +203,7 @@
     <ClInclude Include="island-perimeter.h" />
     <ClInclude Include="isomorphic-strings.h" />
     <ClInclude Include="keyboard-row.h" />
+    <ClInclude Include="kth-largest-element-in-a-stream.h" />
     <ClInclude Include="length-of-last-word.h" />
     <ClInclude Include="license-key-formatting.h" />
     <ClInclude Include="linked-list-cycle.h" />
@@ -268,6 +269,7 @@
     <ClInclude Include="robot-return-to-origin.h" />
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="same-tree.h" />
+    <ClInclude Include="search-in-a-binary-search-tree.h" />
     <ClInclude Include="search-insert-position.h" />
     <ClInclude Include="second-minimum-node-in-a-binary-tree.h" />
     <ClInclude Include="set-mismatch.h" />
