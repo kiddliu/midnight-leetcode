@@ -479,6 +479,12 @@
     <ClInclude Include="kth-largest-element-in-a-stream.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="binary-search.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="design-hashset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

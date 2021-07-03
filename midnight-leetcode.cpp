@@ -11,9 +11,18 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "degree-of-an-array.h"
+#include "design-hashset.h"
 
 int main() {
-  std::vector<int> v{1, 2, 2, 3, 1};
-  solution::findShortestSubArray(v);
+  using namespace solution;
+
+  MyHashSet* myHashSet = new MyHashSet();
+  myHashSet->add(1);       // set = [1]
+  myHashSet->add(2);       // set = [1, 2]
+  myHashSet->contains(1);  // return True
+  myHashSet->contains(3);  // return False, (not found)
+  myHashSet->add(2);       // set = [1, 2]
+  myHashSet->contains(2);  // return True
+  myHashSet->remove(2);    // set = [1]
+  myHashSet->contains(2);  // return False, (already removed)
 }

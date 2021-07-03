@@ -155,6 +155,7 @@
     <ClInclude Include="best-time-to-buy-and-sell-stock-ii.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock.h" />
     <ClInclude Include="binary-number-with-alternating-bits.h" />
+    <ClInclude Include="binary-search.h" />
     <ClInclude Include="binary-tree-inorder-traversal.h" />
     <ClInclude Include="binary-tree-paths.h" />
     <ClInclude Include="binary-tree-postorder-traversal.h" />
@@ -173,6 +174,7 @@
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="degree-of-an-array.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
+    <ClInclude Include="design-hashset.h" />
     <ClInclude Include="detect-capital.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
     <ClInclude Include="distribute-candies.h" />
