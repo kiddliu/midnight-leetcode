@@ -174,6 +174,7 @@
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="degree-of-an-array.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
+    <ClInclude Include="design-hashmap.h" />
     <ClInclude Include="design-hashset.h" />
     <ClInclude Include="detect-capital.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
