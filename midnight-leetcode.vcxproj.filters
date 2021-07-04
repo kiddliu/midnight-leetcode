@@ -488,6 +488,9 @@
     <ClInclude Include="design-hashmap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="to-lower-case.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

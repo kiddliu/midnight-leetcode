@@ -285,6 +285,7 @@
     <ClInclude Include="symmetric-tree.h" />
     <ClInclude Include="teemo-attacking.h" />
     <ClInclude Include="third-maximum-number.h" />
+    <ClInclude Include="to-lower-case.h" />
     <ClInclude Include="tree-node.h" />
     <ClInclude Include="two-sum-ii-input-array-is-sorted.h" />
     <ClInclude Include="two-sum-iv-input-is-a-bst.h" />
