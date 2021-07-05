@@ -142,6 +142,7 @@
     <ClCompile Include="midnight-leetcode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="1-bit-and-2-bit-characters.h" />
     <ClInclude Include="add-binary.h" />
     <ClInclude Include="add-digits.h" />
     <ClInclude Include="add-strings.h" />
@@ -187,6 +188,7 @@
     <ClInclude Include="fibonacci-number.h" />
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
+    <ClInclude Include="find-pivot-index.h" />
     <ClInclude Include="find-the-difference.h" />
     <ClInclude Include="first-bad-version.h" />
     <ClInclude Include="first-unique-character-in-a-string.h" />
