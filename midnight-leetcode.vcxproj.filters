@@ -497,6 +497,12 @@
     <ClInclude Include="find-pivot-index.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="self-dividing-numbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flood-fill.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
