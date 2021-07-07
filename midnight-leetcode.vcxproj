@@ -189,6 +189,7 @@
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
     <ClInclude Include="find-pivot-index.h" />
+    <ClInclude Include="find-smallest-letter-greater-than-target.h" />
     <ClInclude Include="find-the-difference.h" />
     <ClInclude Include="first-bad-version.h" />
     <ClInclude Include="first-unique-character-in-a-string.h" />
@@ -230,6 +231,7 @@
     <ClInclude Include="merge-sorted-array.h" />
     <ClInclude Include="merge-two-binary-trees.h" />
     <ClInclude Include="merge-two-sorted-lists.h" />
+    <ClInclude Include="min-cost-climbing-stairs.h" />
     <ClInclude Include="min-stack.h" />
     <ClInclude Include="minimum-absolute-difference-in-bst.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />

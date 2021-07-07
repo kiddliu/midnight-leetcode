@@ -503,6 +503,12 @@
     <ClInclude Include="flood-fill.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-smallest-letter-greater-than-target.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="min-cost-climbing-stairs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
