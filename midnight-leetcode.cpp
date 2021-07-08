@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "min-cost-climbing-stairs.h"
+#include "shortest-completing-word.h"
 
 int main() {
-  std::vector<int> v{1, 100, 1, 1, 1, 100, 1, 1, 100, 1};
-  solution::minCostClimbingStairs(v);
+  std::vector<std::string> v{"step", "steps", "stripe", "stepple"};
+  solution::shortestCompletingWord("1s3 PSt", v);
 }

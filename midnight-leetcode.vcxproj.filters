@@ -509,6 +509,12 @@
     <ClInclude Include="min-cost-climbing-stairs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="largest-number-at-least-twice-of-others.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shortest-completing-word.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

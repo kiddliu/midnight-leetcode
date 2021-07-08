@@ -211,6 +211,7 @@
     <ClInclude Include="isomorphic-strings.h" />
     <ClInclude Include="keyboard-row.h" />
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
+    <ClInclude Include="largest-number-at-least-twice-of-others.h" />
     <ClInclude Include="length-of-last-word.h" />
     <ClInclude Include="license-key-formatting.h" />
     <ClInclude Include="linked-list-cycle.h" />
@@ -282,6 +283,7 @@
     <ClInclude Include="second-minimum-node-in-a-binary-tree.h" />
     <ClInclude Include="self-dividing-numbers.h" />
     <ClInclude Include="set-mismatch.h" />
+    <ClInclude Include="shortest-completing-word.h" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="sqrtx.h" />
     <ClInclude Include="student-attendance-record-i.h" />
