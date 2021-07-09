@@ -258,6 +258,7 @@
     <ClInclude Include="power-of-four.h" />
     <ClInclude Include="power-of-three.h" />
     <ClInclude Include="power-of-two.h" />
+    <ClInclude Include="prime-number-of-set-bits-in-binary-representation.h" />
     <ClInclude Include="range-addition-ii.h" />
     <ClInclude Include="range-sum-query-immutable.h" />
     <ClInclude Include="ransom-note.h" />
@@ -294,6 +295,7 @@
     <ClInclude Include="teemo-attacking.h" />
     <ClInclude Include="third-maximum-number.h" />
     <ClInclude Include="to-lower-case.h" />
+    <ClInclude Include="toeplitz-matrix.h" />
     <ClInclude Include="tree-node.h" />
     <ClInclude Include="two-sum-ii-input-array-is-sorted.h" />
     <ClInclude Include="two-sum-iv-input-is-a-bst.h" />

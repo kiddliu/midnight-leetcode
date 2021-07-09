@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "shortest-completing-word.h"
+#include "toeplitz-matrix.h"
 
 int main() {
-  std::vector<std::string> v{"step", "steps", "stripe", "stepple"};
-  solution::shortestCompletingWord("1s3 PSt", v);
+  std::vector<std::vector<int>> v{{1, 2, 3, 4}, {5, 1, 2, 3}, {9, 5, 1, 2}};
+  solution::isToeplitzMatrix(v);
 }

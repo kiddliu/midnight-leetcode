@@ -515,6 +515,12 @@
     <ClInclude Include="shortest-completing-word.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="prime-number-of-set-bits-in-binary-representation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="toeplitz-matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
