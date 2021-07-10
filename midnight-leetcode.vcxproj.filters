@@ -521,6 +521,15 @@
     <ClInclude Include="toeplitz-matrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="jewels-and-stones.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="minimum-distance-between-bst-nodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rotated-digits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
