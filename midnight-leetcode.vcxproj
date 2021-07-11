@@ -280,6 +280,7 @@
     <ClInclude Include="reverse-words-in-a-string-iii.h" />
     <ClInclude Include="robot-return-to-origin.h" />
     <ClInclude Include="roman-to-integer.h" />
+    <ClInclude Include="rotate-string.h" />
     <ClInclude Include="rotated-digits.h" />
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-in-a-binary-search-tree.h" />
@@ -304,6 +305,7 @@
     <ClInclude Include="two-sum-iv-input-is-a-bst.h" />
     <ClInclude Include="two-sum.h" />
     <ClInclude Include="ugly-number.h" />
+    <ClInclude Include="unique-morse-code-words.h" />
     <ClInclude Include="valid-anagram.h" />
     <ClInclude Include="valid-palindrome-ii.h" />
     <ClInclude Include="valid-palindrome.h" />

@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "toeplitz-matrix.h"
+#include "unique-morse-code-words.h"
 
 int main() {
-  std::vector<std::vector<int>> v{{1, 2, 3, 4}, {5, 1, 2, 3}, {9, 5, 1, 2}};
-  solution::isToeplitzMatrix(v);
+  std::vector<std::string> v{"gin", "zen", "gig", "msg"};
+  solution::uniqueMorseRepresentations(v);
 }

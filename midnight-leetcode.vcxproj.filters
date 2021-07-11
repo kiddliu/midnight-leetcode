@@ -530,6 +530,12 @@
     <ClInclude Include="rotated-digits.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="rotate-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="unique-morse-code-words.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
