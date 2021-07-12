@@ -249,6 +249,7 @@
     <ClInclude Include="node.h" />
     <ClInclude Include="number-complement.h" />
     <ClInclude Include="number-of-1-bits.h" />
+    <ClInclude Include="number-of-lines-to-write-string.h" />
     <ClInclude Include="number-of-segments-in-a-string.h" />
     <ClInclude Include="palindrome-linked-list.h" />
     <ClInclude Include="palindrome-number.h" />
@@ -292,6 +293,7 @@
     <ClInclude Include="single-number.h" />
     <ClInclude Include="sqrtx.h" />
     <ClInclude Include="student-attendance-record-i.h" />
+    <ClInclude Include="subdomain-visit-count.h" />
     <ClInclude Include="subtree-of-another-tree.h" />
     <ClInclude Include="sum-of-left-leaves.h" />
     <ClInclude Include="summary-ranges.h" />

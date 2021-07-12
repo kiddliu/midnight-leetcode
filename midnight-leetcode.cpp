@@ -11,9 +11,10 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "unique-morse-code-words.h"
+#include "subdomain-visit-count.h"
 
 int main() {
-  std::vector<std::string> v{"gin", "zen", "gig", "msg"};
-  solution::uniqueMorseRepresentations(v);
+  std::vector<std::string> v{"900 google.mail.com", "50 yahoo.com",
+                             "1 intel.mail.com", "5 wiki.org"};
+  solution::subdomainVisits(v);
 }

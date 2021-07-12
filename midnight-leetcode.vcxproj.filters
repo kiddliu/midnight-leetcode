@@ -536,6 +536,12 @@
     <ClInclude Include="unique-morse-code-words.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="number-of-lines-to-write-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="subdomain-visit-count.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
