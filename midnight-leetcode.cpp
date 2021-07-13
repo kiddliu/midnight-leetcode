@@ -11,10 +11,10 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "subdomain-visit-count.h"
+#include "most-common-word.h"
 
 int main() {
-  std::vector<std::string> v{"900 google.mail.com", "50 yahoo.com",
-                             "1 intel.mail.com", "5 wiki.org"};
-  solution::subdomainVisits(v);
+  std::vector<std::string> v{"hit"};
+  solution::mostCommonWord(
+      "Bob hit a ball, the hit BALL flew far after it was hit.", v);
 }

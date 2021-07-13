@@ -213,6 +213,7 @@
     <ClInclude Include="keyboard-row.h" />
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
+    <ClInclude Include="largest-triangle-area.h" />
     <ClInclude Include="length-of-last-word.h" />
     <ClInclude Include="license-key-formatting.h" />
     <ClInclude Include="linked-list-cycle.h" />
@@ -241,6 +242,7 @@
     <ClInclude Include="minimum-index-sum-of-two-lists.h" />
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
     <ClInclude Include="missing-number.h" />
+    <ClInclude Include="most-common-word.h" />
     <ClInclude Include="move-zeroes.h" />
     <ClInclude Include="n-ary-tree-postorder-traversal.h" />
     <ClInclude Include="n-ary-tree-preorder-traversal.h" />
