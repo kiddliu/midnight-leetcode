@@ -11,10 +11,6 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "most-common-word.h"
+#include "goat-latin.h"
 
-int main() {
-  std::vector<std::string> v{"hit"};
-  solution::mostCommonWord(
-      "Bob hit a ball, the hit BALL flew far after it was hit.", v);
-}
+int main() { solution::toGoatLatin("I speak Goat Latin"); }

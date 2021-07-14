@@ -548,6 +548,12 @@
     <ClInclude Include="most-common-word.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="shortest-distance-to-a-character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="goat-latin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
