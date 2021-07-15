@@ -194,6 +194,7 @@
     <ClInclude Include="first-bad-version.h" />
     <ClInclude Include="first-unique-character-in-a-string.h" />
     <ClInclude Include="fizz-buzz.h" />
+    <ClInclude Include="flipping-an-image.h" />
     <ClInclude Include="flood-fill.h" />
     <ClInclude Include="goat-latin.h" />
     <ClInclude Include="guess-number-higher-or-lower.h" />
@@ -261,6 +262,7 @@
     <ClInclude Include="path-sum.h" />
     <ClInclude Include="perfect-number.h" />
     <ClInclude Include="plus-one.h" />
+    <ClInclude Include="positions-of-large-groups.h" />
     <ClInclude Include="power-of-four.h" />
     <ClInclude Include="power-of-three.h" />
     <ClInclude Include="power-of-two.h" />
