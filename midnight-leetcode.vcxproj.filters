@@ -560,6 +560,12 @@
     <ClInclude Include="flipping-an-image.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="rectangle-overlap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="backspace-string-compare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

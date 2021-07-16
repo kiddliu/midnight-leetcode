@@ -150,6 +150,7 @@
     <ClInclude Include="array-partition-i.h" />
     <ClInclude Include="assign-cookies.h" />
     <ClInclude Include="average-of-levels-in-binary-tree.h" />
+    <ClInclude Include="backspace-string-compare.h" />
     <ClInclude Include="balanced-binary-tree.h" />
     <ClInclude Include="base-7.h" />
     <ClInclude Include="baseball-game.h" />
@@ -270,6 +271,7 @@
     <ClInclude Include="range-addition-ii.h" />
     <ClInclude Include="range-sum-query-immutable.h" />
     <ClInclude Include="ransom-note.h" />
+    <ClInclude Include="rectangle-overlap.h" />
     <ClInclude Include="relative-ranks.h" />
     <ClInclude Include="remove-duplicates-from-sorted-array.h" />
     <ClInclude Include="remove-duplicates-from-sorted-list.h" />

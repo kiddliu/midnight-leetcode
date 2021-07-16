@@ -11,6 +11,6 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "goat-latin.h"
+#include "backspace-string-compare.h"
 
-int main() { solution::toGoatLatin("I speak Goat Latin"); }
+int main() { solution::backspaceCompare("a##c", "#a#c"); }
