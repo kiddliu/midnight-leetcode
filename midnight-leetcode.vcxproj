@@ -164,6 +164,7 @@
     <ClInclude Include="binary-tree-preorder-traversal.h" />
     <ClInclude Include="binary-tree-tilt.h" />
     <ClInclude Include="binary-watch.h" />
+    <ClInclude Include="buddy-strings.h" />
     <ClInclude Include="can-place-flowers.h" />
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="construct-string-from-binary-tree.h" />
@@ -217,6 +218,7 @@
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
     <ClInclude Include="largest-triangle-area.h" />
+    <ClInclude Include="lemonade-change.h" />
     <ClInclude Include="length-of-last-word.h" />
     <ClInclude Include="license-key-formatting.h" />
     <ClInclude Include="linked-list-cycle.h" />
