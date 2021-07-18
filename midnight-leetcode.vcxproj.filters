@@ -572,6 +572,12 @@
     <ClInclude Include="lemonade-change.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="transpose-matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="binary-gap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

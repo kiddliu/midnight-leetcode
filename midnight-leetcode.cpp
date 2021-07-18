@@ -11,6 +11,6 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "backspace-string-compare.h"
+#include "binary-gap.h"
 
-int main() { solution::backspaceCompare("a##c", "#a#c"); }
+int main() { solution::binaryGap(22); }
