@@ -578,6 +578,12 @@
     <ClInclude Include="binary-gap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="leaf-similar-trees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="walking-robot-simulation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

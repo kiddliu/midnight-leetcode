@@ -219,6 +219,7 @@
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
     <ClInclude Include="largest-triangle-area.h" />
+    <ClInclude Include="leaf-similar-trees.h" />
     <ClInclude Include="lemonade-change.h" />
     <ClInclude Include="length-of-last-word.h" />
     <ClInclude Include="license-key-formatting.h" />
@@ -325,6 +326,7 @@
     <ClInclude Include="valid-palindrome.h" />
     <ClInclude Include="valid-parentheses.h" />
     <ClInclude Include="valid-perfect-square.h" />
+    <ClInclude Include="walking-robot-simulation.h" />
     <ClInclude Include="word-pattern.h" />
   </ItemGroup>
   <ItemGroup>
