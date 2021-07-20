@@ -584,6 +584,12 @@
     <ClInclude Include="walking-robot-simulation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="middle-of-the-linked-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="projection-area-of-3d-shapes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -241,6 +241,7 @@
     <ClInclude Include="merge-sorted-array.h" />
     <ClInclude Include="merge-two-binary-trees.h" />
     <ClInclude Include="merge-two-sorted-lists.h" />
+    <ClInclude Include="middle-of-the-linked-list.h" />
     <ClInclude Include="min-cost-climbing-stairs.h" />
     <ClInclude Include="min-stack.h" />
     <ClInclude Include="minimum-distance-between-bst-nodes.h" />
@@ -272,6 +273,7 @@
     <ClInclude Include="power-of-three.h" />
     <ClInclude Include="power-of-two.h" />
     <ClInclude Include="prime-number-of-set-bits-in-binary-representation.h" />
+    <ClInclude Include="projection-area-of-3d-shapes.h" />
     <ClInclude Include="range-addition-ii.h" />
     <ClInclude Include="range-sum-query-immutable.h" />
     <ClInclude Include="ransom-note.h" />
