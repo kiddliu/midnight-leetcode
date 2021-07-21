@@ -188,6 +188,7 @@
     <ClInclude Include="excel-sheet-column-number.h" />
     <ClInclude Include="excel-sheet-column-title.h" />
     <ClInclude Include="factorial-trailing-zeroes.h" />
+    <ClInclude Include="fair-candy-swap.h" />
     <ClInclude Include="fibonacci-number.h" />
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
@@ -322,6 +323,7 @@
     <ClInclude Include="two-sum-iv-input-is-a-bst.h" />
     <ClInclude Include="two-sum.h" />
     <ClInclude Include="ugly-number.h" />
+    <ClInclude Include="uncommon-words-from-two-sentences.h" />
     <ClInclude Include="unique-morse-code-words.h" />
     <ClInclude Include="valid-anagram.h" />
     <ClInclude Include="valid-palindrome-ii.h" />

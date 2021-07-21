@@ -590,6 +590,12 @@
     <ClInclude Include="projection-area-of-3d-shapes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="uncommon-words-from-two-sentences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fair-candy-swap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
