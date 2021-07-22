@@ -11,8 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "uncommon-words-from-two-sentences.h"
+#include "groups-of-special-equivalent-strings.h"
 
 int main() {
-  solution::uncommonFromSentences("apple apple", "banana");
+  std::vector<std::string> v{"abc", "acb", "bac", "bca", "cab", "cba"};
+  solution::numSpecialEquivGroups(v); 
 }
