@@ -11,9 +11,14 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "groups-of-special-equivalent-strings.h"
+#include "increasing-order-search-tree.h"
 
 int main() {
-  std::vector<std::string> v{"abc", "acb", "bac", "bca", "cab", "cba"};
-  solution::numSpecialEquivGroups(v); 
+  auto node = new TreeNode(
+      5,
+      new TreeNode(3, new TreeNode(2, new TreeNode(1), nullptr),
+                   new TreeNode(4)),
+      new TreeNode(6, nullptr,
+                   new TreeNode(8, new TreeNode(7), new TreeNode(9))));
+  solution::increasingBST(node); 
 }

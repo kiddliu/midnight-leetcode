@@ -209,6 +209,7 @@
     <ClInclude Include="implement-queue-using-stacks.h" />
     <ClInclude Include="implement-stack-using-queues.h" />
     <ClInclude Include="implement-strstr.h" />
+    <ClInclude Include="increasing-order-search-tree.h" />
     <ClInclude Include="intersection-of-two-arrays-ii.h" />
     <ClInclude Include="intersection-of-two-arrays.h" />
     <ClInclude Include="intersection-of-two-linked-lists.h" />
@@ -252,6 +253,7 @@
     <ClInclude Include="minimum-index-sum-of-two-lists.h" />
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
     <ClInclude Include="missing-number.h" />
+    <ClInclude Include="monotonic-array.h" />
     <ClInclude Include="most-common-word.h" />
     <ClInclude Include="move-zeroes.h" />
     <ClInclude Include="n-ary-tree-postorder-traversal.h" />
