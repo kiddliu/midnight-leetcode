@@ -11,14 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "increasing-order-search-tree.h"
+#include "sort-array-by-parity.h"
 
 int main() {
-  auto node = new TreeNode(
-      5,
-      new TreeNode(3, new TreeNode(2, new TreeNode(1), nullptr),
-                   new TreeNode(4)),
-      new TreeNode(6, nullptr,
-                   new TreeNode(8, new TreeNode(7), new TreeNode(9))));
-  solution::increasingBST(node); 
+  std::vector<int> v{2,4,1,3};
+  solution::sortArrayByParity(v); 
 }

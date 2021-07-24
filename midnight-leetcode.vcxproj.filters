@@ -608,6 +608,12 @@
     <ClInclude Include="increasing-order-search-tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sort-array-by-parity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="smallest-range-i.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

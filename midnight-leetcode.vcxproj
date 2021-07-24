@@ -309,6 +309,8 @@
     <ClInclude Include="shortest-completing-word.h" />
     <ClInclude Include="shortest-distance-to-a-character.h" />
     <ClInclude Include="single-number.h" />
+    <ClInclude Include="smallest-range-i.h" />
+    <ClInclude Include="sort-array-by-parity.h" />
     <ClInclude Include="sqrtx.h" />
     <ClInclude Include="student-attendance-record-i.h" />
     <ClInclude Include="subdomain-visit-count.h" />
