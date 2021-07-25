@@ -614,6 +614,12 @@
     <ClInclude Include="smallest-range-i.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="x-of-a-kind-in-a-deck-of-cards.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="reverse-only-letters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

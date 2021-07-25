@@ -292,6 +292,7 @@
     <ClInclude Include="reverse-bits.h" />
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="reverse-linked-list.h" />
+    <ClInclude Include="reverse-only-letters.h" />
     <ClInclude Include="reverse-string-ii.h" />
     <ClInclude Include="reverse-string.h" />
     <ClInclude Include="reverse-vowels-of-a-string.h" />
@@ -338,6 +339,7 @@
     <ClInclude Include="valid-perfect-square.h" />
     <ClInclude Include="walking-robot-simulation.h" />
     <ClInclude Include="word-pattern.h" />
+    <ClInclude Include="x-of-a-kind-in-a-deck-of-cards.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="big-countries.sql" />
