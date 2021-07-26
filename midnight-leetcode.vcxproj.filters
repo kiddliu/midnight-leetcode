@@ -620,6 +620,12 @@
     <ClInclude Include="reverse-only-letters.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sort-array-by-parity-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="long-pressed-name.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -228,6 +228,7 @@
     <ClInclude Include="license-key-formatting.h" />
     <ClInclude Include="linked-list-cycle.h" />
     <ClInclude Include="list-node.h" />
+    <ClInclude Include="long-pressed-name.h" />
     <ClInclude Include="longest-common-prefix.h" />
     <ClInclude Include="longest-continuous-increasing-subsequence.h" />
     <ClInclude Include="longest-harmonious-subsequence.h" />
@@ -311,6 +312,7 @@
     <ClInclude Include="shortest-distance-to-a-character.h" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="smallest-range-i.h" />
+    <ClInclude Include="sort-array-by-parity-ii.h" />
     <ClInclude Include="sort-array-by-parity.h" />
     <ClInclude Include="sqrtx.h" />
     <ClInclude Include="student-attendance-record-i.h" />

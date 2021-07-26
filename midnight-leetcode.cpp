@@ -11,9 +11,6 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "sort-array-by-parity.h"
+#include "long-pressed-name.h"
 
-int main() {
-  std::vector<int> v{2,4,1,3};
-  solution::sortArrayByParity(v); 
-}
+int main() { solution::isLongPressedName("saeed", "ssaaedd"); }
