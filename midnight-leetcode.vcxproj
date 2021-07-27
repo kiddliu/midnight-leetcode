@@ -265,6 +265,7 @@
     <ClInclude Include="number-complement.h" />
     <ClInclude Include="number-of-1-bits.h" />
     <ClInclude Include="number-of-lines-to-write-string.h" />
+    <ClInclude Include="number-of-recent-calls.h" />
     <ClInclude Include="number-of-segments-in-a-string.h" />
     <ClInclude Include="palindrome-linked-list.h" />
     <ClInclude Include="palindrome-number.h" />
@@ -333,6 +334,7 @@
     <ClInclude Include="two-sum.h" />
     <ClInclude Include="ugly-number.h" />
     <ClInclude Include="uncommon-words-from-two-sentences.h" />
+    <ClInclude Include="unique-email-addresses.h" />
     <ClInclude Include="unique-morse-code-words.h" />
     <ClInclude Include="valid-anagram.h" />
     <ClInclude Include="valid-palindrome-ii.h" />

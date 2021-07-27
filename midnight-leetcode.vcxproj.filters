@@ -626,6 +626,12 @@
     <ClInclude Include="long-pressed-name.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="unique-email-addresses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="number-of-recent-calls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

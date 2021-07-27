@@ -11,6 +11,11 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "long-pressed-name.h"
+#include "unique-email-addresses.h"
 
-int main() { solution::isLongPressedName("saeed", "ssaaedd"); }
+int main() {
+  std::vector<std::string> v{"test.email+alex@leetcode.com",
+                             "test.e.mail+bob.cathy@leetcode.com",
+                             "testemail+david@lee.tcode.com"};
+  solution::numUniqueEmails(v);
+}
