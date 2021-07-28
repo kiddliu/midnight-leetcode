@@ -11,11 +11,10 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "unique-email-addresses.h"
+#include "reorder-data-in-log-files.h"
 
 int main() {
-  std::vector<std::string> v{"test.email+alex@leetcode.com",
-                             "test.e.mail+bob.cathy@leetcode.com",
-                             "testemail+david@lee.tcode.com"};
-  solution::numUniqueEmails(v);
+  std::vector<std::string> v{"dig1 8 1 5 1", "let1 art can", "dig2 3 6",
+                             "let2 own kit dig", "let3 art zero"};
+  solution::reorderLogFiles(v);
 }

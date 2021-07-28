@@ -632,6 +632,12 @@
     <ClInclude Include="number-of-recent-calls.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="reorder-data-in-log-files.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="range-sum-of-bst.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
