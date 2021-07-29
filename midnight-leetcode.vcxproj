@@ -181,6 +181,7 @@
     <ClInclude Include="design-hashmap.h" />
     <ClInclude Include="design-hashset.h" />
     <ClInclude Include="detect-capital.h" />
+    <ClInclude Include="di-string-match.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
     <ClInclude Include="distribute-candies.h" />
     <ClInclude Include="employee-importance.h" />
@@ -339,6 +340,7 @@
     <ClInclude Include="unique-email-addresses.h" />
     <ClInclude Include="unique-morse-code-words.h" />
     <ClInclude Include="valid-anagram.h" />
+    <ClInclude Include="valid-mountain-array.h" />
     <ClInclude Include="valid-palindrome-ii.h" />
     <ClInclude Include="valid-palindrome.h" />
     <ClInclude Include="valid-parentheses.h" />
