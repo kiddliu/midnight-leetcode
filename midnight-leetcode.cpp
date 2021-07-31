@@ -11,10 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "reorder-data-in-log-files.h"
+#include "verifying-an-alien-dictionary.h"
 
 int main() {
-  std::vector<std::string> v{"dig1 8 1 5 1", "let1 art can", "dig2 3 6",
-                             "let2 own kit dig", "let3 art zero"};
-  solution::reorderLogFiles(v);
+  std::vector<std::string> v{"hello", "hello"};
+  solution::isAlienSorted(v, "abcdefghijklmnopqrstuvwxyz");
 }

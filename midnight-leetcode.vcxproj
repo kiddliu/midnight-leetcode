@@ -177,6 +177,7 @@
     <ClInclude Include="count-binary-substrings.h" />
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="degree-of-an-array.h" />
+    <ClInclude Include="delete-columns-to-make-sorted.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
     <ClInclude Include="design-hashmap.h" />
     <ClInclude Include="design-hashset.h" />
@@ -345,6 +346,7 @@
     <ClInclude Include="valid-palindrome.h" />
     <ClInclude Include="valid-parentheses.h" />
     <ClInclude Include="valid-perfect-square.h" />
+    <ClInclude Include="verifying-an-alien-dictionary.h" />
     <ClInclude Include="walking-robot-simulation.h" />
     <ClInclude Include="word-pattern.h" />
     <ClInclude Include="x-of-a-kind-in-a-deck-of-cards.h" />

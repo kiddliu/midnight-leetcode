@@ -644,6 +644,12 @@
     <ClInclude Include="di-string-match.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="delete-columns-to-make-sorted.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="verifying-an-alien-dictionary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
