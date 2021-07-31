@@ -650,6 +650,12 @@
     <ClInclude Include="verifying-an-alien-dictionary.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="n-repeated-element-in-size-2n-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="univalued-binary-tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

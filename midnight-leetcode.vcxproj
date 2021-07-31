@@ -261,6 +261,7 @@
     <ClInclude Include="move-zeroes.h" />
     <ClInclude Include="n-ary-tree-postorder-traversal.h" />
     <ClInclude Include="n-ary-tree-preorder-traversal.h" />
+    <ClInclude Include="n-repeated-element-in-size-2n-array.h" />
     <ClInclude Include="next-greater-element-i.h" />
     <ClInclude Include="nim-game.h" />
     <ClInclude Include="node.h" />
@@ -340,6 +341,7 @@
     <ClInclude Include="uncommon-words-from-two-sentences.h" />
     <ClInclude Include="unique-email-addresses.h" />
     <ClInclude Include="unique-morse-code-words.h" />
+    <ClInclude Include="univalued-binary-tree.h" />
     <ClInclude Include="valid-anagram.h" />
     <ClInclude Include="valid-mountain-array.h" />
     <ClInclude Include="valid-palindrome-ii.h" />
