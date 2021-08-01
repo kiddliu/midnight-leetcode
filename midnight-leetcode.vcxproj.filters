@@ -656,6 +656,12 @@
     <ClInclude Include="univalued-binary-tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="largest-perimeter-triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="squares-of-a-sorted-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

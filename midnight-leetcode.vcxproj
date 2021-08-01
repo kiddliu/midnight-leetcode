@@ -223,6 +223,7 @@
     <ClInclude Include="keyboard-row.h" />
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
+    <ClInclude Include="largest-perimeter-triangle.h" />
     <ClInclude Include="largest-triangle-area.h" />
     <ClInclude Include="leaf-similar-trees.h" />
     <ClInclude Include="lemonade-change.h" />
@@ -321,6 +322,7 @@
     <ClInclude Include="sort-array-by-parity-ii.h" />
     <ClInclude Include="sort-array-by-parity.h" />
     <ClInclude Include="sqrtx.h" />
+    <ClInclude Include="squares-of-a-sorted-array.h" />
     <ClInclude Include="student-attendance-record-i.h" />
     <ClInclude Include="subdomain-visit-count.h" />
     <ClInclude Include="subtree-of-another-tree.h" />
