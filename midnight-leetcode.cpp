@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "verifying-an-alien-dictionary.h"
+#include "add-to-array-form-of-integer.h"
 
 int main() {
-  std::vector<std::string> v{"hello", "hello"};
-  solution::isAlienSorted(v, "abcdefghijklmnopqrstuvwxyz");
+  std::vector<int> v1{1};
+  solution::addToArrayForm(v1, 9999);
 }

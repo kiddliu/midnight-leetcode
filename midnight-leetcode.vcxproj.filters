@@ -662,6 +662,12 @@
     <ClInclude Include="squares-of-a-sorted-array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sum-of-even-numbers-after-queries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="add-to-array-form-of-integer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
