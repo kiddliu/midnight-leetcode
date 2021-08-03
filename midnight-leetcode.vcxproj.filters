@@ -668,6 +668,12 @@
     <ClInclude Include="add-to-array-form-of-integer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="cousins-in-binary-tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="find-the-town-judge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -177,6 +177,7 @@
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="count-binary-substrings.h" />
     <ClInclude Include="count-primes.h" />
+    <ClInclude Include="cousins-in-binary-tree.h" />
     <ClInclude Include="degree-of-an-array.h" />
     <ClInclude Include="delete-columns-to-make-sorted.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
@@ -198,6 +199,7 @@
     <ClInclude Include="find-pivot-index.h" />
     <ClInclude Include="find-smallest-letter-greater-than-target.h" />
     <ClInclude Include="find-the-difference.h" />
+    <ClInclude Include="find-the-town-judge.h" />
     <ClInclude Include="first-bad-version.h" />
     <ClInclude Include="first-unique-character-in-a-string.h" />
     <ClInclude Include="fizz-buzz.h" />

@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "add-to-array-form-of-integer.h"
+#include "find-the-town-judge.h"
 
 int main() {
-  std::vector<int> v1{1};
-  solution::addToArrayForm(v1, 9999);
+  std::vector<std::vector<int>> v{{1, 3}, {1, 4}, {2, 3}, {2, 4}, {4, 3}};
+  solution::findJudge(4, v);
 }
