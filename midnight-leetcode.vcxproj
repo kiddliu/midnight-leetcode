@@ -150,6 +150,7 @@
     <ClInclude Include="arranging-coins.h" />
     <ClInclude Include="array-partition-i.h" />
     <ClInclude Include="assign-cookies.h" />
+    <ClInclude Include="available-captures-for-rook.h" />
     <ClInclude Include="average-of-levels-in-binary-tree.h" />
     <ClInclude Include="backspace-string-compare.h" />
     <ClInclude Include="balanced-binary-tree.h" />
@@ -195,6 +196,7 @@
     <ClInclude Include="fair-candy-swap.h" />
     <ClInclude Include="fibonacci-number.h" />
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
+    <ClInclude Include="find-common-characters.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
     <ClInclude Include="find-pivot-index.h" />
     <ClInclude Include="find-smallest-letter-greater-than-target.h" />

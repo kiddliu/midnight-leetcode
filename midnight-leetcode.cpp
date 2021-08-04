@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "find-the-town-judge.h"
+#include "find-common-characters.h"
 
 int main() {
-  std::vector<std::vector<int>> v{{1, 3}, {1, 4}, {2, 3}, {2, 4}, {4, 3}};
-  solution::findJudge(4, v);
+  std::vector<std::string> v{"bella", "label", "roller"};
+  solution::commonChars(v);
 }

@@ -674,6 +674,12 @@
     <ClInclude Include="find-the-town-judge.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="available-captures-for-rook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="find-common-characters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
