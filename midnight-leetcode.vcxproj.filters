@@ -680,6 +680,12 @@
     <ClInclude Include="find-common-characters.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="maximize-sum-of-array-after-k-negations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="partition-array-into-three-parts-with-equal-sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -245,6 +245,7 @@
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
     <ClInclude Include="majority-element.h" />
     <ClInclude Include="max-consecutive-ones.h" />
+    <ClInclude Include="maximize-sum-of-array-after-k-negations.h" />
     <ClInclude Include="maximum-average-subarray-i.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
@@ -278,6 +279,7 @@
     <ClInclude Include="number-of-segments-in-a-string.h" />
     <ClInclude Include="palindrome-linked-list.h" />
     <ClInclude Include="palindrome-number.h" />
+    <ClInclude Include="partition-array-into-three-parts-with-equal-sum.h" />
     <ClInclude Include="pascals-triangle-ii.h" />
     <ClInclude Include="pascals-triangle.h" />
     <ClInclude Include="path-sum.h" />

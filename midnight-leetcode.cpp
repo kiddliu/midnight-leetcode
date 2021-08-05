@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "find-common-characters.h"
+#include "partition-array-into-three-parts-with-equal-sum.h"
 
 int main() {
-  std::vector<std::string> v{"bella", "label", "roller"};
-  solution::commonChars(v);
+  std::vector<int> v{1, -1, 1, -1};
+  solution::canThreePartsEqualSum(v);
 }
