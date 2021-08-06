@@ -11,9 +11,6 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "partition-array-into-three-parts-with-equal-sum.h"
+#include "remove-outermost-parentheses.h"
 
-int main() {
-  std::vector<int> v{1, -1, 1, -1};
-  solution::canThreePartsEqualSum(v);
-}
+int main() { solution::removeOuterParentheses("(()())(())"); }

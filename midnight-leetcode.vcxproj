@@ -160,6 +160,7 @@
     <ClInclude Include="best-time-to-buy-and-sell-stock.h" />
     <ClInclude Include="binary-gap.h" />
     <ClInclude Include="binary-number-with-alternating-bits.h" />
+    <ClInclude Include="binary-prefix-divisible-by-5.h" />
     <ClInclude Include="binary-search.h" />
     <ClInclude Include="binary-tree-inorder-traversal.h" />
     <ClInclude Include="binary-tree-paths.h" />
@@ -301,6 +302,7 @@
     <ClInclude Include="remove-duplicates-from-sorted-list.h" />
     <ClInclude Include="remove-element.h" />
     <ClInclude Include="remove-linked-list-elements.h" />
+    <ClInclude Include="remove-outermost-parentheses.h" />
     <ClInclude Include="reorder-data-in-log-files.h" />
     <ClInclude Include="repeated-substring-pattern.h" />
     <ClInclude Include="reshape-the-matrix.h" />

@@ -686,6 +686,12 @@
     <ClInclude Include="partition-array-into-three-parts-with-equal-sum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="binary-prefix-divisible-by-5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="remove-outermost-parentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
