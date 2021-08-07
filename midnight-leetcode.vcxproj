@@ -189,6 +189,7 @@
     <ClInclude Include="di-string-match.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
     <ClInclude Include="distribute-candies.h" />
+    <ClInclude Include="divisor-game.h" />
     <ClInclude Include="employee-importance.h" />
     <ClInclude Include="employee.h" />
     <ClInclude Include="excel-sheet-column-number.h" />
@@ -337,6 +338,7 @@
     <ClInclude Include="subtree-of-another-tree.h" />
     <ClInclude Include="sum-of-even-numbers-after-queries.h" />
     <ClInclude Include="sum-of-left-leaves.h" />
+    <ClInclude Include="sum-of-root-to-leaf-binary-numbers.h" />
     <ClInclude Include="summary-ranges.h" />
     <ClInclude Include="surface-area-of-3d-shapes.h" />
     <ClInclude Include="symmetric-tree.h" />

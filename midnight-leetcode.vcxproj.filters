@@ -692,6 +692,12 @@
     <ClInclude Include="remove-outermost-parentheses.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sum-of-root-to-leaf-binary-numbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="divisor-game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
