@@ -698,6 +698,12 @@
     <ClInclude Include="divisor-game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="matrix-cells-in-distance-order.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="valid-boomerang.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

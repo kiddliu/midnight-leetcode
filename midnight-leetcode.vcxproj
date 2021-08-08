@@ -246,6 +246,7 @@
     <ClInclude Include="longest-uncommon-subsequence-i.h" />
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
     <ClInclude Include="majority-element.h" />
+    <ClInclude Include="matrix-cells-in-distance-order.h" />
     <ClInclude Include="max-consecutive-ones.h" />
     <ClInclude Include="maximize-sum-of-array-after-k-negations.h" />
     <ClInclude Include="maximum-average-subarray-i.h" />
@@ -357,6 +358,7 @@
     <ClInclude Include="unique-morse-code-words.h" />
     <ClInclude Include="univalued-binary-tree.h" />
     <ClInclude Include="valid-anagram.h" />
+    <ClInclude Include="valid-boomerang.h" />
     <ClInclude Include="valid-mountain-array.h" />
     <ClInclude Include="valid-palindrome-ii.h" />
     <ClInclude Include="valid-palindrome.h" />

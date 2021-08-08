@@ -11,6 +11,6 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "remove-outermost-parentheses.h"
+#include "matrix-cells-in-distance-order.h"
 
-int main() { solution::removeOuterParentheses("(()())(())"); }
+int main() { solution::allCellsDistOrder(1, 2, 0, 0); }
