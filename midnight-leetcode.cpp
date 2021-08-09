@@ -11,6 +11,6 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "matrix-cells-in-distance-order.h"
+#include "remove-all-adjacent-duplicates-in-string.h"
 
-int main() { solution::allCellsDistOrder(1, 2, 0, 0); }
+int main() { solution::removeDuplicates("aabbcc"); }

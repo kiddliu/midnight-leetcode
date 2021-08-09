@@ -232,6 +232,7 @@
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
     <ClInclude Include="largest-perimeter-triangle.h" />
     <ClInclude Include="largest-triangle-area.h" />
+    <ClInclude Include="last-stone-weight.h" />
     <ClInclude Include="leaf-similar-trees.h" />
     <ClInclude Include="lemonade-change.h" />
     <ClInclude Include="length-of-last-word.h" />
@@ -300,6 +301,7 @@
     <ClInclude Include="ransom-note.h" />
     <ClInclude Include="rectangle-overlap.h" />
     <ClInclude Include="relative-ranks.h" />
+    <ClInclude Include="remove-all-adjacent-duplicates-in-string.h" />
     <ClInclude Include="remove-duplicates-from-sorted-array.h" />
     <ClInclude Include="remove-duplicates-from-sorted-list.h" />
     <ClInclude Include="remove-element.h" />

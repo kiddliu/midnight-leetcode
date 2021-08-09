@@ -704,6 +704,12 @@
     <ClInclude Include="valid-boomerang.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="last-stone-weight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="remove-all-adjacent-duplicates-in-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
