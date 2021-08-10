@@ -710,6 +710,12 @@
     <ClInclude Include="remove-all-adjacent-duplicates-in-string.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="height-checker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="greatest-common-divisor-of-strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

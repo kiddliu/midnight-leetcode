@@ -210,10 +210,12 @@
     <ClInclude Include="flipping-an-image.h" />
     <ClInclude Include="flood-fill.h" />
     <ClInclude Include="goat-latin.h" />
+    <ClInclude Include="greatest-common-divisor-of-strings.h" />
     <ClInclude Include="groups-of-special-equivalent-strings.h" />
     <ClInclude Include="guess-number-higher-or-lower.h" />
     <ClInclude Include="hamming-distance.h" />
     <ClInclude Include="happy-number.h" />
+    <ClInclude Include="height-checker.h" />
     <ClInclude Include="image-smoother.h" />
     <ClInclude Include="implement-queue-using-stacks.h" />
     <ClInclude Include="implement-stack-using-queues.h" />
