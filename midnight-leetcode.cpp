@@ -11,6 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "remove-all-adjacent-duplicates-in-string.h"
+#include "distribute-candies-to-people.h"
 
-int main() { solution::removeDuplicates("aabbcc"); }
+int main() {
+  std::vector<int> v{0,1,7,6,0,2,0,7};
+  solution::distributeCandies(7, 4);
+}

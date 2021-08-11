@@ -716,6 +716,12 @@
     <ClInclude Include="greatest-common-divisor-of-strings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="duplicate-zeros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="distribute-candies-to-people.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

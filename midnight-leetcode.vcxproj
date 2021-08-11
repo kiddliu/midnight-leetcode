@@ -188,8 +188,10 @@
     <ClInclude Include="detect-capital.h" />
     <ClInclude Include="di-string-match.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
+    <ClInclude Include="distribute-candies-to-people.h" />
     <ClInclude Include="distribute-candies.h" />
     <ClInclude Include="divisor-game.h" />
+    <ClInclude Include="duplicate-zeros.h" />
     <ClInclude Include="employee-importance.h" />
     <ClInclude Include="employee.h" />
     <ClInclude Include="excel-sheet-column-number.h" />
