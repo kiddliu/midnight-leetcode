@@ -180,6 +180,7 @@
     <ClInclude Include="count-binary-substrings.h" />
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="cousins-in-binary-tree.h" />
+    <ClInclude Include="defanging-an-ip-address.h" />
     <ClInclude Include="degree-of-an-array.h" />
     <ClInclude Include="delete-columns-to-make-sorted.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
@@ -298,6 +299,7 @@
     <ClInclude Include="power-of-three.h" />
     <ClInclude Include="power-of-two.h" />
     <ClInclude Include="prime-number-of-set-bits-in-binary-representation.h" />
+    <ClInclude Include="print-in-order.h" />
     <ClInclude Include="projection-area-of-3d-shapes.h" />
     <ClInclude Include="range-addition-ii.h" />
     <ClInclude Include="range-sum-of-bst.h" />

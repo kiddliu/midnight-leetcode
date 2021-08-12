@@ -722,6 +722,12 @@
     <ClInclude Include="distribute-candies-to-people.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="defanging-an-ip-address.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="print-in-order.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
