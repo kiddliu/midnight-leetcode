@@ -728,6 +728,12 @@
     <ClInclude Include="print-in-order.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="relative-sort-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="number-of-equivalent-domino-pairs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
