@@ -180,6 +180,7 @@
     <ClInclude Include="count-binary-substrings.h" />
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="cousins-in-binary-tree.h" />
+    <ClInclude Include="day-of-the-year.h" />
     <ClInclude Include="defanging-an-ip-address.h" />
     <ClInclude Include="degree-of-an-array.h" />
     <ClInclude Include="delete-columns-to-make-sorted.h" />
@@ -278,6 +279,7 @@
     <ClInclude Include="n-ary-tree-postorder-traversal.h" />
     <ClInclude Include="n-ary-tree-preorder-traversal.h" />
     <ClInclude Include="n-repeated-element-in-size-2n-array.h" />
+    <ClInclude Include="n-th-tribonacci-number.h" />
     <ClInclude Include="next-greater-element-i.h" />
     <ClInclude Include="nim-game.h" />
     <ClInclude Include="node.h" />

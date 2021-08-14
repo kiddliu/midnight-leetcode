@@ -734,6 +734,12 @@
     <ClInclude Include="number-of-equivalent-domino-pairs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="n-th-tribonacci-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="day-of-the-year.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
