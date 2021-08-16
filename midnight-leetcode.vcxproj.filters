@@ -740,6 +740,15 @@
     <ClInclude Include="day-of-the-year.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-words-that-can-be-formed-by-characters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prime-arrangements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="distance-between-bus-stops.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
@@ -779,6 +788,9 @@
       <Filter>SQL Files</Filter>
     </None>
     <None Include="swap-salary.sql">
+      <Filter>SQL Files</Filter>
+    </None>
+    <None Include="reformat-department-table.sql">
       <Filter>SQL Files</Filter>
     </None>
   </ItemGroup>

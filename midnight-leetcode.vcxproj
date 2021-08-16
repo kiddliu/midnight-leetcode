@@ -190,6 +190,7 @@
     <ClInclude Include="detect-capital.h" />
     <ClInclude Include="di-string-match.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
+    <ClInclude Include="distance-between-bus-stops.h" />
     <ClInclude Include="distribute-candies-to-people.h" />
     <ClInclude Include="distribute-candies.h" />
     <ClInclude Include="divisor-game.h" />
@@ -208,6 +209,7 @@
     <ClInclude Include="find-smallest-letter-greater-than-target.h" />
     <ClInclude Include="find-the-difference.h" />
     <ClInclude Include="find-the-town-judge.h" />
+    <ClInclude Include="find-words-that-can-be-formed-by-characters.h" />
     <ClInclude Include="first-bad-version.h" />
     <ClInclude Include="first-unique-character-in-a-string.h" />
     <ClInclude Include="fizz-buzz.h" />
@@ -301,6 +303,7 @@
     <ClInclude Include="power-of-four.h" />
     <ClInclude Include="power-of-three.h" />
     <ClInclude Include="power-of-two.h" />
+    <ClInclude Include="prime-arrangements.h" />
     <ClInclude Include="prime-number-of-set-bits-in-binary-representation.h" />
     <ClInclude Include="print-in-order.h" />
     <ClInclude Include="projection-area-of-3d-shapes.h" />
@@ -390,6 +393,7 @@
     <None Include="duplicate-emails.sql" />
     <None Include="employees-earning-more-than-their-managers.sql" />
     <None Include="not-boring-movies.sql" />
+    <None Include="reformat-department-table.sql" />
     <None Include="rising-temperature.sql" />
     <None Include="second-highest-salary.sql" />
     <None Include="swap-salary.sql" />
