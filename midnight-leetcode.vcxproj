@@ -180,6 +180,7 @@
     <ClInclude Include="count-binary-substrings.h" />
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="cousins-in-binary-tree.h" />
+    <ClInclude Include="day-of-the-week.h" />
     <ClInclude Include="day-of-the-year.h" />
     <ClInclude Include="defanging-an-ip-address.h" />
     <ClInclude Include="degree-of-an-array.h" />
@@ -261,6 +262,7 @@
     <ClInclude Include="maximum-average-subarray-i.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
+    <ClInclude Include="maximum-number-of-balloons.h" />
     <ClInclude Include="maximum-product-of-three-numbers.h" />
     <ClInclude Include="maximum-subarray.h" />
     <ClInclude Include="merge-sorted-array.h" />

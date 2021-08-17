@@ -749,6 +749,12 @@
     <ClInclude Include="distance-between-bus-stops.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="day-of-the-week.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="maximum-number-of-balloons.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

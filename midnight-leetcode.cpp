@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "distribute-candies-to-people.h"
+#include "maximum-number-of-balloons.h"
 
 int main() {
   std::vector<int> v{0,1,7,6,0,2,0,7};
-  solution::distributeCandies(7, 4);
+  solution::maxNumberOfBalloons("nlaebolko");
 }
