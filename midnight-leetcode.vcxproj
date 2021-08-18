@@ -271,6 +271,7 @@
     <ClInclude Include="middle-of-the-linked-list.h" />
     <ClInclude Include="min-cost-climbing-stairs.h" />
     <ClInclude Include="min-stack.h" />
+    <ClInclude Include="minimum-absolute-difference.h" />
     <ClInclude Include="minimum-distance-between-bst-nodes.h" />
     <ClInclude Include="minimum-absolute-difference-in-bst.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
@@ -373,6 +374,7 @@
     <ClInclude Include="uncommon-words-from-two-sentences.h" />
     <ClInclude Include="unique-email-addresses.h" />
     <ClInclude Include="unique-morse-code-words.h" />
+    <ClInclude Include="unique-number-of-occurrences.h" />
     <ClInclude Include="univalued-binary-tree.h" />
     <ClInclude Include="valid-anagram.h" />
     <ClInclude Include="valid-boomerang.h" />

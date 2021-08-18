@@ -755,6 +755,12 @@
     <ClInclude Include="maximum-number-of-balloons.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="minimum-absolute-difference.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="unique-number-of-occurrences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

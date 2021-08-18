@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "maximum-number-of-balloons.h"
+#include "minimum-absolute-difference.h"
 
 int main() {
-  std::vector<int> v{0,1,7,6,0,2,0,7};
-  solution::maxNumberOfBalloons("nlaebolko");
+  std::vector<int> v{4, 2, 1, 3};
+  solution::minimumAbsDifference(v);
 }
