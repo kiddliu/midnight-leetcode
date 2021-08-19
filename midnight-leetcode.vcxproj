@@ -272,6 +272,7 @@
     <ClInclude Include="min-cost-climbing-stairs.h" />
     <ClInclude Include="min-stack.h" />
     <ClInclude Include="minimum-absolute-difference.h" />
+    <ClInclude Include="minimum-cost-to-move-chips-to-the-same-position.h" />
     <ClInclude Include="minimum-distance-between-bst-nodes.h" />
     <ClInclude Include="minimum-absolute-difference-in-bst.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
@@ -350,6 +351,7 @@
     <ClInclude Include="smallest-range-i.h" />
     <ClInclude Include="sort-array-by-parity-ii.h" />
     <ClInclude Include="sort-array-by-parity.h" />
+    <ClInclude Include="split-a-string-in-balanced-strings.h" />
     <ClInclude Include="sqrtx.h" />
     <ClInclude Include="squares-of-a-sorted-array.h" />
     <ClInclude Include="student-attendance-record-i.h" />
