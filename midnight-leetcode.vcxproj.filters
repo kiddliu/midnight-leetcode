@@ -773,6 +773,12 @@
     <ClInclude Include="cells-with-odd-values-in-a-matrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="shift-2d-grid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="minimum-time-visiting-all-points.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

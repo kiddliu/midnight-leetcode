@@ -280,6 +280,7 @@
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
     <ClInclude Include="minimum-index-sum-of-two-lists.h" />
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
+    <ClInclude Include="minimum-time-visiting-all-points.h" />
     <ClInclude Include="missing-number.h" />
     <ClInclude Include="monotonic-array.h" />
     <ClInclude Include="most-common-word.h" />
@@ -347,6 +348,7 @@
     <ClInclude Include="second-minimum-node-in-a-binary-tree.h" />
     <ClInclude Include="self-dividing-numbers.h" />
     <ClInclude Include="set-mismatch.h" />
+    <ClInclude Include="shift-2d-grid.h" />
     <ClInclude Include="shortest-completing-word.h" />
     <ClInclude Include="shortest-distance-to-a-character.h" />
     <ClInclude Include="single-number.h" />
