@@ -170,6 +170,8 @@
     <ClInclude Include="binary-watch.h" />
     <ClInclude Include="buddy-strings.h" />
     <ClInclude Include="can-place-flowers.h" />
+    <ClInclude Include="cells-with-odd-values-in-a-matrix.h" />
+    <ClInclude Include="check-if-it-is-a-straight-line.h" />
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="construct-string-from-binary-tree.h" />
     <ClInclude Include="construct-the-rectangle.h" />

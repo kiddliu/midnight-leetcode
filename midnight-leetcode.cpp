@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "minimum-absolute-difference.h"
+#include "cells-with-odd-values-in-a-matrix.h"
 
 int main() {
-  std::vector<int> v{4, 2, 1, 3};
-  solution::minimumAbsDifference(v);
+  std::vector<std::vector<int>> v{{0, 1}, {1, 1}};
+  solution::oddCells(2, 3, v);
 }

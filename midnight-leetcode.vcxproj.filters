@@ -767,6 +767,12 @@
     <ClInclude Include="split-a-string-in-balanced-strings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="check-if-it-is-a-straight-line.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cells-with-odd-values-in-a-matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
