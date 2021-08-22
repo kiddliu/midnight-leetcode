@@ -779,6 +779,12 @@
     <ClInclude Include="minimum-time-visiting-all-points.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-winner-on-a-tic-tac-toe-game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="subtract-the-product-and-sum-of-digits-of-an-integer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

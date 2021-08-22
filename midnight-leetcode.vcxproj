@@ -212,6 +212,7 @@
     <ClInclude Include="find-smallest-letter-greater-than-target.h" />
     <ClInclude Include="find-the-difference.h" />
     <ClInclude Include="find-the-town-judge.h" />
+    <ClInclude Include="find-winner-on-a-tic-tac-toe-game.h" />
     <ClInclude Include="find-words-that-can-be-formed-by-characters.h" />
     <ClInclude Include="first-bad-version.h" />
     <ClInclude Include="first-unique-character-in-a-string.h" />
@@ -360,6 +361,7 @@
     <ClInclude Include="squares-of-a-sorted-array.h" />
     <ClInclude Include="student-attendance-record-i.h" />
     <ClInclude Include="subdomain-visit-count.h" />
+    <ClInclude Include="subtract-the-product-and-sum-of-digits-of-an-integer.h" />
     <ClInclude Include="subtree-of-another-tree.h" />
     <ClInclude Include="sum-of-even-numbers-after-queries.h" />
     <ClInclude Include="sum-of-left-leaves.h" />
