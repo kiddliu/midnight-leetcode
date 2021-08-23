@@ -178,6 +178,7 @@
     <ClInclude Include="contains-duplicate-ii.h" />
     <ClInclude Include="contains-duplicate.h" />
     <ClInclude Include="convert-a-number-to-hexadecimal.h" />
+    <ClInclude Include="convert-binary-number-in-a-linked-list-to-integer.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="count-binary-substrings.h" />
     <ClInclude Include="count-primes.h" />
@@ -198,6 +199,7 @@
     <ClInclude Include="distribute-candies.h" />
     <ClInclude Include="divisor-game.h" />
     <ClInclude Include="duplicate-zeros.h" />
+    <ClInclude Include="element-appearing-more-than-25-in-sorted-array.h" />
     <ClInclude Include="employee-importance.h" />
     <ClInclude Include="employee.h" />
     <ClInclude Include="excel-sheet-column-number.h" />

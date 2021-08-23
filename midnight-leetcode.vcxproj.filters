@@ -785,6 +785,12 @@
     <ClInclude Include="subtract-the-product-and-sum-of-digits-of-an-integer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="element-appearing-more-than-25-in-sorted-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="convert-binary-number-in-a-linked-list-to-integer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
