@@ -791,6 +791,12 @@
     <ClInclude Include="convert-binary-number-in-a-linked-list-to-integer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-numbers-with-even-number-of-digits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="replace-elements-with-greatest-element-on-right-side.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

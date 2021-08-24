@@ -210,6 +210,7 @@
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-common-characters.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
+    <ClInclude Include="find-numbers-with-even-number-of-digits.h" />
     <ClInclude Include="find-pivot-index.h" />
     <ClInclude Include="find-smallest-letter-greater-than-target.h" />
     <ClInclude Include="find-the-difference.h" />
@@ -332,6 +333,7 @@
     <ClInclude Include="remove-outermost-parentheses.h" />
     <ClInclude Include="reorder-data-in-log-files.h" />
     <ClInclude Include="repeated-substring-pattern.h" />
+    <ClInclude Include="replace-elements-with-greatest-element-on-right-side.h" />
     <ClInclude Include="reshape-the-matrix.h" />
     <ClInclude Include="reverse-bits.h" />
     <ClInclude Include="reverse-integer.h" />
