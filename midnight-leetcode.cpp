@@ -11,9 +11,8 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "cells-with-odd-values-in-a-matrix.h"
+#include "decrypt-string-from-alphabet-to-integer-mapping.h"
 
 int main() {
-  std::vector<std::vector<int>> v{{0, 1}, {1, 1}};
-  solution::oddCells(2, 3, v);
+  solution::freqAlphabets("10#11#12");
 }

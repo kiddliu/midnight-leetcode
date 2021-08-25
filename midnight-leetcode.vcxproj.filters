@@ -797,6 +797,12 @@
     <ClInclude Include="replace-elements-with-greatest-element-on-right-side.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-n-unique-integers-sum-up-to-zero.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decrypt-string-from-alphabet-to-integer-mapping.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

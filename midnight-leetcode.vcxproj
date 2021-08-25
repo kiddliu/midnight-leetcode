@@ -185,6 +185,7 @@
     <ClInclude Include="cousins-in-binary-tree.h" />
     <ClInclude Include="day-of-the-week.h" />
     <ClInclude Include="day-of-the-year.h" />
+    <ClInclude Include="decrypt-string-from-alphabet-to-integer-mapping.h" />
     <ClInclude Include="defanging-an-ip-address.h" />
     <ClInclude Include="degree-of-an-array.h" />
     <ClInclude Include="delete-columns-to-make-sorted.h" />
@@ -210,6 +211,7 @@
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-common-characters.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
+    <ClInclude Include="find-n-unique-integers-sum-up-to-zero.h" />
     <ClInclude Include="find-numbers-with-even-number-of-digits.h" />
     <ClInclude Include="find-pivot-index.h" />
     <ClInclude Include="find-smallest-letter-greater-than-target.h" />
