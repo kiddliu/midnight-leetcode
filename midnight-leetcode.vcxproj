@@ -179,12 +179,14 @@
     <ClInclude Include="contains-duplicate.h" />
     <ClInclude Include="convert-a-number-to-hexadecimal.h" />
     <ClInclude Include="convert-binary-number-in-a-linked-list-to-integer.h" />
+    <ClInclude Include="convert-integer-to-the-sum-of-two-no-zero-integers.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="count-binary-substrings.h" />
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="cousins-in-binary-tree.h" />
     <ClInclude Include="day-of-the-week.h" />
     <ClInclude Include="day-of-the-year.h" />
+    <ClInclude Include="decompress-run-length-encoded-list.h" />
     <ClInclude Include="decrypt-string-from-alphabet-to-integer-mapping.h" />
     <ClInclude Include="defanging-an-ip-address.h" />
     <ClInclude Include="degree-of-an-array.h" />

@@ -11,8 +11,8 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "decrypt-string-from-alphabet-to-integer-mapping.h"
+#include "convert-integer-to-the-sum-of-two-no-zero-integers.h"
 
 int main() {
-  solution::freqAlphabets("10#11#12");
+  solution::getNoZeroIntegers(1057);
 }

@@ -803,6 +803,12 @@
     <ClInclude Include="decrypt-string-from-alphabet-to-integer-mapping.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="decompress-run-length-encoded-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="convert-integer-to-the-sum-of-two-no-zero-integers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
