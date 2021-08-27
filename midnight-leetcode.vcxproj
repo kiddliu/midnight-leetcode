@@ -269,6 +269,7 @@
     <ClInclude Include="matrix-cells-in-distance-order.h" />
     <ClInclude Include="max-consecutive-ones.h" />
     <ClInclude Include="maximize-sum-of-array-after-k-negations.h" />
+    <ClInclude Include="maximum-69-number.h" />
     <ClInclude Include="maximum-average-subarray-i.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
@@ -325,6 +326,7 @@
     <ClInclude Include="range-addition-ii.h" />
     <ClInclude Include="range-sum-of-bst.h" />
     <ClInclude Include="range-sum-query-immutable.h" />
+    <ClInclude Include="rank-transform-of-an-array.h" />
     <ClInclude Include="ransom-note.h" />
     <ClInclude Include="rectangle-overlap.h" />
     <ClInclude Include="relative-ranks.h" />

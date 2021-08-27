@@ -809,6 +809,12 @@
     <ClInclude Include="convert-integer-to-the-sum-of-two-no-zero-integers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="maximum-69-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rank-transform-of-an-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

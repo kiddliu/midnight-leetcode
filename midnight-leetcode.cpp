@@ -11,8 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "convert-integer-to-the-sum-of-two-no-zero-integers.h"
+#include "rank-transform-of-an-array.h"
 
 int main() {
-  solution::getNoZeroIntegers(1057);
+  std::vector<int> v{100, 100, 100};
+  solution::arrayRankTransform(v);
 }
