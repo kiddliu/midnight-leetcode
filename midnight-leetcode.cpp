@@ -11,9 +11,13 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "rank-transform-of-an-array.h"
+#include "the-k-weakest-rows-in-a-matrix.h"
 
 int main() {
-  std::vector<int> v{100, 100, 100};
-  solution::arrayRankTransform(v);
+  std::vector<std::vector<int>> v{{1, 1, 0, 0, 0},
+                                  {1, 1, 1, 1, 0},
+                                  {1, 0, 0, 0, 0},
+                                  {1, 1, 0, 0, 0},
+                                  {1, 1, 1, 1, 1}};
+  solution::kWeakestRows(v, 3);
 }

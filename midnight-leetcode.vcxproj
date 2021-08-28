@@ -337,6 +337,7 @@
     <ClInclude Include="remove-element.h" />
     <ClInclude Include="remove-linked-list-elements.h" />
     <ClInclude Include="remove-outermost-parentheses.h" />
+    <ClInclude Include="remove-palindromic-subsequences.h" />
     <ClInclude Include="reorder-data-in-log-files.h" />
     <ClInclude Include="repeated-substring-pattern.h" />
     <ClInclude Include="replace-elements-with-greatest-element-on-right-side.h" />
@@ -380,6 +381,7 @@
     <ClInclude Include="surface-area-of-3d-shapes.h" />
     <ClInclude Include="symmetric-tree.h" />
     <ClInclude Include="teemo-attacking.h" />
+    <ClInclude Include="the-k-weakest-rows-in-a-matrix.h" />
     <ClInclude Include="third-maximum-number.h" />
     <ClInclude Include="to-lower-case.h" />
     <ClInclude Include="toeplitz-matrix.h" />
