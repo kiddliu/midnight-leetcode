@@ -172,6 +172,7 @@
     <ClInclude Include="can-place-flowers.h" />
     <ClInclude Include="cells-with-odd-values-in-a-matrix.h" />
     <ClInclude Include="check-if-it-is-a-straight-line.h" />
+    <ClInclude Include="check-if-n-and-its-double-exist.h" />
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="construct-string-from-binary-tree.h" />
     <ClInclude Include="construct-the-rectangle.h" />
@@ -307,6 +308,7 @@
     <ClInclude Include="number-of-lines-to-write-string.h" />
     <ClInclude Include="number-of-recent-calls.h" />
     <ClInclude Include="number-of-segments-in-a-string.h" />
+    <ClInclude Include="number-of-steps-to-reduce-a-number-to-zero.h" />
     <ClInclude Include="palindrome-linked-list.h" />
     <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="partition-array-into-three-parts-with-equal-sum.h" />

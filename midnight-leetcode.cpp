@@ -11,13 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "the-k-weakest-rows-in-a-matrix.h"
+#include "check-if-n-and-its-double-exist.h"
 
 int main() {
-  std::vector<std::vector<int>> v{{1, 1, 0, 0, 0},
-                                  {1, 1, 1, 1, 0},
-                                  {1, 0, 0, 0, 0},
-                                  {1, 1, 0, 0, 0},
-                                  {1, 1, 1, 1, 1}};
-  solution::kWeakestRows(v, 3);
+  std::vector<int> v{3, 1, 7, 11};
+  solution::checkIfExist(v);
 }
