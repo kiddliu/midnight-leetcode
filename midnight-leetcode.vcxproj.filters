@@ -827,6 +827,12 @@
     <ClInclude Include="check-if-n-and-its-double-exist.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="count-negative-numbers-in-a-sorted-matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sort-integers-by-the-number-of-1-bits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

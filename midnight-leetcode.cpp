@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "check-if-n-and-its-double-exist.h"
+#include "sort-integers-by-the-number-of-1-bits.h"
 
 int main() {
-  std::vector<int> v{3, 1, 7, 11};
-  solution::checkIfExist(v);
+  std::vector<int> v{0,1,2,3,4,5,6,7};
+  solution::sortByBits(v);
 }
