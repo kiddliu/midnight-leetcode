@@ -833,6 +833,12 @@
     <ClInclude Include="sort-integers-by-the-number-of-1-bits.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="number-of-days-between-two-dates.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="how-many-numbers-are-smaller-than-the-current-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

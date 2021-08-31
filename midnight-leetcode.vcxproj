@@ -235,6 +235,7 @@
     <ClInclude Include="hamming-distance.h" />
     <ClInclude Include="happy-number.h" />
     <ClInclude Include="height-checker.h" />
+    <ClInclude Include="how-many-numbers-are-smaller-than-the-current-number.h" />
     <ClInclude Include="image-smoother.h" />
     <ClInclude Include="implement-queue-using-stacks.h" />
     <ClInclude Include="implement-stack-using-queues.h" />
@@ -305,6 +306,7 @@
     <ClInclude Include="node.h" />
     <ClInclude Include="number-complement.h" />
     <ClInclude Include="number-of-1-bits.h" />
+    <ClInclude Include="number-of-days-between-two-dates.h" />
     <ClInclude Include="number-of-equivalent-domino-pairs.h" />
     <ClInclude Include="number-of-lines-to-write-string.h" />
     <ClInclude Include="number-of-recent-calls.h" />
