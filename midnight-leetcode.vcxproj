@@ -228,6 +228,7 @@
     <ClInclude Include="fizz-buzz.h" />
     <ClInclude Include="flipping-an-image.h" />
     <ClInclude Include="flood-fill.h" />
+    <ClInclude Include="generate-a-string-with-characters-that-have-odd-counts.h" />
     <ClInclude Include="goat-latin.h" />
     <ClInclude Include="greatest-common-divisor-of-strings.h" />
     <ClInclude Include="groups-of-special-equivalent-strings.h" />
@@ -240,6 +241,7 @@
     <ClInclude Include="implement-queue-using-stacks.h" />
     <ClInclude Include="implement-stack-using-queues.h" />
     <ClInclude Include="implement-strstr.h" />
+    <ClInclude Include="increasing-decreasing-string.h" />
     <ClInclude Include="increasing-order-search-tree.h" />
     <ClInclude Include="intersection-of-two-arrays-ii.h" />
     <ClInclude Include="intersection-of-two-arrays.h" />

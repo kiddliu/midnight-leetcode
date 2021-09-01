@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "sort-integers-by-the-number-of-1-bits.h"
+#include "increasing-decreasing-string.h"
 
 int main() {
   std::vector<int> v{0,1,2,3,4,5,6,7};
-  solution::sortByBits(v);
+  solution::sortString("aaabbbccc");
 }

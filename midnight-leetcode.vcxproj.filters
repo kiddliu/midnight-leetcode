@@ -839,6 +839,12 @@
     <ClInclude Include="how-many-numbers-are-smaller-than-the-current-number.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="increasing-decreasing-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="generate-a-string-with-characters-that-have-odd-counts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
