@@ -845,6 +845,12 @@
     <ClInclude Include="generate-a-string-with-characters-that-have-odd-counts.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="lucky-numbers-in-a-matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="find-the-distance-value-between-two-arrays.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

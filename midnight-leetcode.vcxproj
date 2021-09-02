@@ -220,6 +220,7 @@
     <ClInclude Include="find-pivot-index.h" />
     <ClInclude Include="find-smallest-letter-greater-than-target.h" />
     <ClInclude Include="find-the-difference.h" />
+    <ClInclude Include="find-the-distance-value-between-two-arrays.h" />
     <ClInclude Include="find-the-town-judge.h" />
     <ClInclude Include="find-winner-on-a-tic-tac-toe-game.h" />
     <ClInclude Include="find-words-that-can-be-formed-by-characters.h" />
@@ -270,6 +271,7 @@
     <ClInclude Include="longest-palindrome.h" />
     <ClInclude Include="longest-uncommon-subsequence-i.h" />
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
+    <ClInclude Include="lucky-numbers-in-a-matrix.h" />
     <ClInclude Include="majority-element.h" />
     <ClInclude Include="matrix-cells-in-distance-order.h" />
     <ClInclude Include="max-consecutive-ones.h" />
