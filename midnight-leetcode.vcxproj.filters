@@ -851,6 +851,12 @@
     <ClInclude Include="find-the-distance-value-between-two-arrays.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="create-target-array-in-the-given-order.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="find-lucky-integer-in-an-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
