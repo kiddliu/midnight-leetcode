@@ -183,6 +183,7 @@
     <ClInclude Include="convert-integer-to-the-sum-of-two-no-zero-integers.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="count-binary-substrings.h" />
+    <ClInclude Include="count-largest-group.h" />
     <ClInclude Include="count-negative-numbers-in-a-sorted-matrix.h" />
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="cousins-in-binary-tree.h" />
@@ -298,6 +299,7 @@
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
     <ClInclude Include="minimum-index-sum-of-two-lists.h" />
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
+    <ClInclude Include="minimum-subsequence-in-non-increasing-order.h" />
     <ClInclude Include="minimum-time-visiting-all-points.h" />
     <ClInclude Include="missing-number.h" />
     <ClInclude Include="monotonic-array.h" />

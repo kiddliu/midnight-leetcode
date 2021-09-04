@@ -857,6 +857,12 @@
     <ClInclude Include="find-lucky-integer-in-an-array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="count-largest-group.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="minimum-subsequence-in-non-increasing-order.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
