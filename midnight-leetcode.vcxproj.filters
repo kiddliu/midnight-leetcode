@@ -863,6 +863,12 @@
     <ClInclude Include="minimum-subsequence-in-non-increasing-order.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="string-matching-in-an-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="minimum-value-to-get-positive-step-by-step-sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
