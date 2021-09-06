@@ -285,6 +285,7 @@
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
     <ClInclude Include="maximum-number-of-balloons.h" />
     <ClInclude Include="maximum-product-of-three-numbers.h" />
+    <ClInclude Include="maximum-score-after-splitting-a-string.h" />
     <ClInclude Include="maximum-subarray.h" />
     <ClInclude Include="merge-sorted-array.h" />
     <ClInclude Include="merge-two-binary-trees.h" />
@@ -343,6 +344,7 @@
     <ClInclude Include="rank-transform-of-an-array.h" />
     <ClInclude Include="ransom-note.h" />
     <ClInclude Include="rectangle-overlap.h" />
+    <ClInclude Include="reformat-the-string.h" />
     <ClInclude Include="relative-ranks.h" />
     <ClInclude Include="relative-sort-array.h" />
     <ClInclude Include="remove-all-adjacent-duplicates-in-string.h" />

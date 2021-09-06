@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "count-largest-group.h"
+#include "maximum-score-after-splitting-a-string.h"
 
 int main() {
   std::vector<int> v{0,1,2,3,4,5,6,7};
-  solution::countLargestGroup(13);
+  solution::maxScore("00110001011111100111101010100010001101001110");
 }
