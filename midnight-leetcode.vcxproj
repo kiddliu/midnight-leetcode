@@ -198,6 +198,7 @@
     <ClInclude Include="delete-node-in-a-linked-list.h" />
     <ClInclude Include="design-hashmap.h" />
     <ClInclude Include="design-hashset.h" />
+    <ClInclude Include="destination-city.h" />
     <ClInclude Include="detect-capital.h" />
     <ClInclude Include="di-string-match.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
@@ -256,6 +257,7 @@
     <ClInclude Include="isomorphic-strings.h" />
     <ClInclude Include="jewels-and-stones.h" />
     <ClInclude Include="keyboard-row.h" />
+    <ClInclude Include="kids-with-the-greatest-number-of-candies.h" />
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
     <ClInclude Include="largest-perimeter-triangle.h" />

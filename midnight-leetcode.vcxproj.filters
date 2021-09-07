@@ -875,6 +875,12 @@
     <ClInclude Include="maximum-score-after-splitting-a-string.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="kids-with-the-greatest-number-of-candies.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="destination-city.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
