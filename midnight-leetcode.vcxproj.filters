@@ -881,6 +881,12 @@
     <ClInclude Include="destination-city.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="check-if-all-1s-are-at-least-length-k-places-away.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build-an-array-with-stack-operations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

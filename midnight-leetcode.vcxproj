@@ -169,8 +169,10 @@
     <ClInclude Include="binary-tree-tilt.h" />
     <ClInclude Include="binary-watch.h" />
     <ClInclude Include="buddy-strings.h" />
+    <ClInclude Include="build-an-array-with-stack-operations.h" />
     <ClInclude Include="can-place-flowers.h" />
     <ClInclude Include="cells-with-odd-values-in-a-matrix.h" />
+    <ClInclude Include="check-if-all-1s-are-at-least-length-k-places-away.h" />
     <ClInclude Include="check-if-it-is-a-straight-line.h" />
     <ClInclude Include="check-if-n-and-its-double-exist.h" />
     <ClInclude Include="climbing-stairs.h" />
