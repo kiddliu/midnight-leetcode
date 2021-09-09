@@ -887,6 +887,12 @@
     <ClInclude Include="build-an-array-with-stack-operations.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="consecutive-characters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="number-of-students-doing-homework-at-a-given-time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
