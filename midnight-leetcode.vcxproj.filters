@@ -893,6 +893,12 @@
     <ClInclude Include="number-of-students-doing-homework-at-a-given-time.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="make-two-arrays-equal-by-reversing-sub-arrays.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

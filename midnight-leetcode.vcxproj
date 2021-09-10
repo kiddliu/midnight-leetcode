@@ -172,6 +172,7 @@
     <ClInclude Include="build-an-array-with-stack-operations.h" />
     <ClInclude Include="can-place-flowers.h" />
     <ClInclude Include="cells-with-odd-values-in-a-matrix.h" />
+    <ClInclude Include="check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.h" />
     <ClInclude Include="check-if-all-1s-are-at-least-length-k-places-away.h" />
     <ClInclude Include="check-if-it-is-a-straight-line.h" />
     <ClInclude Include="check-if-n-and-its-double-exist.h" />
@@ -281,6 +282,7 @@
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
     <ClInclude Include="lucky-numbers-in-a-matrix.h" />
     <ClInclude Include="majority-element.h" />
+    <ClInclude Include="make-two-arrays-equal-by-reversing-sub-arrays.h" />
     <ClInclude Include="matrix-cells-in-distance-order.h" />
     <ClInclude Include="max-consecutive-ones.h" />
     <ClInclude Include="maximize-sum-of-array-after-k-negations.h" />
