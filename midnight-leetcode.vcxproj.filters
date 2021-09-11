@@ -899,6 +899,12 @@
     <ClInclude Include="make-two-arrays-equal-by-reversing-sub-arrays.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="maximum-product-of-two-elements-in-an-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shuffle-the-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

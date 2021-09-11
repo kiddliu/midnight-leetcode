@@ -292,6 +292,7 @@
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
     <ClInclude Include="maximum-number-of-balloons.h" />
     <ClInclude Include="maximum-product-of-three-numbers.h" />
+    <ClInclude Include="maximum-product-of-two-elements-in-an-array.h" />
     <ClInclude Include="maximum-score-after-splitting-a-string.h" />
     <ClInclude Include="maximum-subarray.h" />
     <ClInclude Include="merge-sorted-array.h" />
@@ -387,6 +388,7 @@
     <ClInclude Include="shift-2d-grid.h" />
     <ClInclude Include="shortest-completing-word.h" />
     <ClInclude Include="shortest-distance-to-a-character.h" />
+    <ClInclude Include="shuffle-the-array.h" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="smallest-range-i.h" />
     <ClInclude Include="sort-array-by-parity-ii.h" />
