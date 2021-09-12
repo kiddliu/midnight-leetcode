@@ -905,6 +905,12 @@
     <ClInclude Include="shuffle-the-array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="final-prices-with-a-special-discount-in-a-shop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="running-sum-of-1d-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.h"
+#include "final-prices-with-a-special-discount-in-a-shop.h"
 
 int main() {
-  std::vector<int> v{0,1,2,3,4,5,6,7};
-  solution::isPrefixOfWord("hellohello hellohellohello", "ell");
+  std::vector<int> v{8, 4, 6, 2, 3};
+  solution::finalPrices(v);
 }

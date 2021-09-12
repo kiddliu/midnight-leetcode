@@ -219,6 +219,7 @@
     <ClInclude Include="factorial-trailing-zeroes.h" />
     <ClInclude Include="fair-candy-swap.h" />
     <ClInclude Include="fibonacci-number.h" />
+    <ClInclude Include="final-prices-with-a-special-discount-in-a-shop.h" />
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-common-characters.h" />
     <ClInclude Include="find-lucky-integer-in-an-array.h" />
@@ -379,6 +380,7 @@
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="rotate-string.h" />
     <ClInclude Include="rotated-digits.h" />
+    <ClInclude Include="running-sum-of-1d-array.h" />
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-in-a-binary-search-tree.h" />
     <ClInclude Include="search-insert-position.h" />
