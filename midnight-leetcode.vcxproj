@@ -152,6 +152,7 @@
     <ClInclude Include="assign-cookies.h" />
     <ClInclude Include="available-captures-for-rook.h" />
     <ClInclude Include="average-of-levels-in-binary-tree.h" />
+    <ClInclude Include="average-salary-excluding-the-minimum-and-maximum-salary.h" />
     <ClInclude Include="backspace-string-compare.h" />
     <ClInclude Include="balanced-binary-tree.h" />
     <ClInclude Include="base-7.h" />
@@ -437,6 +438,7 @@
     <ClInclude Include="walking-robot-simulation.h" />
     <ClInclude Include="word-pattern.h" />
     <ClInclude Include="x-of-a-kind-in-a-deck-of-cards.h" />
+    <ClInclude Include="xor-operation-in-an-array.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="big-countries.sql" />

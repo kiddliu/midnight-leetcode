@@ -911,6 +911,12 @@
     <ClInclude Include="running-sum-of-1d-array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="xor-operation-in-an-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="average-salary-excluding-the-minimum-and-maximum-salary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
