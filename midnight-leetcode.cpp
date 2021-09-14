@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "final-prices-with-a-special-discount-in-a-shop.h"
+#include "can-make-arithmetic-progression-from-sequence.h"
 
 int main() {
-  std::vector<int> v{8, 4, 6, 2, 3};
-  solution::finalPrices(v);
+  std::vector<int> v{3, 5, 1};
+  solution::canMakeArithmeticProgression(v);
 }

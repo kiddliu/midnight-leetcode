@@ -917,6 +917,12 @@
     <ClInclude Include="average-salary-excluding-the-minimum-and-maximum-salary.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="path-crossing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="can-make-arithmetic-progression-from-sequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

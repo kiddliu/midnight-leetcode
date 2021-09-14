@@ -171,6 +171,7 @@
     <ClInclude Include="binary-watch.h" />
     <ClInclude Include="buddy-strings.h" />
     <ClInclude Include="build-an-array-with-stack-operations.h" />
+    <ClInclude Include="can-make-arithmetic-progression-from-sequence.h" />
     <ClInclude Include="can-place-flowers.h" />
     <ClInclude Include="cells-with-odd-values-in-a-matrix.h" />
     <ClInclude Include="check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.h" />
@@ -338,6 +339,7 @@
     <ClInclude Include="partition-array-into-three-parts-with-equal-sum.h" />
     <ClInclude Include="pascals-triangle-ii.h" />
     <ClInclude Include="pascals-triangle.h" />
+    <ClInclude Include="path-crossing.h" />
     <ClInclude Include="path-sum.h" />
     <ClInclude Include="perfect-number.h" />
     <ClInclude Include="plus-one.h" />
