@@ -923,6 +923,12 @@
     <ClInclude Include="can-make-arithmetic-progression-from-sequence.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="reformat-date.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="number-of-good-pairs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

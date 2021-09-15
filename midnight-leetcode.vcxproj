@@ -329,6 +329,7 @@
     <ClInclude Include="number-of-1-bits.h" />
     <ClInclude Include="number-of-days-between-two-dates.h" />
     <ClInclude Include="number-of-equivalent-domino-pairs.h" />
+    <ClInclude Include="number-of-good-pairs.h" />
     <ClInclude Include="number-of-lines-to-write-string.h" />
     <ClInclude Include="number-of-recent-calls.h" />
     <ClInclude Include="number-of-segments-in-a-string.h" />
@@ -357,6 +358,7 @@
     <ClInclude Include="rank-transform-of-an-array.h" />
     <ClInclude Include="ransom-note.h" />
     <ClInclude Include="rectangle-overlap.h" />
+    <ClInclude Include="reformat-date.h" />
     <ClInclude Include="reformat-the-string.h" />
     <ClInclude Include="relative-ranks.h" />
     <ClInclude Include="relative-sort-array.h" />

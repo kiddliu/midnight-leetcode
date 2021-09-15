@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "can-make-arithmetic-progression-from-sequence.h"
+#include "reformat-date.h"
 
 int main() {
   std::vector<int> v{3, 5, 1};
-  solution::canMakeArithmeticProgression(v);
+  solution::reformatDate("6th Jun 1933");
 }
