@@ -929,6 +929,12 @@
     <ClInclude Include="number-of-good-pairs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="water-bottles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="count-odd-numbers-in-an-interval-range.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

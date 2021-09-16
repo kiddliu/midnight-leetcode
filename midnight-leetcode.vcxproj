@@ -191,6 +191,7 @@
     <ClInclude Include="count-binary-substrings.h" />
     <ClInclude Include="count-largest-group.h" />
     <ClInclude Include="count-negative-numbers-in-a-sorted-matrix.h" />
+    <ClInclude Include="count-odd-numbers-in-an-interval-range.h" />
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="cousins-in-binary-tree.h" />
     <ClInclude Include="create-target-array-in-the-given-order.h" />
@@ -440,6 +441,7 @@
     <ClInclude Include="valid-perfect-square.h" />
     <ClInclude Include="verifying-an-alien-dictionary.h" />
     <ClInclude Include="walking-robot-simulation.h" />
+    <ClInclude Include="water-bottles.h" />
     <ClInclude Include="word-pattern.h" />
     <ClInclude Include="x-of-a-kind-in-a-deck-of-cards.h" />
     <ClInclude Include="xor-operation-in-an-array.h" />
