@@ -935,6 +935,12 @@
     <ClInclude Include="count-odd-numbers-in-an-interval-range.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="shuffle-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="count-good-triplets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

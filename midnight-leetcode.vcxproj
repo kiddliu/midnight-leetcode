@@ -189,6 +189,7 @@
     <ClInclude Include="convert-integer-to-the-sum-of-two-no-zero-integers.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="count-binary-substrings.h" />
+    <ClInclude Include="count-good-triplets.h" />
     <ClInclude Include="count-largest-group.h" />
     <ClInclude Include="count-negative-numbers-in-a-sorted-matrix.h" />
     <ClInclude Include="count-odd-numbers-in-an-interval-range.h" />
@@ -396,6 +397,7 @@
     <ClInclude Include="shift-2d-grid.h" />
     <ClInclude Include="shortest-completing-word.h" />
     <ClInclude Include="shortest-distance-to-a-character.h" />
+    <ClInclude Include="shuffle-string.h" />
     <ClInclude Include="shuffle-the-array.h" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="smallest-range-i.h" />
