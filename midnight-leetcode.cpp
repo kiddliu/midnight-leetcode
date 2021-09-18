@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "reformat-date.h"
+#include "make-the-string-great.h"
 
 int main() {
-  std::vector<int> v{3, 5, 1};
-  solution::reformatDate("6th Jun 1933");
+  std::vector<int> v{1, 3, 5, 7, 9};
+  solution::makeGood("abBAcC");
 }

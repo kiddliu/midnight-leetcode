@@ -941,6 +941,12 @@
     <ClInclude Include="count-good-triplets.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="kth-missing-positive-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="make-the-string-great.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

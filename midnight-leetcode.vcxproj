@@ -268,6 +268,7 @@
     <ClInclude Include="keyboard-row.h" />
     <ClInclude Include="kids-with-the-greatest-number-of-candies.h" />
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
+    <ClInclude Include="kth-missing-positive-number.h" />
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
     <ClInclude Include="largest-perimeter-triangle.h" />
     <ClInclude Include="largest-triangle-area.h" />
@@ -287,6 +288,7 @@
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
     <ClInclude Include="lucky-numbers-in-a-matrix.h" />
     <ClInclude Include="majority-element.h" />
+    <ClInclude Include="make-the-string-great.h" />
     <ClInclude Include="make-two-arrays-equal-by-reversing-sub-arrays.h" />
     <ClInclude Include="matrix-cells-in-distance-order.h" />
     <ClInclude Include="max-consecutive-ones.h" />
