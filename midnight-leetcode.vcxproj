@@ -194,6 +194,7 @@
     <ClInclude Include="count-negative-numbers-in-a-sorted-matrix.h" />
     <ClInclude Include="count-odd-numbers-in-an-interval-range.h" />
     <ClInclude Include="count-primes.h" />
+    <ClInclude Include="counting-bits.h" />
     <ClInclude Include="cousins-in-binary-tree.h" />
     <ClInclude Include="create-target-array-in-the-given-order.h" />
     <ClInclude Include="day-of-the-week.h" />
@@ -423,6 +424,7 @@
     <ClInclude Include="teemo-attacking.h" />
     <ClInclude Include="the-k-weakest-rows-in-a-matrix.h" />
     <ClInclude Include="third-maximum-number.h" />
+    <ClInclude Include="three-consecutive-odds.h" />
     <ClInclude Include="to-lower-case.h" />
     <ClInclude Include="toeplitz-matrix.h" />
     <ClInclude Include="transpose-matrix.h" />

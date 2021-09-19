@@ -947,6 +947,12 @@
     <ClInclude Include="make-the-string-great.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="counting-bits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="three-consecutive-odds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
