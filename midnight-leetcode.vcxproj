@@ -322,6 +322,7 @@
     <ClInclude Include="missing-number.h" />
     <ClInclude Include="monotonic-array.h" />
     <ClInclude Include="most-common-word.h" />
+    <ClInclude Include="most-visited-sector-in-a-circular-track.h" />
     <ClInclude Include="move-zeroes.h" />
     <ClInclude Include="n-ary-tree-postorder-traversal.h" />
     <ClInclude Include="n-ary-tree-preorder-traversal.h" />
@@ -424,6 +425,7 @@
     <ClInclude Include="teemo-attacking.h" />
     <ClInclude Include="the-k-weakest-rows-in-a-matrix.h" />
     <ClInclude Include="third-maximum-number.h" />
+    <ClInclude Include="thousand-separator.h" />
     <ClInclude Include="three-consecutive-odds.h" />
     <ClInclude Include="to-lower-case.h" />
     <ClInclude Include="toeplitz-matrix.h" />

@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "make-the-string-great.h"
+#include "most-visited-sector-in-a-circular-track.h"
 
 int main() {
-  std::vector<int> v{1, 3, 5, 7, 9};
-  solution::makeGood("abBAcC");
+  std::vector<int> v{4, 1};
+  solution::mostVisited(4, v);
 }
