@@ -209,6 +209,7 @@
     <ClInclude Include="design-hashset.h" />
     <ClInclude Include="destination-city.h" />
     <ClInclude Include="detect-capital.h" />
+    <ClInclude Include="detect-pattern-of-length-m-repeated-k-or-more-times.h" />
     <ClInclude Include="di-string-match.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
     <ClInclude Include="distance-between-bus-stops.h" />
@@ -292,6 +293,7 @@
     <ClInclude Include="make-the-string-great.h" />
     <ClInclude Include="make-two-arrays-equal-by-reversing-sub-arrays.h" />
     <ClInclude Include="matrix-cells-in-distance-order.h" />
+    <ClInclude Include="matrix-diagonal-sum.h" />
     <ClInclude Include="max-consecutive-ones.h" />
     <ClInclude Include="maximize-sum-of-array-after-k-negations.h" />
     <ClInclude Include="maximum-69-number.h" />

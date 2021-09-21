@@ -956,6 +956,15 @@
     <ClInclude Include="thousand-separator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="most-visited-sector-in-a-circular-track.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="detect-pattern-of-length-m-repeated-k-or-more-times.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix-diagonal-sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

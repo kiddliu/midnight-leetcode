@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "most-visited-sector-in-a-circular-track.h"
+#include "detect-pattern-of-length-m-repeated-k-or-more-times.h"
 
 int main() {
-  std::vector<int> v{4, 1};
-  solution::mostVisited(4, v);
+  std::vector<int> v{3, 2, 1, 2, 1, 1, 1, 3};
+  solution::containsPattern(v, 2, 3);
 }
