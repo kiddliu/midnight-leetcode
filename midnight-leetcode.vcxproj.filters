@@ -965,6 +965,12 @@
     <ClInclude Include="matrix-diagonal-sum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="replace-all-s-to-avoid-consecutive-repeating-characters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="special-positions-in-a-binary-matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "detect-pattern-of-length-m-repeated-k-or-more-times.h"
+#include "replace-all-s-to-avoid-consecutive-repeating-characters.h"
 
 int main() {
   std::vector<int> v{3, 2, 1, 2, 1, 1, 1, 3};
-  solution::containsPattern(v, 2, 3);
+  solution::modifyString("?zs");
 }

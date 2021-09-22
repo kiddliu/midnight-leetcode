@@ -379,6 +379,7 @@
     <ClInclude Include="remove-palindromic-subsequences.h" />
     <ClInclude Include="reorder-data-in-log-files.h" />
     <ClInclude Include="repeated-substring-pattern.h" />
+    <ClInclude Include="replace-all-s-to-avoid-consecutive-repeating-characters.h" />
     <ClInclude Include="replace-elements-with-greatest-element-on-right-side.h" />
     <ClInclude Include="reshape-the-matrix.h" />
     <ClInclude Include="reverse-bits.h" />
@@ -410,6 +411,7 @@
     <ClInclude Include="sort-array-by-parity-ii.h" />
     <ClInclude Include="sort-array-by-parity.h" />
     <ClInclude Include="sort-integers-by-the-number-of-1-bits.h" />
+    <ClInclude Include="special-positions-in-a-binary-matrix.h" />
     <ClInclude Include="split-a-string-in-balanced-strings.h" />
     <ClInclude Include="sqrtx.h" />
     <ClInclude Include="squares-of-a-sorted-array.h" />
