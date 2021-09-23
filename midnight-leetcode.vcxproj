@@ -365,6 +365,7 @@
     <ClInclude Include="range-sum-query-immutable.h" />
     <ClInclude Include="rank-transform-of-an-array.h" />
     <ClInclude Include="ransom-note.h" />
+    <ClInclude Include="rearrange-spaces-between-words.h" />
     <ClInclude Include="rectangle-overlap.h" />
     <ClInclude Include="reformat-date.h" />
     <ClInclude Include="reformat-the-string.h" />
@@ -420,6 +421,7 @@
     <ClInclude Include="subdomain-visit-count.h" />
     <ClInclude Include="subtract-the-product-and-sum-of-digits-of-an-integer.h" />
     <ClInclude Include="subtree-of-another-tree.h" />
+    <ClInclude Include="sum-of-all-odd-length-subarrays.h" />
     <ClInclude Include="sum-of-even-numbers-after-queries.h" />
     <ClInclude Include="sum-of-left-leaves.h" />
     <ClInclude Include="sum-of-root-to-leaf-binary-numbers.h" />

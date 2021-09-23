@@ -971,6 +971,12 @@
     <ClInclude Include="special-positions-in-a-binary-matrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sum-of-all-odd-length-subarrays.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rearrange-spaces-between-words.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

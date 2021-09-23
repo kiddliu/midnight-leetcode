@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "replace-all-s-to-avoid-consecutive-repeating-characters.h"
+#include "rearrange-spaces-between-words.h"
 
 int main() {
   std::vector<int> v{3, 2, 1, 2, 1, 1, 1, 3};
-  solution::modifyString("?zs");
+  solution::reorderSpaces(" wywd");
 }
