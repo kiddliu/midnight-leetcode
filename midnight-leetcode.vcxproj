@@ -196,6 +196,7 @@
     <ClInclude Include="count-primes.h" />
     <ClInclude Include="counting-bits.h" />
     <ClInclude Include="cousins-in-binary-tree.h" />
+    <ClInclude Include="crawler-log-folder.h" />
     <ClInclude Include="create-target-array-in-the-given-order.h" />
     <ClInclude Include="day-of-the-week.h" />
     <ClInclude Include="day-of-the-year.h" />
@@ -207,6 +208,7 @@
     <ClInclude Include="delete-node-in-a-linked-list.h" />
     <ClInclude Include="design-hashmap.h" />
     <ClInclude Include="design-hashset.h" />
+    <ClInclude Include="design-parking-system.h" />
     <ClInclude Include="destination-city.h" />
     <ClInclude Include="detect-capital.h" />
     <ClInclude Include="detect-pattern-of-length-m-repeated-k-or-more-times.h" />

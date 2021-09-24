@@ -977,6 +977,12 @@
     <ClInclude Include="rearrange-spaces-between-words.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="crawler-log-folder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="design-parking-system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
