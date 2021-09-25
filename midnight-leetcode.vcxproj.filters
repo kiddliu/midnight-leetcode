@@ -983,6 +983,12 @@
     <ClInclude Include="design-parking-system.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="special-array-with-x-elements-greater-than-or-equal-x.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="maximum-nesting-depth-of-the-parentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

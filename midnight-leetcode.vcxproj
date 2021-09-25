@@ -302,6 +302,7 @@
     <ClInclude Include="maximum-average-subarray-i.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
+    <ClInclude Include="maximum-nesting-depth-of-the-parentheses.h" />
     <ClInclude Include="maximum-number-of-balloons.h" />
     <ClInclude Include="maximum-product-of-three-numbers.h" />
     <ClInclude Include="maximum-product-of-two-elements-in-an-array.h" />
@@ -414,6 +415,7 @@
     <ClInclude Include="sort-array-by-parity-ii.h" />
     <ClInclude Include="sort-array-by-parity.h" />
     <ClInclude Include="sort-integers-by-the-number-of-1-bits.h" />
+    <ClInclude Include="special-array-with-x-elements-greater-than-or-equal-x.h" />
     <ClInclude Include="special-positions-in-a-binary-matrix.h" />
     <ClInclude Include="split-a-string-in-balanced-strings.h" />
     <ClInclude Include="sqrtx.h" />
