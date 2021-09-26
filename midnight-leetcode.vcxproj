@@ -275,6 +275,7 @@
     <ClInclude Include="kth-missing-positive-number.h" />
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
     <ClInclude Include="largest-perimeter-triangle.h" />
+    <ClInclude Include="largest-substring-between-two-equal-characters.h" />
     <ClInclude Include="largest-triangle-area.h" />
     <ClInclude Include="last-stone-weight.h" />
     <ClInclude Include="leaf-similar-trees.h" />
@@ -308,6 +309,7 @@
     <ClInclude Include="maximum-product-of-two-elements-in-an-array.h" />
     <ClInclude Include="maximum-score-after-splitting-a-string.h" />
     <ClInclude Include="maximum-subarray.h" />
+    <ClInclude Include="mean-of-array-after-removing-some-elements.h" />
     <ClInclude Include="merge-sorted-array.h" />
     <ClInclude Include="merge-two-binary-trees.h" />
     <ClInclude Include="merge-two-sorted-lists.h" />

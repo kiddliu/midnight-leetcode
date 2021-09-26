@@ -989,6 +989,12 @@
     <ClInclude Include="maximum-nesting-depth-of-the-parentheses.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="mean-of-array-after-removing-some-elements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="largest-substring-between-two-equal-characters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
