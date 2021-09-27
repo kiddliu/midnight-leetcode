@@ -995,6 +995,12 @@
     <ClInclude Include="largest-substring-between-two-equal-characters.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="slowest-key.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sort-array-by-increasing-frequency.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
