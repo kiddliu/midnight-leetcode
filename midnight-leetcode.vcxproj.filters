@@ -1001,6 +1001,12 @@
     <ClInclude Include="sort-array-by-increasing-frequency.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="check-array-formation-through-concatenation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="get-maximum-in-generated-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
