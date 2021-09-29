@@ -204,9 +204,11 @@
     <ClInclude Include="decompress-run-length-encoded-list.h" />
     <ClInclude Include="decrypt-string-from-alphabet-to-integer-mapping.h" />
     <ClInclude Include="defanging-an-ip-address.h" />
+    <ClInclude Include="defuse-the-bomb.h" />
     <ClInclude Include="degree-of-an-array.h" />
     <ClInclude Include="delete-columns-to-make-sorted.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
+    <ClInclude Include="design-an-ordered-stream.h" />
     <ClInclude Include="design-hashmap.h" />
     <ClInclude Include="design-hashset.h" />
     <ClInclude Include="design-parking-system.h" />

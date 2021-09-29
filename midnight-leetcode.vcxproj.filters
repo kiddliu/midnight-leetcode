@@ -1007,6 +1007,12 @@
     <ClInclude Include="get-maximum-in-generated-array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="defuse-the-bomb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="design-an-ordered-stream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
