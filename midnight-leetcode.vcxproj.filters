@@ -1013,6 +1013,12 @@
     <ClInclude Include="design-an-ordered-stream.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="check-if-two-string-arrays-are-equivalent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="maximum-repeating-substring.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
