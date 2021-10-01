@@ -252,6 +252,7 @@
     <ClInclude Include="flood-fill.h" />
     <ClInclude Include="generate-a-string-with-characters-that-have-odd-counts.h" />
     <ClInclude Include="get-maximum-in-generated-array.h" />
+    <ClInclude Include="goal-parser-interpretation.h" />
     <ClInclude Include="goat-latin.h" />
     <ClInclude Include="greatest-common-divisor-of-strings.h" />
     <ClInclude Include="groups-of-special-equivalent-strings.h" />
@@ -402,6 +403,7 @@
     <ClInclude Include="reverse-string.h" />
     <ClInclude Include="reverse-vowels-of-a-string.h" />
     <ClInclude Include="reverse-words-in-a-string-iii.h" />
+    <ClInclude Include="richest-customer-wealth.h" />
     <ClInclude Include="robot-return-to-origin.h" />
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="rotate-string.h" />

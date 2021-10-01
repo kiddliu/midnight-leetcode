@@ -1019,6 +1019,12 @@
     <ClInclude Include="maximum-repeating-substring.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="richest-customer-wealth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="goal-parser-interpretation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
