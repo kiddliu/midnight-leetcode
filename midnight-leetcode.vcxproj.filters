@@ -1025,6 +1025,12 @@
     <ClInclude Include="goal-parser-interpretation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="count-the-number-of-consistent-strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="count-of-matches-in-tournament.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
