@@ -1031,6 +1031,12 @@
     <ClInclude Include="count-of-matches-in-tournament.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="reformat-phone-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="number-of-students-unable-to-eat-lunch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

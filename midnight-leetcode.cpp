@@ -11,11 +11,10 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "count-the-number-of-consistent-strings.h"
+#include "number-of-students-unable-to-eat-lunch.h"
 
 int main() {
-  std::vector<int> v{10, 5, 7, 7, 3, 2, 10, 3, 6, 9, 1, 6};
-  std::vector<std::vector<int>> v2{{78}, {4, 64}, {91}};
-  std::vector<std::string> v3{"ad", "bd", "aaab", "baa", "badab"};
-  solution::countConsistentStrings("ab", v3);
+  std::vector<int> v{1, 1, 1, 0, 0, 1};
+  std::vector<int> v2{1, 0, 0, 0, 1, 1};
+  solution::countStudents(v, v2);
 }

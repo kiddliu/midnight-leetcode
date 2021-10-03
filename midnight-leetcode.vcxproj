@@ -357,6 +357,7 @@
     <ClInclude Include="number-of-segments-in-a-string.h" />
     <ClInclude Include="number-of-steps-to-reduce-a-number-to-zero.h" />
     <ClInclude Include="number-of-students-doing-homework-at-a-given-time.h" />
+    <ClInclude Include="number-of-students-unable-to-eat-lunch.h" />
     <ClInclude Include="palindrome-linked-list.h" />
     <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="partition-array-into-three-parts-with-equal-sum.h" />
@@ -382,6 +383,7 @@
     <ClInclude Include="rearrange-spaces-between-words.h" />
     <ClInclude Include="rectangle-overlap.h" />
     <ClInclude Include="reformat-date.h" />
+    <ClInclude Include="reformat-phone-number.h" />
     <ClInclude Include="reformat-the-string.h" />
     <ClInclude Include="relative-ranks.h" />
     <ClInclude Include="relative-sort-array.h" />
