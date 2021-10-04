@@ -218,6 +218,7 @@
     <ClInclude Include="destination-city.h" />
     <ClInclude Include="detect-capital.h" />
     <ClInclude Include="detect-pattern-of-length-m-repeated-k-or-more-times.h" />
+    <ClInclude Include="determine-if-string-halves-are-alike.h" />
     <ClInclude Include="di-string-match.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
     <ClInclude Include="distance-between-bus-stops.h" />
@@ -318,6 +319,7 @@
     <ClInclude Include="maximum-repeating-substring.h" />
     <ClInclude Include="maximum-score-after-splitting-a-string.h" />
     <ClInclude Include="maximum-subarray.h" />
+    <ClInclude Include="maximum-units-on-a-truck.h" />
     <ClInclude Include="mean-of-array-after-removing-some-elements.h" />
     <ClInclude Include="merge-sorted-array.h" />
     <ClInclude Include="merge-two-binary-trees.h" />

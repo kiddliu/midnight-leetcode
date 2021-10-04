@@ -1037,6 +1037,12 @@
     <ClInclude Include="number-of-students-unable-to-eat-lunch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="determine-if-string-halves-are-alike.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="maximum-units-on-a-truck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
