@@ -171,6 +171,7 @@
     <ClInclude Include="binary-watch.h" />
     <ClInclude Include="buddy-strings.h" />
     <ClInclude Include="build-an-array-with-stack-operations.h" />
+    <ClInclude Include="calculate-money-in-leetcode-bank.h" />
     <ClInclude Include="can-make-arithmetic-progression-from-sequence.h" />
     <ClInclude Include="can-place-flowers.h" />
     <ClInclude Include="cells-with-odd-values-in-a-matrix.h" />
@@ -204,6 +205,7 @@
     <ClInclude Include="create-target-array-in-the-given-order.h" />
     <ClInclude Include="day-of-the-week.h" />
     <ClInclude Include="day-of-the-year.h" />
+    <ClInclude Include="decode-xored-array.h" />
     <ClInclude Include="decompress-run-length-encoded-list.h" />
     <ClInclude Include="decrypt-string-from-alphabet-to-integer-mapping.h" />
     <ClInclude Include="defanging-an-ip-address.h" />
