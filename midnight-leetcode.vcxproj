@@ -247,6 +247,7 @@
     <ClInclude Include="find-smallest-letter-greater-than-target.h" />
     <ClInclude Include="find-the-difference.h" />
     <ClInclude Include="find-the-distance-value-between-two-arrays.h" />
+    <ClInclude Include="find-the-highest-altitude.h" />
     <ClInclude Include="find-the-town-judge.h" />
     <ClInclude Include="find-winner-on-a-tic-tac-toe-game.h" />
     <ClInclude Include="find-words-that-can-be-formed-by-characters.h" />
@@ -358,6 +359,7 @@
     <ClInclude Include="number-of-good-pairs.h" />
     <ClInclude Include="number-of-lines-to-write-string.h" />
     <ClInclude Include="number-of-recent-calls.h" />
+    <ClInclude Include="number-of-rectangles-that-can-form-the-largest-square.h" />
     <ClInclude Include="number-of-segments-in-a-string.h" />
     <ClInclude Include="number-of-steps-to-reduce-a-number-to-zero.h" />
     <ClInclude Include="number-of-students-doing-homework-at-a-given-time.h" />

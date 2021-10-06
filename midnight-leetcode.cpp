@@ -11,10 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "number-of-students-unable-to-eat-lunch.h"
+#include "number-of-rectangles-that-can-form-the-largest-square.h"
 
 int main() {
-  std::vector<int> v{1, 1, 1, 0, 0, 1};
-  std::vector<int> v2{1, 0, 0, 0, 1, 1};
-  solution::countStudents(v, v2);
+  std::vector<std::vector<int>> v{{5, 8}, { 3, 9 }, { 5, 12 }, { 16, 5 }};
+  solution::countGoodRectangles(v);
 }
