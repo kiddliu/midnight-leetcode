@@ -1055,6 +1055,12 @@
     <ClInclude Include="find-the-highest-altitude.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="latest-time-by-replacing-hidden-digits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="maximum-number-of-balls-in-a-box.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

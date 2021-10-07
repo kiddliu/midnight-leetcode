@@ -290,6 +290,7 @@
     <ClInclude Include="largest-substring-between-two-equal-characters.h" />
     <ClInclude Include="largest-triangle-area.h" />
     <ClInclude Include="last-stone-weight.h" />
+    <ClInclude Include="latest-time-by-replacing-hidden-digits.h" />
     <ClInclude Include="leaf-similar-trees.h" />
     <ClInclude Include="lemonade-change.h" />
     <ClInclude Include="length-of-last-word.h" />
@@ -317,6 +318,7 @@
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
     <ClInclude Include="maximum-nesting-depth-of-the-parentheses.h" />
     <ClInclude Include="maximum-number-of-balloons.h" />
+    <ClInclude Include="maximum-number-of-balls-in-a-box.h" />
     <ClInclude Include="maximum-product-of-three-numbers.h" />
     <ClInclude Include="maximum-product-of-two-elements-in-an-array.h" />
     <ClInclude Include="maximum-repeating-substring.h" />
