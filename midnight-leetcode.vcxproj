@@ -178,6 +178,7 @@
     <ClInclude Include="check-array-formation-through-concatenation.h" />
     <ClInclude Include="check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.h" />
     <ClInclude Include="check-if-all-1s-are-at-least-length-k-places-away.h" />
+    <ClInclude Include="check-if-array-is-sorted-and-rotated.h" />
     <ClInclude Include="check-if-it-is-a-straight-line.h" />
     <ClInclude Include="check-if-n-and-its-double-exist.h" />
     <ClInclude Include="check-if-two-string-arrays-are-equivalent.h" />
@@ -453,6 +454,7 @@
     <ClInclude Include="sum-of-even-numbers-after-queries.h" />
     <ClInclude Include="sum-of-left-leaves.h" />
     <ClInclude Include="sum-of-root-to-leaf-binary-numbers.h" />
+    <ClInclude Include="sum-of-unique-elements.h" />
     <ClInclude Include="summary-ranges.h" />
     <ClInclude Include="surface-area-of-3d-shapes.h" />
     <ClInclude Include="symmetric-tree.h" />

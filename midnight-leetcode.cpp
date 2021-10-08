@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "number-of-rectangles-that-can-form-the-largest-square.h"
+#include "check-if-array-is-sorted-and-rotated.h"
 
 int main() {
-  std::vector<std::vector<int>> v{{5, 8}, { 3, 9 }, { 5, 12 }, { 16, 5 }};
-  solution::countGoodRectangles(v);
+  std::vector<int> v{2, 7, 4, 1, 2, 6, 2};
+  solution::check(v);
 }

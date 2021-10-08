@@ -1061,6 +1061,12 @@
     <ClInclude Include="maximum-number-of-balls-in-a-box.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sum-of-unique-elements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="check-if-array-is-sorted-and-rotated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
