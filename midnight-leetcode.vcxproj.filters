@@ -1067,6 +1067,12 @@
     <ClInclude Include="check-if-array-is-sorted-and-rotated.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="minimum-changes-to-make-alternating-binary-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="longest-nice-substring.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
