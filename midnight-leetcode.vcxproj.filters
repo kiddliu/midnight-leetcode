@@ -1073,6 +1073,12 @@
     <ClInclude Include="longest-nice-substring.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="merge-strings-alternately.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="count-items-matching-a-rule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
