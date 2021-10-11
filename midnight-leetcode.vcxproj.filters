@@ -1079,6 +1079,12 @@
     <ClInclude Include="count-items-matching-a-rule.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-nearest-point-that-has-the-same-x-or-y-coordinate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="check-if-binary-string-has-at-most-one-segment-of-ones.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

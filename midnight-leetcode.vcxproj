@@ -179,6 +179,7 @@
     <ClInclude Include="check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.h" />
     <ClInclude Include="check-if-all-1s-are-at-least-length-k-places-away.h" />
     <ClInclude Include="check-if-array-is-sorted-and-rotated.h" />
+    <ClInclude Include="check-if-binary-string-has-at-most-one-segment-of-ones.h" />
     <ClInclude Include="check-if-it-is-a-straight-line.h" />
     <ClInclude Include="check-if-n-and-its-double-exist.h" />
     <ClInclude Include="check-if-two-string-arrays-are-equivalent.h" />
@@ -244,6 +245,7 @@
     <ClInclude Include="find-lucky-integer-in-an-array.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
     <ClInclude Include="find-n-unique-integers-sum-up-to-zero.h" />
+    <ClInclude Include="find-nearest-point-that-has-the-same-x-or-y-coordinate.h" />
     <ClInclude Include="find-numbers-with-even-number-of-digits.h" />
     <ClInclude Include="find-pivot-index.h" />
     <ClInclude Include="find-smallest-letter-greater-than-target.h" />
