@@ -1085,6 +1085,12 @@
     <ClInclude Include="check-if-binary-string-has-at-most-one-segment-of-ones.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="check-if-one-string-swap-can-make-strings-equal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="find-center-of-star-graph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

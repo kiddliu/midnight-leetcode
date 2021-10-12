@@ -182,6 +182,7 @@
     <ClInclude Include="check-if-binary-string-has-at-most-one-segment-of-ones.h" />
     <ClInclude Include="check-if-it-is-a-straight-line.h" />
     <ClInclude Include="check-if-n-and-its-double-exist.h" />
+    <ClInclude Include="check-if-one-string-swap-can-make-strings-equal.h" />
     <ClInclude Include="check-if-two-string-arrays-are-equivalent.h" />
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="consecutive-characters.h" />
@@ -241,6 +242,7 @@
     <ClInclude Include="fibonacci-number.h" />
     <ClInclude Include="final-prices-with-a-special-discount-in-a-shop.h" />
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
+    <ClInclude Include="find-center-of-star-graph.h" />
     <ClInclude Include="find-common-characters.h" />
     <ClInclude Include="find-lucky-integer-in-an-array.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
