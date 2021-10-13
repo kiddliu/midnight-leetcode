@@ -320,6 +320,7 @@
     <ClInclude Include="max-consecutive-ones.h" />
     <ClInclude Include="maximize-sum-of-array-after-k-negations.h" />
     <ClInclude Include="maximum-69-number.h" />
+    <ClInclude Include="maximum-ascending-subarray-sum.h" />
     <ClInclude Include="maximum-average-subarray-i.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
@@ -433,6 +434,7 @@
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-in-a-binary-search-tree.h" />
     <ClInclude Include="search-insert-position.h" />
+    <ClInclude Include="second-largest-digit-in-a-string.h" />
     <ClInclude Include="second-minimum-node-in-a-binary-tree.h" />
     <ClInclude Include="self-dividing-numbers.h" />
     <ClInclude Include="set-mismatch.h" />
