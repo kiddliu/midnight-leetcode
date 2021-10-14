@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "check-if-array-is-sorted-and-rotated.h"
+#include "number-of-different-integers-in-a-string.h"
 
 int main() {
   std::vector<int> v{2, 7, 4, 1, 2, 6, 2};
-  solution::check(v);
+  solution::numDifferentIntegers("0a0");
 }
