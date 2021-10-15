@@ -1103,6 +1103,12 @@
     <ClInclude Include="determine-color-of-a-chessboard-square.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="truncate-sentence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sign-of-the-product-of-an-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
