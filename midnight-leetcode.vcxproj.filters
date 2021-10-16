@@ -1109,6 +1109,12 @@
     <ClInclude Include="sign-of-the-product-of-an-array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="minimum-operations-to-make-the-array-increasing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="check-if-the-sentence-is-pangram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

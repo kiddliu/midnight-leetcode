@@ -183,6 +183,7 @@
     <ClInclude Include="check-if-it-is-a-straight-line.h" />
     <ClInclude Include="check-if-n-and-its-double-exist.h" />
     <ClInclude Include="check-if-one-string-swap-can-make-strings-equal.h" />
+    <ClInclude Include="check-if-the-sentence-is-pangram.h" />
     <ClInclude Include="check-if-two-string-arrays-are-equivalent.h" />
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="consecutive-characters.h" />
@@ -350,6 +351,7 @@
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
     <ClInclude Include="minimum-index-sum-of-two-lists.h" />
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
+    <ClInclude Include="minimum-operations-to-make-the-array-increasing.h" />
     <ClInclude Include="minimum-subsequence-in-non-increasing-order.h" />
     <ClInclude Include="minimum-time-visiting-all-points.h" />
     <ClInclude Include="minimum-value-to-get-positive-step-by-step-sum.h" />
