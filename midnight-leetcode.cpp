@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "number-of-different-integers-in-a-string.h"
+#include "replace-all-digits-with-characters.h"
 
 int main() {
   std::vector<int> v{2, 7, 4, 1, 2, 6, 2};
-  solution::numDifferentIntegers("0a0");
+  solution::replaceDigits("a1c1e1");
 }

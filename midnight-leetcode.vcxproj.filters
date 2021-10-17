@@ -1115,6 +1115,12 @@
     <ClInclude Include="check-if-the-sentence-is-pangram.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sum-of-digits-in-base-k.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="replace-all-digits-with-characters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

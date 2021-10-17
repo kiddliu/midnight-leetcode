@@ -418,6 +418,7 @@
     <ClInclude Include="remove-palindromic-subsequences.h" />
     <ClInclude Include="reorder-data-in-log-files.h" />
     <ClInclude Include="repeated-substring-pattern.h" />
+    <ClInclude Include="replace-all-digits-with-characters.h" />
     <ClInclude Include="replace-all-s-to-avoid-consecutive-repeating-characters.h" />
     <ClInclude Include="replace-elements-with-greatest-element-on-right-side.h" />
     <ClInclude Include="reshape-the-matrix.h" />
@@ -466,6 +467,7 @@
     <ClInclude Include="subtract-the-product-and-sum-of-digits-of-an-integer.h" />
     <ClInclude Include="subtree-of-another-tree.h" />
     <ClInclude Include="sum-of-all-odd-length-subarrays.h" />
+    <ClInclude Include="sum-of-digits-in-base-k.h" />
     <ClInclude Include="sum-of-even-numbers-after-queries.h" />
     <ClInclude Include="sum-of-left-leaves.h" />
     <ClInclude Include="sum-of-root-to-leaf-binary-numbers.h" />
