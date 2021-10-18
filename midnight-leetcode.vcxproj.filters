@@ -1121,6 +1121,12 @@
     <ClInclude Include="replace-all-digits-with-characters.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="minimum-distance-to-the-target-element.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="maximum-population-year.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

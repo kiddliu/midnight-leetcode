@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "replace-all-digits-with-characters.h"
+#include "maximum-population-year.h"
 
 int main() {
-  std::vector<int> v{2, 7, 4, 1, 2, 6, 2};
-  solution::replaceDigits("a1c1e1");
+  std::vector<std::vector<int>> v{{1950, 1961}, {1960, 1971}, {1970, 1981}};
+  solution::maximumPopulation(v);
 }
