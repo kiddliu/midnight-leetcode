@@ -458,6 +458,7 @@
     <ClInclude Include="sort-array-by-parity-ii.h" />
     <ClInclude Include="sort-array-by-parity.h" />
     <ClInclude Include="sort-integers-by-the-number-of-1-bits.h" />
+    <ClInclude Include="sorting-the-sentence.h" />
     <ClInclude Include="special-array-with-x-elements-greater-than-or-equal-x.h" />
     <ClInclude Include="special-positions-in-a-binary-matrix.h" />
     <ClInclude Include="split-a-string-in-balanced-strings.h" />
@@ -469,6 +470,7 @@
     <ClInclude Include="subtract-the-product-and-sum-of-digits-of-an-integer.h" />
     <ClInclude Include="subtree-of-another-tree.h" />
     <ClInclude Include="sum-of-all-odd-length-subarrays.h" />
+    <ClInclude Include="sum-of-all-subset-xor-totals.h" />
     <ClInclude Include="sum-of-digits-in-base-k.h" />
     <ClInclude Include="sum-of-even-numbers-after-queries.h" />
     <ClInclude Include="sum-of-left-leaves.h" />

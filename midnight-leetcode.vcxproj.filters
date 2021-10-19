@@ -1127,6 +1127,12 @@
     <ClInclude Include="maximum-population-year.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sorting-the-sentence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sum-of-all-subset-xor-totals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

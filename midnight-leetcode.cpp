@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "maximum-population-year.h"
+#include "sorting-the-sentence.h"
 
 int main() {
   std::vector<std::vector<int>> v{{1950, 1961}, {1960, 1971}, {1970, 1981}};
-  solution::maximumPopulation(v);
+  solution::sortSentence("is2 sentence4 This1 a3");
 }
