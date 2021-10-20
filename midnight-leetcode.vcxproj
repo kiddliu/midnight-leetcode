@@ -185,6 +185,7 @@
     <ClInclude Include="check-if-one-string-swap-can-make-strings-equal.h" />
     <ClInclude Include="check-if-the-sentence-is-pangram.h" />
     <ClInclude Include="check-if-two-string-arrays-are-equivalent.h" />
+    <ClInclude Include="check-if-word-equals-summation-of-two-words.h" />
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="consecutive-characters.h" />
     <ClInclude Include="construct-string-from-binary-tree.h" />
@@ -467,6 +468,7 @@
     <ClInclude Include="string-matching-in-an-array.h" />
     <ClInclude Include="student-attendance-record-i.h" />
     <ClInclude Include="subdomain-visit-count.h" />
+    <ClInclude Include="substrings-of-size-three-with-distinct-characters.h" />
     <ClInclude Include="subtract-the-product-and-sum-of-digits-of-an-integer.h" />
     <ClInclude Include="subtree-of-another-tree.h" />
     <ClInclude Include="sum-of-all-odd-length-subarrays.h" />

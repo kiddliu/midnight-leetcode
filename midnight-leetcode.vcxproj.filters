@@ -1133,6 +1133,12 @@
     <ClInclude Include="sum-of-all-subset-xor-totals.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="substrings-of-size-three-with-distinct-characters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="check-if-word-equals-summation-of-two-words.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
