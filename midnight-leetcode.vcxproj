@@ -178,6 +178,7 @@
     <ClInclude Include="check-array-formation-through-concatenation.h" />
     <ClInclude Include="check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.h" />
     <ClInclude Include="check-if-all-1s-are-at-least-length-k-places-away.h" />
+    <ClInclude Include="check-if-all-the-integers-in-a-range-are-covered.h" />
     <ClInclude Include="check-if-array-is-sorted-and-rotated.h" />
     <ClInclude Include="check-if-binary-string-has-at-most-one-segment-of-ones.h" />
     <ClInclude Include="check-if-it-is-a-straight-line.h" />
@@ -228,6 +229,7 @@
     <ClInclude Include="detect-pattern-of-length-m-repeated-k-or-more-times.h" />
     <ClInclude Include="determine-color-of-a-chessboard-square.h" />
     <ClInclude Include="determine-if-string-halves-are-alike.h" />
+    <ClInclude Include="determine-whether-matrix-can-be-obtained-by-rotation.h" />
     <ClInclude Include="di-string-match.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
     <ClInclude Include="distance-between-bus-stops.h" />

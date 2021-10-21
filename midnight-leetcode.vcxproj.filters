@@ -1139,6 +1139,12 @@
     <ClInclude Include="check-if-word-equals-summation-of-two-words.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="determine-whether-matrix-can-be-obtained-by-rotation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="check-if-all-the-integers-in-a-range-are-covered.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

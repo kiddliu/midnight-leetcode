@@ -11,9 +11,10 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "sorting-the-sentence.h"
+#include "determine-whether-matrix-can-be-obtained-by-rotation.h"
 
 int main() {
-  std::vector<std::vector<int>> v{{1950, 1961}, {1960, 1971}, {1970, 1981}};
-  solution::sortSentence("is2 sentence4 This1 a3");
+  std::vector<std::vector<int>> v1{{0, 1}, {1, 0}};
+  std::vector<std::vector<int>> v2{{1, 0}, {0, 1}};
+  solution::findRotation(v1, v2);
 }
