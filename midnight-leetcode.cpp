@@ -11,10 +11,8 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "determine-whether-matrix-can-be-obtained-by-rotation.h"
+#include "longer-contiguous-segments-of-ones-than-zeros.h"
 
 int main() {
-  std::vector<std::vector<int>> v1{{0, 1}, {1, 0}};
-  std::vector<std::vector<int>> v2{{1, 0}, {0, 1}};
-  solution::findRotation(v1, v2);
+  solution::checkZeroOnes("000111");
 }

@@ -1145,6 +1145,12 @@
     <ClInclude Include="check-if-all-the-integers-in-a-range-are-covered.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="longer-contiguous-segments-of-ones-than-zeros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="redistribute-characters-to-make-all-strings-equal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
