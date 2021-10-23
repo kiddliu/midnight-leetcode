@@ -297,6 +297,7 @@
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
     <ClInclude Include="kth-missing-positive-number.h" />
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
+    <ClInclude Include="largest-odd-number-in-string.h" />
     <ClInclude Include="largest-perimeter-triangle.h" />
     <ClInclude Include="largest-substring-between-two-equal-characters.h" />
     <ClInclude Include="largest-triangle-area.h" />
@@ -421,6 +422,7 @@
     <ClInclude Include="remove-duplicates-from-sorted-list.h" />
     <ClInclude Include="remove-element.h" />
     <ClInclude Include="remove-linked-list-elements.h" />
+    <ClInclude Include="remove-one-element-to-make-the-array-strictly-increasing.h" />
     <ClInclude Include="remove-outermost-parentheses.h" />
     <ClInclude Include="remove-palindromic-subsequences.h" />
     <ClInclude Include="reorder-data-in-log-files.h" />
