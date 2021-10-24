@@ -1157,6 +1157,12 @@
     <ClInclude Include="remove-one-element-to-make-the-array-strictly-increasing.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="maximum-product-difference-between-two-pairs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build-array-from-permutation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
