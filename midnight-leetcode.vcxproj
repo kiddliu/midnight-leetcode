@@ -189,6 +189,7 @@
     <ClInclude Include="check-if-two-string-arrays-are-equivalent.h" />
     <ClInclude Include="check-if-word-equals-summation-of-two-words.h" />
     <ClInclude Include="climbing-stairs.h" />
+    <ClInclude Include="concatenation-of-array.h" />
     <ClInclude Include="consecutive-characters.h" />
     <ClInclude Include="construct-string-from-binary-tree.h" />
     <ClInclude Include="construct-the-rectangle.h" />
@@ -206,6 +207,7 @@
     <ClInclude Include="count-odd-numbers-in-an-interval-range.h" />
     <ClInclude Include="count-of-matches-in-tournament.h" />
     <ClInclude Include="count-primes.h" />
+    <ClInclude Include="count-square-sum-triples.h" />
     <ClInclude Include="count-the-number-of-consistent-strings.h" />
     <ClInclude Include="counting-bits.h" />
     <ClInclude Include="cousins-in-binary-tree.h" />

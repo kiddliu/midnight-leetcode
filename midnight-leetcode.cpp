@@ -11,8 +11,8 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "longer-contiguous-segments-of-ones-than-zeros.h"
+#include "count-square-sum-triples.h"
 
 int main() {
-  solution::checkZeroOnes("000111");
+  solution::countTriples(10);
 }

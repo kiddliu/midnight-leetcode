@@ -1163,6 +1163,12 @@
     <ClInclude Include="build-array-from-permutation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="count-square-sum-triples.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="concatenation-of-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
