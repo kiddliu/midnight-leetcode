@@ -1169,6 +1169,12 @@
     <ClInclude Include="concatenation-of-array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="maximum-number-of-words-you-can-type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="check-if-all-characters-have-equal-number-of-occurrences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

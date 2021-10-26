@@ -11,8 +11,6 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "count-square-sum-triples.h"
+#include "maximum-number-of-words-you-can-type.h"
 
-int main() {
-  solution::countTriples(10);
-}
+int main() { solution::canBeTypedWords("leet code", "lt"); }
