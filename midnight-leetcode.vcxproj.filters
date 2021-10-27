@@ -1175,6 +1175,12 @@
     <ClInclude Include="check-if-all-characters-have-equal-number-of-occurrences.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sum-of-digits-of-string-after-convert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="three-divisors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

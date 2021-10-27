@@ -11,6 +11,6 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "maximum-number-of-words-you-can-type.h"
+#include "sum-of-digits-of-string-after-convert.h"
 
-int main() { solution::canBeTypedWords("leet code", "lt"); }
+int main() { solution::getLucky("iiii", 1); }

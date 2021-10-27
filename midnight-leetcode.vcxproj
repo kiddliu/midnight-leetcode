@@ -486,6 +486,7 @@
     <ClInclude Include="sum-of-all-odd-length-subarrays.h" />
     <ClInclude Include="sum-of-all-subset-xor-totals.h" />
     <ClInclude Include="sum-of-digits-in-base-k.h" />
+    <ClInclude Include="sum-of-digits-of-string-after-convert.h" />
     <ClInclude Include="sum-of-even-numbers-after-queries.h" />
     <ClInclude Include="sum-of-left-leaves.h" />
     <ClInclude Include="sum-of-root-to-leaf-binary-numbers.h" />
@@ -498,6 +499,7 @@
     <ClInclude Include="third-maximum-number.h" />
     <ClInclude Include="thousand-separator.h" />
     <ClInclude Include="three-consecutive-odds.h" />
+    <ClInclude Include="three-divisors.h" />
     <ClInclude Include="to-lower-case.h" />
     <ClInclude Include="toeplitz-matrix.h" />
     <ClInclude Include="transpose-matrix.h" />
