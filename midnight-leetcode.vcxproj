@@ -186,6 +186,7 @@
     <ClInclude Include="check-if-it-is-a-straight-line.h" />
     <ClInclude Include="check-if-n-and-its-double-exist.h" />
     <ClInclude Include="check-if-one-string-swap-can-make-strings-equal.h" />
+    <ClInclude Include="check-if-string-is-a-prefix-of-array.h" />
     <ClInclude Include="check-if-the-sentence-is-pangram.h" />
     <ClInclude Include="check-if-two-string-arrays-are-equivalent.h" />
     <ClInclude Include="check-if-word-equals-summation-of-two-words.h" />
@@ -222,6 +223,7 @@
     <ClInclude Include="defanging-an-ip-address.h" />
     <ClInclude Include="defuse-the-bomb.h" />
     <ClInclude Include="degree-of-an-array.h" />
+    <ClInclude Include="delete-characters-to-make-fancy-string.h" />
     <ClInclude Include="delete-columns-to-make-sorted.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
     <ClInclude Include="design-an-ordered-stream.h" />

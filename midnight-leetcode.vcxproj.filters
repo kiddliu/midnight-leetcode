@@ -1181,6 +1181,12 @@
     <ClInclude Include="three-divisors.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="delete-characters-to-make-fancy-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="check-if-string-is-a-prefix-of-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
