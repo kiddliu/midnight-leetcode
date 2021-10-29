@@ -255,6 +255,7 @@
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-center-of-star-graph.h" />
     <ClInclude Include="find-common-characters.h" />
+    <ClInclude Include="find-if-path-exists-in-graph.h" />
     <ClInclude Include="find-lucky-integer-in-an-array.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
     <ClInclude Include="find-n-unique-integers-sum-up-to-zero.h" />
@@ -393,6 +394,7 @@
     <ClInclude Include="number-of-rectangles-that-can-form-the-largest-square.h" />
     <ClInclude Include="number-of-segments-in-a-string.h" />
     <ClInclude Include="number-of-steps-to-reduce-a-number-to-zero.h" />
+    <ClInclude Include="number-of-strings-that-appear-as-substrings-in-word.h" />
     <ClInclude Include="number-of-students-doing-homework-at-a-given-time.h" />
     <ClInclude Include="number-of-students-unable-to-eat-lunch.h" />
     <ClInclude Include="palindrome-linked-list.h" />

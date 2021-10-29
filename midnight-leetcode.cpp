@@ -11,6 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "sum-of-digits-of-string-after-convert.h"
+#include "find-if-path-exists-in-graph.h"
 
-int main() { solution::getLucky("iiii", 1); }
+int main() {
+  std::vector<std::vector<int>> v{{0, 1}, {0, 2}, {3, 5}, {5, 4}, {4, 3}};
+  solution::validPath(6, v, 0, 5); 
+}
