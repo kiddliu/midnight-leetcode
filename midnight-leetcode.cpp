@@ -11,9 +11,6 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "find-if-path-exists-in-graph.h"
+#include "minimum-time-to-type-word-using-special-typewriter.h"
 
-int main() {
-  std::vector<std::vector<int>> v{{0, 1}, {0, 2}, {3, 5}, {5, 4}, {4, 3}};
-  solution::validPath(6, v, 0, 5); 
-}
+int main() { solution::minTimeToType("bza"); }

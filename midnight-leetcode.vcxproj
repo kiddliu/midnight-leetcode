@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -255,6 +256,7 @@
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-center-of-star-graph.h" />
     <ClInclude Include="find-common-characters.h" />
+    <ClInclude Include="find-greatest-common-divisor-of-array.h" />
     <ClInclude Include="find-if-path-exists-in-graph.h" />
     <ClInclude Include="find-lucky-integer-in-an-array.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
@@ -369,6 +371,7 @@
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
     <ClInclude Include="minimum-operations-to-make-the-array-increasing.h" />
     <ClInclude Include="minimum-subsequence-in-non-increasing-order.h" />
+    <ClInclude Include="minimum-time-to-type-word-using-special-typewriter.h" />
     <ClInclude Include="minimum-time-visiting-all-points.h" />
     <ClInclude Include="minimum-value-to-get-positive-step-by-step-sum.h" />
     <ClInclude Include="missing-number.h" />
