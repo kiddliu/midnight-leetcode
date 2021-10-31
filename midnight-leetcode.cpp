@@ -11,6 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "minimum-time-to-type-word-using-special-typewriter.h"
+#include "find-the-middle-index-in-array.h"
 
-int main() { solution::minTimeToType("bza"); }
+int main() {
+  std::vector<int> v{2, 5};
+  solution::findMiddleIndex(v); 
+}

@@ -268,6 +268,7 @@
     <ClInclude Include="find-the-difference.h" />
     <ClInclude Include="find-the-distance-value-between-two-arrays.h" />
     <ClInclude Include="find-the-highest-altitude.h" />
+    <ClInclude Include="find-the-middle-index-in-array.h" />
     <ClInclude Include="find-the-town-judge.h" />
     <ClInclude Include="find-winner-on-a-tic-tac-toe-game.h" />
     <ClInclude Include="find-words-that-can-be-formed-by-characters.h" />
@@ -363,6 +364,7 @@
     <ClInclude Include="minimum-absolute-difference.h" />
     <ClInclude Include="minimum-changes-to-make-alternating-binary-string.h" />
     <ClInclude Include="minimum-cost-to-move-chips-to-the-same-position.h" />
+    <ClInclude Include="minimum-difference-between-highest-and-lowest-of-k-scores.h" />
     <ClInclude Include="minimum-distance-between-bst-nodes.h" />
     <ClInclude Include="minimum-absolute-difference-in-bst.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
