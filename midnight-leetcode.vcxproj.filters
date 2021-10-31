@@ -1205,6 +1205,12 @@
     <ClInclude Include="find-the-middle-index-in-array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="reverse-prefix-of-word.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="count-special-quadruplets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

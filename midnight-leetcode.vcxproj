@@ -210,6 +210,7 @@
     <ClInclude Include="count-odd-numbers-in-an-interval-range.h" />
     <ClInclude Include="count-of-matches-in-tournament.h" />
     <ClInclude Include="count-primes.h" />
+    <ClInclude Include="count-special-quadruplets.h" />
     <ClInclude Include="count-square-sum-triples.h" />
     <ClInclude Include="count-the-number-of-consistent-strings.h" />
     <ClInclude Include="counting-bits.h" />
@@ -450,6 +451,7 @@
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="reverse-linked-list.h" />
     <ClInclude Include="reverse-only-letters.h" />
+    <ClInclude Include="reverse-prefix-of-word.h" />
     <ClInclude Include="reverse-string-ii.h" />
     <ClInclude Include="reverse-string.h" />
     <ClInclude Include="reverse-vowels-of-a-string.h" />
