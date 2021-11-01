@@ -1211,6 +1211,12 @@
     <ClInclude Include="count-special-quadruplets.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="count-number-of-pairs-with-absolute-difference-k.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="final-value-of-variable-after-performing-operations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

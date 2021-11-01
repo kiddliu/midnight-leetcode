@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "find-the-middle-index-in-array.h"
+#include "count-number-of-pairs-with-absolute-difference-k.h"
 
 int main() {
-  std::vector<int> v{2, 5};
-  solution::findMiddleIndex(v); 
+  std::vector<int> v{1, 3};
+  solution::countKDifference(v, 3); 
 }

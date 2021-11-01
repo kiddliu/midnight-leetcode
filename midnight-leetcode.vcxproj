@@ -207,6 +207,7 @@
     <ClInclude Include="count-items-matching-a-rule.h" />
     <ClInclude Include="count-largest-group.h" />
     <ClInclude Include="count-negative-numbers-in-a-sorted-matrix.h" />
+    <ClInclude Include="count-number-of-pairs-with-absolute-difference-k.h" />
     <ClInclude Include="count-odd-numbers-in-an-interval-range.h" />
     <ClInclude Include="count-of-matches-in-tournament.h" />
     <ClInclude Include="count-primes.h" />
@@ -254,6 +255,7 @@
     <ClInclude Include="fair-candy-swap.h" />
     <ClInclude Include="fibonacci-number.h" />
     <ClInclude Include="final-prices-with-a-special-discount-in-a-shop.h" />
+    <ClInclude Include="final-value-of-variable-after-performing-operations.h" />
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-center-of-star-graph.h" />
     <ClInclude Include="find-common-characters.h" />
