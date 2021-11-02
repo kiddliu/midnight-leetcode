@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "count-number-of-pairs-with-absolute-difference-k.h"
+#include "convert-1d-array-into-2d-array.h"
 
 int main() {
-  std::vector<int> v{1, 3};
-  solution::countKDifference(v, 3); 
+  std::vector<int> v{1, 2, 3};
+  solution::construct2DArray(v, 1, 3); 
 }

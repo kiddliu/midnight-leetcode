@@ -1217,6 +1217,12 @@
     <ClInclude Include="final-value-of-variable-after-performing-operations.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="maximum-difference-between-increasing-elements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="convert-1d-array-into-2d-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -198,6 +198,7 @@
     <ClInclude Include="construct-the-rectangle.h" />
     <ClInclude Include="contains-duplicate-ii.h" />
     <ClInclude Include="contains-duplicate.h" />
+    <ClInclude Include="convert-1d-array-into-2d-array.h" />
     <ClInclude Include="convert-a-number-to-hexadecimal.h" />
     <ClInclude Include="convert-binary-number-in-a-linked-list-to-integer.h" />
     <ClInclude Include="convert-integer-to-the-sum-of-two-no-zero-integers.h" />
@@ -344,6 +345,7 @@
     <ClInclude Include="maximum-average-subarray-i.h" />
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
+    <ClInclude Include="maximum-difference-between-increasing-elements.h" />
     <ClInclude Include="maximum-nesting-depth-of-the-parentheses.h" />
     <ClInclude Include="maximum-number-of-balloons.h" />
     <ClInclude Include="maximum-number-of-balls-in-a-box.h" />
