@@ -1223,6 +1223,12 @@
     <ClInclude Include="convert-1d-array-into-2d-array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="minimum-moves-to-convert-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="two-out-of-three.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
