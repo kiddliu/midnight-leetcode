@@ -186,6 +186,7 @@
     <ClInclude Include="check-if-binary-string-has-at-most-one-segment-of-ones.h" />
     <ClInclude Include="check-if-it-is-a-straight-line.h" />
     <ClInclude Include="check-if-n-and-its-double-exist.h" />
+    <ClInclude Include="check-if-numbers-are-ascending-in-a-sentence.h" />
     <ClInclude Include="check-if-one-string-swap-can-make-strings-equal.h" />
     <ClInclude Include="check-if-string-is-a-prefix-of-array.h" />
     <ClInclude Include="check-if-the-sentence-is-pangram.h" />
@@ -377,6 +378,7 @@
     <ClInclude Include="minimum-index-sum-of-two-lists.h" />
     <ClInclude Include="minimum-moves-to-convert-string.h" />
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
+    <ClInclude Include="minimum-number-of-moves-to-seat-everyone.h" />
     <ClInclude Include="minimum-operations-to-make-the-array-increasing.h" />
     <ClInclude Include="minimum-subsequence-in-non-increasing-order.h" />
     <ClInclude Include="minimum-time-to-type-word-using-special-typewriter.h" />

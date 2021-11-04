@@ -1229,6 +1229,12 @@
     <ClInclude Include="two-out-of-three.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="minimum-number-of-moves-to-seat-everyone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="check-if-numbers-are-ascending-in-a-sentence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

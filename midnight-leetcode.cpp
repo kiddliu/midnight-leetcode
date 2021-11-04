@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "convert-1d-array-into-2d-array.h"
+#include "check-if-numbers-are-ascending-in-a-sentence.h"
 
 int main() {
   std::vector<int> v{1, 2, 3};
-  solution::construct2DArray(v, 1, 3); 
+  solution::areNumbersAscending("hello world 5 x 5");
 }
