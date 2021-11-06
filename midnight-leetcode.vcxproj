@@ -309,6 +309,7 @@
     <ClInclude Include="jewels-and-stones.h" />
     <ClInclude Include="keyboard-row.h" />
     <ClInclude Include="kids-with-the-greatest-number-of-candies.h" />
+    <ClInclude Include="kth-distinct-string-in-an-array.h" />
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
     <ClInclude Include="kth-missing-positive-number.h" />
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
@@ -410,6 +411,7 @@
     <ClInclude Include="number-of-strings-that-appear-as-substrings-in-word.h" />
     <ClInclude Include="number-of-students-doing-homework-at-a-given-time.h" />
     <ClInclude Include="number-of-students-unable-to-eat-lunch.h" />
+    <ClInclude Include="number-of-valid-words-in-a-sentence.h" />
     <ClInclude Include="palindrome-linked-list.h" />
     <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="partition-array-into-three-parts-with-equal-sum.h" />
@@ -484,6 +486,7 @@
     <ClInclude Include="sign-of-the-product-of-an-array.h" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="slowest-key.h" />
+    <ClInclude Include="smallest-index-with-equal-value.h" />
     <ClInclude Include="smallest-range-i.h" />
     <ClInclude Include="sort-array-by-increasing-frequency.h" />
     <ClInclude Include="sort-array-by-parity-ii.h" />

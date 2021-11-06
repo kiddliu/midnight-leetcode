@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "check-if-numbers-are-ascending-in-a-sentence.h"
+#include "kth-distinct-string-in-an-array.h"
 
 int main() {
-  std::vector<int> v{1, 2, 3};
-  solution::areNumbersAscending("hello world 5 x 5");
+  std::vector<std::string> v{"d", "b", "c", "b", "c", "a"};
+  solution::kthDistinct(v, 2);
 }
