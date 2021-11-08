@@ -11,9 +11,8 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "kth-distinct-string-in-an-array.h"
+#include "multiply-strings.h"
 
 int main() {
-  std::vector<std::string> v{"d", "b", "c", "b", "c", "a"};
-  solution::kthDistinct(v, 2);
+  solution::multiply("9238475293841234", "54345234598723948765982345");
 }

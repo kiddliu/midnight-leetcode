@@ -1244,6 +1244,12 @@
     <ClInclude Include="smallest-index-with-equal-value.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="single-number-iii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="multiply-strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
