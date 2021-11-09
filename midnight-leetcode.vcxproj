@@ -534,6 +534,7 @@
     <ClInclude Include="two-sum.h" />
     <ClInclude Include="ugly-number.h" />
     <ClInclude Include="uncommon-words-from-two-sentences.h" />
+    <ClInclude Include="unique-binary-search-trees.h" />
     <ClInclude Include="unique-email-addresses.h" />
     <ClInclude Include="unique-morse-code-words.h" />
     <ClInclude Include="unique-number-of-occurrences.h" />

@@ -11,8 +11,8 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "multiply-strings.h"
+#include "unique-binary-search-trees.h"
 
 int main() {
-  solution::multiply("9238475293841234", "54345234598723948765982345");
+  solution::numTrees(5);
 }

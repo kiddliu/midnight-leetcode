@@ -1250,6 +1250,9 @@
     <ClInclude Include="multiply-strings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="unique-binary-search-trees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
