@@ -1256,6 +1256,9 @@
     <ClInclude Include="add-two-numbers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="longest-substring-without-repeating-characters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
