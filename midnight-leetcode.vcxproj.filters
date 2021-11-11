@@ -1253,6 +1253,9 @@
     <ClInclude Include="unique-binary-search-trees.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="add-two-numbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -148,6 +148,7 @@
     <ClInclude Include="add-digits.h" />
     <ClInclude Include="add-strings.h" />
     <ClInclude Include="add-to-array-form-of-integer.h" />
+    <ClInclude Include="add-two-numbers.h" />
     <ClInclude Include="arranging-coins.h" />
     <ClInclude Include="array-partition-i.h" />
     <ClInclude Include="assign-cookies.h" />
