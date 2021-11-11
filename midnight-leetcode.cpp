@@ -11,8 +11,8 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "longest-substring-without-repeating-characters.h"
+#include "longest-palindromic-substring.h"
 
 int main() {
-  solution::lengthOfLongestSubstring("au");
+  solution::longestPalindrome("babad");
 }

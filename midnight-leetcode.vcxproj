@@ -333,6 +333,7 @@
     <ClInclude Include="longest-harmonious-subsequence.h" />
     <ClInclude Include="longest-nice-substring.h" />
     <ClInclude Include="longest-palindrome.h" />
+    <ClInclude Include="longest-palindromic-substring.h" />
     <ClInclude Include="longest-substring-without-repeating-characters.h" />
     <ClInclude Include="longest-uncommon-subsequence-i.h" />
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
