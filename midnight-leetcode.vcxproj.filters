@@ -1265,6 +1265,9 @@
     <ClInclude Include="daily-temperatures.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="zigzag-conversion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

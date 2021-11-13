@@ -556,6 +556,7 @@
     <ClInclude Include="word-pattern.h" />
     <ClInclude Include="x-of-a-kind-in-a-deck-of-cards.h" />
     <ClInclude Include="xor-operation-in-an-array.h" />
+    <ClInclude Include="zigzag-conversion.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="big-countries.sql" />

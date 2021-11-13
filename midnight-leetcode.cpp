@@ -11,9 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "daily-temperatures.h"
+#include "zigzag-conversion.h"
 
 int main() {
   std::vector<int> v{73, 74, 75, 71, 69, 72, 76, 73};
-  solution::dailyTemperatures(v);
+  solution::convert("PAYPALISHIRING", 4);
 }
