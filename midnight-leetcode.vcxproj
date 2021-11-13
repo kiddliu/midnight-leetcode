@@ -221,6 +221,7 @@
     <ClInclude Include="cousins-in-binary-tree.h" />
     <ClInclude Include="crawler-log-folder.h" />
     <ClInclude Include="create-target-array-in-the-given-order.h" />
+    <ClInclude Include="daily-temperatures.h" />
     <ClInclude Include="day-of-the-week.h" />
     <ClInclude Include="day-of-the-year.h" />
     <ClInclude Include="decode-xored-array.h" />

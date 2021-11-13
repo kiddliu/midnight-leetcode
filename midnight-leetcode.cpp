@@ -11,8 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "longest-palindromic-substring.h"
+#include "daily-temperatures.h"
 
 int main() {
-  solution::longestPalindrome("babad");
+  std::vector<int> v{73, 74, 75, 71, 69, 72, 76, 73};
+  solution::dailyTemperatures(v);
 }
