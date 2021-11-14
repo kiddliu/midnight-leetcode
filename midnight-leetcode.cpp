@@ -9,13 +9,10 @@
 
 #include "list-node.h"
 #include "node.h"
+#include "string-to-integer-atoi.h"
 #include "tree-node.h"
 
-#include "iterator-for-combination.h"
-
 int main() {
-  auto itr = new solution::CombinationIterator("abcdef", 3);
-  while (itr->hasNext()) {
-    auto result = itr->next();
-  }
+  
+  auto result = solution::myAtoi("             ");
 }
