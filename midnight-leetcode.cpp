@@ -11,9 +11,11 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "zigzag-conversion.h"
+#include "iterator-for-combination.h"
 
 int main() {
-  std::vector<int> v{73, 74, 75, 71, 69, 72, 76, 73};
-  solution::convert("PAYPALISHIRING", 4);
+  auto itr = new solution::CombinationIterator("abcdef", 3);
+  while (itr->hasNext()) {
+    auto result = itr->next();
+  }
 }

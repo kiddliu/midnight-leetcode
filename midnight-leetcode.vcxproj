@@ -308,6 +308,7 @@
     <ClInclude Include="is-subsequence.h" />
     <ClInclude Include="island-perimeter.h" />
     <ClInclude Include="isomorphic-strings.h" />
+    <ClInclude Include="iterator-for-combination.h" />
     <ClInclude Include="jewels-and-stones.h" />
     <ClInclude Include="keyboard-row.h" />
     <ClInclude Include="kids-with-the-greatest-number-of-candies.h" />

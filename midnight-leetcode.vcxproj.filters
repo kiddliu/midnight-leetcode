@@ -1268,6 +1268,9 @@
     <ClInclude Include="zigzag-conversion.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="iterator-for-combination.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
