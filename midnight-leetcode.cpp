@@ -12,7 +12,9 @@
 #include "string-to-integer-atoi.h"
 #include "tree-node.h"
 
+#include "largest-divisible-subset.h"
+
 int main() {
-  
-  auto result = solution::myAtoi("             ");
+  std::vector<int> v{4, 8, 10, 240};
+  auto result = solution::largestDivisibleSubset(v);
 }
