@@ -1280,6 +1280,9 @@
     <ClInclude Include="container-with-most-water.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="integer-to-roman.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
