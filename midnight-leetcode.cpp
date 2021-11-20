@@ -11,10 +11,9 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "3sum.h"
+#include "single-element-in-a-sorted-array.h"
 
 int main() {
-  std::vector<int> v{-1, 0, 1,   2,  -1, -4, 3, 2, 8,
-                     4,  0, -10, -3, -4, -7, 1, 1, 2};
-  auto result = solution::threeSum(v);
+  std::vector<int> v{1, 1, 2};
+  auto result = solution::singleNonDuplicate(v);
 }
