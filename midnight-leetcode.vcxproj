@@ -197,6 +197,7 @@
     <ClInclude Include="climbing-stairs.h" />
     <ClInclude Include="concatenation-of-array.h" />
     <ClInclude Include="consecutive-characters.h" />
+    <ClInclude Include="construct-binary-tree-from-inorder-and-postorder-traversal.h" />
     <ClInclude Include="construct-string-from-binary-tree.h" />
     <ClInclude Include="construct-the-rectangle.h" />
     <ClInclude Include="container-with-most-water.h" />
