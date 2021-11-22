@@ -235,6 +235,7 @@
     <ClInclude Include="degree-of-an-array.h" />
     <ClInclude Include="delete-characters-to-make-fancy-string.h" />
     <ClInclude Include="delete-columns-to-make-sorted.h" />
+    <ClInclude Include="delete-node-in-a-bst.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
     <ClInclude Include="design-an-ordered-stream.h" />
     <ClInclude Include="design-hashmap.h" />
