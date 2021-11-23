@@ -11,12 +11,11 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "delete-node-in-a-bst.h"
+#include "3sum-closest.h"
 
 int main() {
-  auto root = new TreeNode(5, new TreeNode(3, new TreeNode(2), new TreeNode(4)),
-                           new TreeNode(6, nullptr, new TreeNode(7)));
-  auto result = solution::deleteNode(root, 5);
+  std::vector<int> v{-1, 2, 1, -4};
+  auto result = solution::threeSumClosest(v, 0);
 
   return 0;
 }
