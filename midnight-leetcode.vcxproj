@@ -310,6 +310,7 @@
     <ClInclude Include="intersection-of-two-arrays-ii.h" />
     <ClInclude Include="intersection-of-two-arrays.h" />
     <ClInclude Include="intersection-of-two-linked-lists.h" />
+    <ClInclude Include="interval-list-intersections.h" />
     <ClInclude Include="invert-binary-tree.h" />
     <ClInclude Include="is-subsequence.h" />
     <ClInclude Include="island-perimeter.h" />

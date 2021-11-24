@@ -11,11 +11,14 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "3sum-closest.h"
+#include "interval-list-intersections.h"
 
 int main() {
-  std::vector<int> v{-1, 2, 1, -4};
-  auto result = solution::threeSumClosest(v, 0);
+  std::vector<std::vector<int>> first{
+      {0, 2}, { 5, 10 }, { 13, 23 }, { 24, 25 }};
+  std::vector<std::vector<int>> second{
+      {1, 5}, { 8, 12 }, { 15, 24 }, { 25, 26 }};
+  auto result = solution::intervalIntersection(first, second);
 
   return 0;
 }
