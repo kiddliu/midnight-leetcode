@@ -11,14 +11,10 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "interval-list-intersections.h"
+#include "letter-combinations-of-a-phone-number.h"
 
 int main() {
-  std::vector<std::vector<int>> first{
-      {0, 2}, { 5, 10 }, { 13, 23 }, { 24, 25 }};
-  std::vector<std::vector<int>> second{
-      {1, 5}, { 8, 12 }, { 15, 24 }, { 25, 26 }};
-  auto result = solution::intervalIntersection(first, second);
+  auto result = solution::letterCombinations("");
 
   return 0;
 }

@@ -333,6 +333,7 @@
     <ClInclude Include="leaf-similar-trees.h" />
     <ClInclude Include="lemonade-change.h" />
     <ClInclude Include="length-of-last-word.h" />
+    <ClInclude Include="letter-combinations-of-a-phone-number.h" />
     <ClInclude Include="license-key-formatting.h" />
     <ClInclude Include="linked-list-cycle.h" />
     <ClInclude Include="list-node.h" />

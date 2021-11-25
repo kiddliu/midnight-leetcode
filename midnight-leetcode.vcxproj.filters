@@ -1301,6 +1301,9 @@
     <ClInclude Include="interval-list-intersections.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="letter-combinations-of-a-phone-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
