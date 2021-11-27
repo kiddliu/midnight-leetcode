@@ -11,10 +11,11 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "letter-combinations-of-a-phone-number.h"
+#include "product-of-array-except-self.h"
 
 int main() {
-  auto result = solution::letterCombinations("");
+  std::vector<int> v{-1, 1, 0, -3, 3};
+  auto result = solution::productExceptSelf(v);
 
   return 0;
 }

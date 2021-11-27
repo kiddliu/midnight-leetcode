@@ -443,6 +443,7 @@
     <ClInclude Include="prime-arrangements.h" />
     <ClInclude Include="prime-number-of-set-bits-in-binary-representation.h" />
     <ClInclude Include="print-in-order.h" />
+    <ClInclude Include="product-of-array-except-self.h" />
     <ClInclude Include="projection-area-of-3d-shapes.h" />
     <ClInclude Include="range-addition-ii.h" />
     <ClInclude Include="range-sum-of-bst.h" />
