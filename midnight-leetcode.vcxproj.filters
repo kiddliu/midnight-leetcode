@@ -1307,6 +1307,9 @@
     <ClInclude Include="product-of-array-except-self.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="all-paths-from-source-to-target.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

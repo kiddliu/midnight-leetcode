@@ -11,11 +11,11 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "product-of-array-except-self.h"
+#include "all-paths-from-source-to-target.h"
 
 int main() {
-  std::vector<int> v{-1, 1, 0, -3, 3};
-  auto result = solution::productExceptSelf(v);
+  std::vector<std::vector<int>> v{{4, 3, 1}, { 3, 2, 4 }, {3}, {4}, {}};
+  auto result = solution::allPathsSourceTarget(v);
 
   return 0;
 }
