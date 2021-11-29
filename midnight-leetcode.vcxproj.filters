@@ -1310,6 +1310,9 @@
     <ClInclude Include="all-paths-from-source-to-target.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="accounts-merge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

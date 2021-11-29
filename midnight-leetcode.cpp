@@ -11,11 +11,16 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "all-paths-from-source-to-target.h"
+#include "accounts-merge.h"
 
 int main() {
-  std::vector<std::vector<int>> v{{4, 3, 1}, { 3, 2, 4 }, {3}, {4}, {}};
-  auto result = solution::allPathsSourceTarget(v);
+  std::vector<std::vector<std::string>>
+      v{{ "David", "David0@m.co", "David1@m.co" },
+        { "David", "David3@m.co", "David4@m.co" },
+        { "David", "David4@m.co", "David5@m.co" },
+        { "David", "David2@m.co", "David3@m.co" },
+        { "David", "David1@m.co", "David2@m.co" }};
+  auto result = solution::accountsMerge(v);
 
   return 0;
 }
