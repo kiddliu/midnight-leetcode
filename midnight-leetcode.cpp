@@ -11,16 +11,12 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "accounts-merge.h"
+#include "4sum.h"
 
 int main() {
-  std::vector<std::vector<std::string>>
-      v{{ "David", "David0@m.co", "David1@m.co" },
-        { "David", "David3@m.co", "David4@m.co" },
-        { "David", "David4@m.co", "David5@m.co" },
-        { "David", "David2@m.co", "David3@m.co" },
-        { "David", "David1@m.co", "David2@m.co" }};
-  auto result = solution::accountsMerge(v);
+  std::vector<int>
+      v{2,2,2,2,2};
+  auto result = solution::fourSum(v, 8);
 
   return 0;
 }

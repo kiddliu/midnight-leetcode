@@ -1313,6 +1313,9 @@
     <ClInclude Include="accounts-merge.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="4sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
