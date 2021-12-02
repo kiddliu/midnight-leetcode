@@ -11,12 +11,20 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "4sum.h"
+#include "odd-even-linked-list.h"
+
+ListNode* buildList(std::vector<int> v) {
+  auto head = new ListNode(), current = head;
+  for (auto& n : v) {
+    current->next = new ListNode(n);
+    current = current->next;
+  }
+  return head->next;
+}
 
 int main() {
-  std::vector<int>
-      v{2,2,2,2,2};
-  auto result = solution::fourSum(v, 8);
+  std::vector<int> v{1, 2, 3, 4, 5, 6, 7, 8};
+  auto result = solution::oddEvenList(buildList(v));
 
   return 0;
 }

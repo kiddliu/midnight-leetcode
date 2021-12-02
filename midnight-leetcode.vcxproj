@@ -431,6 +431,7 @@
     <ClInclude Include="number-of-students-doing-homework-at-a-given-time.h" />
     <ClInclude Include="number-of-students-unable-to-eat-lunch.h" />
     <ClInclude Include="number-of-valid-words-in-a-sentence.h" />
+    <ClInclude Include="odd-even-linked-list.h" />
     <ClInclude Include="palindrome-linked-list.h" />
     <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="partition-array-into-three-parts-with-equal-sum.h" />

@@ -1319,6 +1319,9 @@
     <ClInclude Include="house-robber.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="odd-even-linked-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
