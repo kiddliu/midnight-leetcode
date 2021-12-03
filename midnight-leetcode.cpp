@@ -11,7 +11,7 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "odd-even-linked-list.h"
+#include "maximum-product-subarray.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{1, 2, 3, 4, 5, 6, 7, 8};
-  auto result = solution::oddEvenList(buildList(v));
+  std::vector<int> v{-3, -1, -1};
+  auto result = solution::maxProduct(v);
 
   return 0;
 }
