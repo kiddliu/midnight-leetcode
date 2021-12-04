@@ -1325,6 +1325,9 @@
     <ClInclude Include="maximum-product-subarray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="remove-nth-node-from-end-of-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

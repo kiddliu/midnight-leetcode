@@ -469,6 +469,7 @@
     <ClInclude Include="remove-duplicates-from-sorted-list.h" />
     <ClInclude Include="remove-element.h" />
     <ClInclude Include="remove-linked-list-elements.h" />
+    <ClInclude Include="remove-nth-node-from-end-of-list.h" />
     <ClInclude Include="remove-one-element-to-make-the-array-strictly-increasing.h" />
     <ClInclude Include="remove-outermost-parentheses.h" />
     <ClInclude Include="remove-palindromic-subsequences.h" />
