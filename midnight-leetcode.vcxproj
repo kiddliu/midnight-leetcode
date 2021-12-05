@@ -302,6 +302,7 @@
     <ClInclude Include="hamming-distance.h" />
     <ClInclude Include="happy-number.h" />
     <ClInclude Include="height-checker.h" />
+    <ClInclude Include="house-robber-iii.h" />
     <ClInclude Include="house-robber.h" />
     <ClInclude Include="how-many-numbers-are-smaller-than-the-current-number.h" />
     <ClInclude Include="image-smoother.h" />
