@@ -11,7 +11,7 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "remove-nth-node-from-end-of-list.h"
+#include "generate-parentheses.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -24,7 +24,7 @@ ListNode* buildList(std::vector<int> v) {
 
 int main() {
   std::vector<int> v{1,2,3,4,5};
-  auto result = solution::removeNthFromEnd(buildList(v), 2);
+  auto result = solution::generateParenthesis(1);
 
   return 0;
 }

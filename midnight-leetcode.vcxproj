@@ -293,6 +293,7 @@
     <ClInclude Include="flipping-an-image.h" />
     <ClInclude Include="flood-fill.h" />
     <ClInclude Include="generate-a-string-with-characters-that-have-odd-counts.h" />
+    <ClInclude Include="generate-parentheses.h" />
     <ClInclude Include="get-maximum-in-generated-array.h" />
     <ClInclude Include="goal-parser-interpretation.h" />
     <ClInclude Include="goat-latin.h" />
