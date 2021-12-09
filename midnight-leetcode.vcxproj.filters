@@ -1334,6 +1334,9 @@
     <ClInclude Include="generate-parentheses.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="jump-game-iii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
