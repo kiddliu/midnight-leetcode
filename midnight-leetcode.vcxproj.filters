@@ -1337,6 +1337,9 @@
     <ClInclude Include="jump-game-iii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="domino-and-tromino-tiling.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
