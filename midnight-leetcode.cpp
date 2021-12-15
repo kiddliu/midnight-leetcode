@@ -11,7 +11,7 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "jump-game-iii.h"
+#include "insertion-sort-list.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{3, 0, 2, 1, 2};
-  auto result = solution::canReach(v, 0);
+  std::vector<int> v{4,2,1,3};
+  auto result = solution::insertionSortList(buildList(v));
 
   return 0;
 }

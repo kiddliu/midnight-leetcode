@@ -1340,6 +1340,9 @@
     <ClInclude Include="domino-and-tromino-tiling.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="insertion-sort-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
