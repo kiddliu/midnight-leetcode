@@ -400,6 +400,7 @@
     <ClInclude Include="minimum-absolute-difference-in-bst.h" />
     <ClInclude Include="minimum-depth-of-binary-tree.h" />
     <ClInclude Include="minimum-distance-to-the-target-element.h" />
+    <ClInclude Include="minimum-height-trees.h" />
     <ClInclude Include="minimum-index-sum-of-two-lists.h" />
     <ClInclude Include="minimum-moves-to-convert-string.h" />
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
