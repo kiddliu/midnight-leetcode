@@ -1346,6 +1346,9 @@
     <ClInclude Include="minimum-height-trees.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="decode-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
