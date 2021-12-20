@@ -547,6 +547,7 @@
     <ClInclude Include="sum-of-unique-elements.h" />
     <ClInclude Include="summary-ranges.h" />
     <ClInclude Include="surface-area-of-3d-shapes.h" />
+    <ClInclude Include="swap-nodes-in-pairs.h" />
     <ClInclude Include="symmetric-tree.h" />
     <ClInclude Include="teemo-attacking.h" />
     <ClInclude Include="the-k-weakest-rows-in-a-matrix.h" />
