@@ -11,7 +11,7 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "decode-string.h"
+#include "reorder-list.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,9 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<std::vector<int>> v{};
-  auto result = solution::decodeString("3[z]2[2[y]pq4[2[jk]e1[f]]]ef");
+  std::vector<int> v{1, 2, 3, 4, 5, 6, 7};
+  auto head = buildList(v);
+  solution::reorderList(head);
 
   return 0;
 }

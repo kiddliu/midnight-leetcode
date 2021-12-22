@@ -1352,6 +1352,9 @@
     <ClInclude Include="swap-nodes-in-pairs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="reorder-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
