@@ -11,7 +11,7 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "reorder-list.h"
+#include "merge-intervals.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,9 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{1, 2, 3, 4, 5, 6, 7};
-  auto head = buildList(v);
-  solution::reorderList(head);
+  std::vector<std::vector<int>> v{{1, 3}, {3, 6}};
+  auto result = solution::merge(v);
 
   return 0;
 }

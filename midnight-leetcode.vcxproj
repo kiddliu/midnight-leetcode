@@ -386,6 +386,7 @@
     <ClInclude Include="maximum-subarray.h" />
     <ClInclude Include="maximum-units-on-a-truck.h" />
     <ClInclude Include="mean-of-array-after-removing-some-elements.h" />
+    <ClInclude Include="merge-intervals.h" />
     <ClInclude Include="merge-sorted-array.h" />
     <ClInclude Include="merge-strings-alternately.h" />
     <ClInclude Include="merge-two-binary-trees.h" />
