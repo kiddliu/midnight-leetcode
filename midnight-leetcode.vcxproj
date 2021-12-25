@@ -164,6 +164,7 @@
     <ClInclude Include="balanced-binary-tree.h" />
     <ClInclude Include="base-7.h" />
     <ClInclude Include="baseball-game.h" />
+    <ClInclude Include="basic-calculator-ii.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock-ii.h" />
     <ClInclude Include="best-time-to-buy-and-sell-stock.h" />
     <ClInclude Include="binary-gap.h" />

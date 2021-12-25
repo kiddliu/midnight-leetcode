@@ -11,7 +11,7 @@
 #include "node.h"
 #include "tree-node.h"
 
-#include "merge-intervals.h"
+#include "basic-calculator-ii.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -24,7 +24,7 @@ ListNode* buildList(std::vector<int> v) {
 
 int main() {
   std::vector<std::vector<int>> v{{1, 3}, {3, 6}};
-  auto result = solution::merge(v);
+  auto result = solution::calculate("2147483647");
 
   return 0;
 }
