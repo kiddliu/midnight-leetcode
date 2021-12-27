@@ -257,6 +257,7 @@
     <ClInclude Include="distance-between-bus-stops.h" />
     <ClInclude Include="distribute-candies-to-people.h" />
     <ClInclude Include="distribute-candies.h" />
+    <ClInclude Include="divide-two-integers.h" />
     <ClInclude Include="divisor-game.h" />
     <ClInclude Include="domino-and-tromino-tiling.h" />
     <ClInclude Include="duplicate-zeros.h" />
