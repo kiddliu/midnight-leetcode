@@ -426,6 +426,7 @@
     <ClInclude Include="n-repeated-element-in-size-2n-array.h" />
     <ClInclude Include="n-th-tribonacci-number.h" />
     <ClInclude Include="next-greater-element-i.h" />
+    <ClInclude Include="next-permutation.h" />
     <ClInclude Include="nim-game.h" />
     <ClInclude Include="node.h" />
     <ClInclude Include="number-complement.h" />
