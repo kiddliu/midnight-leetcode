@@ -1370,6 +1370,12 @@
     <ClInclude Include="next-permutation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="node2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="populating-next-right-pointers-in-each-node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

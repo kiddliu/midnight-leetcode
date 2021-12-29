@@ -429,6 +429,7 @@
     <ClInclude Include="next-permutation.h" />
     <ClInclude Include="nim-game.h" />
     <ClInclude Include="node.h" />
+    <ClInclude Include="node2.h" />
     <ClInclude Include="number-complement.h" />
     <ClInclude Include="number-of-1-bits.h" />
     <ClInclude Include="number-of-days-between-two-dates.h" />
@@ -454,6 +455,7 @@
     <ClInclude Include="path-sum.h" />
     <ClInclude Include="perfect-number.h" />
     <ClInclude Include="plus-one.h" />
+    <ClInclude Include="populating-next-right-pointers-in-each-node.h" />
     <ClInclude Include="positions-of-large-groups.h" />
     <ClInclude Include="power-of-four.h" />
     <ClInclude Include="power-of-three.h" />
