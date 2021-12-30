@@ -1376,6 +1376,9 @@
     <ClInclude Include="populating-next-right-pointers-in-each-node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="smallest-integer-divisible-by-k.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

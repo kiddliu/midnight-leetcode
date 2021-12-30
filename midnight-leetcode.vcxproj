@@ -527,6 +527,7 @@
     <ClInclude Include="single-number.h" />
     <ClInclude Include="slowest-key.h" />
     <ClInclude Include="smallest-index-with-equal-value.h" />
+    <ClInclude Include="smallest-integer-divisible-by-k.h" />
     <ClInclude Include="smallest-range-i.h" />
     <ClInclude Include="sort-array-by-increasing-frequency.h" />
     <ClInclude Include="sort-array-by-parity-ii.h" />
