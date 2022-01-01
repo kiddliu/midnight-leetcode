@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "populating-next-right-pointers-in-each-node.h"
+#include "search-in-rotated-sorted-array.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,9 +23,7 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  auto root = new Node(1, new Node(2, new Node(4), new Node(5), nullptr),
-                       new Node(3, new Node(6), new Node(7), nullptr), nullptr);
-  solution::connect(root);
-
+  std::vector<int> v{3, 1};
+  solution::search(v, 3);
   return 0;
 }
