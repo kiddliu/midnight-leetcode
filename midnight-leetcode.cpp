@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "pairs-of-songs-with-total-durations-divisible-by-60.h"
+#include "find-first-and-last-position-of-element-in-sorted-array.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,7 +23,7 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{30, 20, 150, 100, 40};
-  solution::numPairsDivisibleBy60(v);
-  return 0;
+  std::vector<int> v{1};
+  auto result = solution::searchRange(v, 6);
+    return 0;
 }

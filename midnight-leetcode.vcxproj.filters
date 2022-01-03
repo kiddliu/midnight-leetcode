@@ -1385,6 +1385,9 @@
     <ClInclude Include="pairs-of-songs-with-total-durations-divisible-by-60.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-first-and-last-position-of-element-in-sorted-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

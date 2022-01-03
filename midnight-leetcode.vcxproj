@@ -274,6 +274,7 @@
     <ClInclude Include="find-all-numbers-disappeared-in-an-array.h" />
     <ClInclude Include="find-center-of-star-graph.h" />
     <ClInclude Include="find-common-characters.h" />
+    <ClInclude Include="find-first-and-last-position-of-element-in-sorted-array.h" />
     <ClInclude Include="find-greatest-common-divisor-of-array.h" />
     <ClInclude Include="find-if-path-exists-in-graph.h" />
     <ClInclude Include="find-lucky-integer-in-an-array.h" />
