@@ -1391,6 +1391,9 @@
     <ClInclude Include="valid-sudoku.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="palindrome-partitioning.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

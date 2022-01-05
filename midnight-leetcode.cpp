@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "find-first-and-last-position-of-element-in-sorted-array.h"
+#include "palindrome-partitioning.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -24,6 +24,7 @@ ListNode* buildList(std::vector<int> v) {
 
 int main() {
   std::vector<int> v{1};
-  auto result = solution::searchRange(v, 6);
-    return 0;
+  auto result = solution::partition("aabbbbaa");
+
+  return 0;
 }
