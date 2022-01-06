@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "palindrome-partitioning.h"
+#include "car-pooling.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{1};
-  auto result = solution::partition("aabbbbaa");
+  std::vector<std::vector<int>> v{{2, 1, 5}, {3, 3, 7}};
+  auto result = solution::carPooling(v, 5);
 
   return 0;
 }

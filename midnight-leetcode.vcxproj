@@ -183,6 +183,7 @@
     <ClInclude Include="calculate-money-in-leetcode-bank.h" />
     <ClInclude Include="can-make-arithmetic-progression-from-sequence.h" />
     <ClInclude Include="can-place-flowers.h" />
+    <ClInclude Include="car-pooling.h" />
     <ClInclude Include="cells-with-odd-values-in-a-matrix.h" />
     <ClInclude Include="check-array-formation-through-concatenation.h" />
     <ClInclude Include="check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.h" />
