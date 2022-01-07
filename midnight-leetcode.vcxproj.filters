@@ -1397,6 +1397,9 @@
     <ClInclude Include="car-pooling.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="linked-list-random-node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

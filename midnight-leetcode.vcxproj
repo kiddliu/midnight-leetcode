@@ -351,6 +351,7 @@
     <ClInclude Include="letter-combinations-of-a-phone-number.h" />
     <ClInclude Include="license-key-formatting.h" />
     <ClInclude Include="linked-list-cycle.h" />
+    <ClInclude Include="linked-list-random-node.h" />
     <ClInclude Include="list-node.h" />
     <ClInclude Include="long-pressed-name.h" />
     <ClInclude Include="longer-contiguous-segments-of-ones-than-zeros.h" />
