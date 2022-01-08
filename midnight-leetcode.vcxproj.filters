@@ -1400,6 +1400,9 @@
     <ClInclude Include="linked-list-random-node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="combination-sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

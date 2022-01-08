@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "car-pooling.h"
+#include "combination-sum.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<std::vector<int>> v{{2, 1, 5}, {3, 3, 7}};
-  auto result = solution::carPooling(v, 5);
+  std::vector<int> v{2, 3, 6, 7};
+  auto result = solution::combinationSum(v, 14);
 
   return 0;
 }
