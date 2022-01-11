@@ -201,6 +201,7 @@
     <ClInclude Include="check-if-two-string-arrays-are-equivalent.h" />
     <ClInclude Include="check-if-word-equals-summation-of-two-words.h" />
     <ClInclude Include="climbing-stairs.h" />
+    <ClInclude Include="combination-sum-ii.h" />
     <ClInclude Include="combination-sum.h" />
     <ClInclude Include="concatenation-of-array.h" />
     <ClInclude Include="consecutive-characters.h" />
@@ -331,6 +332,7 @@
     <ClInclude Include="isomorphic-strings.h" />
     <ClInclude Include="iterator-for-combination.h" />
     <ClInclude Include="jewels-and-stones.h" />
+    <ClInclude Include="jump-game-ii.h" />
     <ClInclude Include="jump-game-iii.h" />
     <ClInclude Include="k-closest-points-to-origin.h" />
     <ClInclude Include="keyboard-row.h" />

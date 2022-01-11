@@ -1406,6 +1406,12 @@
     <ClInclude Include="robot-bounded-in-circle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="combination-sum-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jump-game-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
