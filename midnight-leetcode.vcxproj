@@ -320,6 +320,7 @@
     <ClInclude Include="implement-strstr.h" />
     <ClInclude Include="increasing-decreasing-string.h" />
     <ClInclude Include="increasing-order-search-tree.h" />
+    <ClInclude Include="insert-into-a-binary-search-tree.h" />
     <ClInclude Include="insertion-sort-list.h" />
     <ClInclude Include="integer-to-roman.h" />
     <ClInclude Include="intersection-of-two-arrays-ii.h" />
