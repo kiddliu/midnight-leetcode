@@ -1415,6 +1415,9 @@
     <ClInclude Include="insert-into-a-binary-search-tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="minimum-number-of-arrows-to-burst-balloons.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -416,6 +416,7 @@
     <ClInclude Include="minimum-index-sum-of-two-lists.h" />
     <ClInclude Include="minimum-moves-to-convert-string.h" />
     <ClInclude Include="minimum-moves-to-equal-array-elements.h" />
+    <ClInclude Include="minimum-number-of-arrows-to-burst-balloons.h" />
     <ClInclude Include="minimum-number-of-moves-to-seat-everyone.h" />
     <ClInclude Include="minimum-operations-to-make-the-array-increasing.h" />
     <ClInclude Include="minimum-subsequence-in-non-increasing-order.h" />
