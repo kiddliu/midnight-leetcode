@@ -464,6 +464,7 @@
     <ClInclude Include="path-crossing.h" />
     <ClInclude Include="path-sum.h" />
     <ClInclude Include="perfect-number.h" />
+    <ClInclude Include="permutations.h" />
     <ClInclude Include="plus-one.h" />
     <ClInclude Include="populating-next-right-pointers-in-each-node.h" />
     <ClInclude Include="positions-of-large-groups.h" />

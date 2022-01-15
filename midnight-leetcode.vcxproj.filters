@@ -1418,6 +1418,9 @@
     <ClInclude Include="minimum-number-of-arrows-to-burst-balloons.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="permutations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
