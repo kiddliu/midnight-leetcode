@@ -1424,6 +1424,9 @@
     <ClInclude Include="maximize-distance-to-closest-person.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="rotate-image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "jump-game-ii.h"
+#include "rotate-image.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{5, 9, 3, 2, 1, 0, 2, 3, 3, 1, 0, 0};
-  auto result = solution::jump(v);
+  std::vector<std::vector<int>> v{{1, 2, 3}, { 4, 5, 6 }, { 7, 8, 9 }};
+  solution::rotate(v);
 
   return 0;
 }
