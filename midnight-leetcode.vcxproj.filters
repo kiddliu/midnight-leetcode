@@ -1427,6 +1427,9 @@
     <ClInclude Include="rotate-image.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="linked-list-cycle-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
