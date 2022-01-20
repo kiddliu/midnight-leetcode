@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "rotate-image.h"
+#include "koko-eating-bananas.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<std::vector<int>> v{{1, 2, 3}, { 4, 5, 6 }, { 7, 8, 9 }};
-  solution::rotate(v);
+  std::vector<int> v{3,6,7,11};
+  solution::minEatingSpeed(v, 8);
 
   return 0;
 }

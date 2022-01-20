@@ -338,6 +338,7 @@
     <ClInclude Include="k-closest-points-to-origin.h" />
     <ClInclude Include="keyboard-row.h" />
     <ClInclude Include="kids-with-the-greatest-number-of-candies.h" />
+    <ClInclude Include="koko-eating-bananas.h" />
     <ClInclude Include="kth-distinct-string-in-an-array.h" />
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
     <ClInclude Include="kth-missing-positive-number.h" />
