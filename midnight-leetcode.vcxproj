@@ -299,6 +299,7 @@
     <ClInclude Include="fizz-buzz.h" />
     <ClInclude Include="flipping-an-image.h" />
     <ClInclude Include="flood-fill.h" />
+    <ClInclude Include="gas-station.h" />
     <ClInclude Include="generate-a-string-with-characters-that-have-odd-counts.h" />
     <ClInclude Include="generate-parentheses.h" />
     <ClInclude Include="get-maximum-in-generated-array.h" />

@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "koko-eating-bananas.h"
+#include "gas-station.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{3,6,7,11};
-  solution::minEatingSpeed(v, 8);
+  std::vector<int> v{1, 2, 3, 4, 5}, v2{3,4,5,1,2};
+  solution::canCompleteCircuit(v, v2);
 
   return 0;
 }
