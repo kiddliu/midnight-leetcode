@@ -306,6 +306,7 @@
     <ClInclude Include="goal-parser-interpretation.h" />
     <ClInclude Include="goat-latin.h" />
     <ClInclude Include="greatest-common-divisor-of-strings.h" />
+    <ClInclude Include="group-anagrams.h" />
     <ClInclude Include="groups-of-special-equivalent-strings.h" />
     <ClInclude Include="guess-number-higher-or-lower.h" />
     <ClInclude Include="hamming-distance.h" />
