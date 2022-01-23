@@ -534,6 +534,7 @@
     <ClInclude Include="second-largest-digit-in-a-string.h" />
     <ClInclude Include="second-minimum-node-in-a-binary-tree.h" />
     <ClInclude Include="self-dividing-numbers.h" />
+    <ClInclude Include="sequential-digits.h" />
     <ClInclude Include="set-mismatch.h" />
     <ClInclude Include="shift-2d-grid.h" />
     <ClInclude Include="shortest-completing-word.h" />

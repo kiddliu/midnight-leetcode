@@ -1439,6 +1439,9 @@
     <ClInclude Include="group-anagrams.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sequential-digits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
