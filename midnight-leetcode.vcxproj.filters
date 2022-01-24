@@ -1442,6 +1442,9 @@
     <ClInclude Include="sequential-digits.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="powx-n.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

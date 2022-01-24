@@ -476,6 +476,7 @@
     <ClInclude Include="power-of-four.h" />
     <ClInclude Include="power-of-three.h" />
     <ClInclude Include="power-of-two.h" />
+    <ClInclude Include="powx-n.h" />
     <ClInclude Include="prime-arrangements.h" />
     <ClInclude Include="prime-number-of-set-bits-in-binary-representation.h" />
     <ClInclude Include="print-in-order.h" />
