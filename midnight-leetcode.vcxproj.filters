@@ -1445,6 +1445,9 @@
     <ClInclude Include="powx-n.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="spiral-matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
