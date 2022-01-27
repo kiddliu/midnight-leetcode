@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "spiral-matrix.h"
+#include "maximum-xor-of-two-numbers-in-an-array.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<std::vector<int>> v{{1, 2, 3, 4}, {5, 6, 7, 8}, {9, 10, 11, 12}};
-  solution::spiralOrder(v);
+  std::vector<int> v{8, 10, 2};
+  solution::findMaximumXOR(v);
 
   return 0;
 }

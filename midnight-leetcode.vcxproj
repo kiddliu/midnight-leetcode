@@ -401,6 +401,7 @@
     <ClInclude Include="maximum-score-after-splitting-a-string.h" />
     <ClInclude Include="maximum-subarray.h" />
     <ClInclude Include="maximum-units-on-a-truck.h" />
+    <ClInclude Include="maximum-xor-of-two-numbers-in-an-array.h" />
     <ClInclude Include="mean-of-array-after-removing-some-elements.h" />
     <ClInclude Include="merge-intervals.h" />
     <ClInclude Include="merge-sorted-array.h" />
