@@ -246,6 +246,7 @@
     <ClInclude Include="delete-columns-to-make-sorted.h" />
     <ClInclude Include="delete-node-in-a-bst.h" />
     <ClInclude Include="delete-node-in-a-linked-list.h" />
+    <ClInclude Include="design-add-and-search-words-data-structure.h" />
     <ClInclude Include="design-an-ordered-stream.h" />
     <ClInclude Include="design-hashmap.h" />
     <ClInclude Include="design-hashset.h" />
