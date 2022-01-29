@@ -1457,6 +1457,9 @@
     <ClInclude Include="design-add-and-search-words-data-structure.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="jump-game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
