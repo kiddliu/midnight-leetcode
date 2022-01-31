@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "maximum-xor-of-two-numbers-in-an-array.h"
+#include "insert-interval.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,10 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{8, 10, 2};
-  solution::findMaximumXOR(v);
+  std::vector<std::vector<int>> intervals{
+      {1, 2}, {3, 5}, {6, 7}, {8, 10}, {12, 16}};
+  std::vector<int> v{4,8};
+  solution::insert(intervals, v);
 
   return 0;
 }
