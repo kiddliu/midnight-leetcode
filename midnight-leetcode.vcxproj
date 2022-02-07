@@ -562,6 +562,7 @@
     <ClInclude Include="sorting-the-sentence.h" />
     <ClInclude Include="special-array-with-x-elements-greater-than-or-equal-x.h" />
     <ClInclude Include="special-positions-in-a-binary-matrix.h" />
+    <ClInclude Include="spiral-matrix-ii.h" />
     <ClInclude Include="spiral-matrix.h" />
     <ClInclude Include="split-a-string-in-balanced-strings.h" />
     <ClInclude Include="sqrtx.h" />

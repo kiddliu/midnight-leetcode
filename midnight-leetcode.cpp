@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "insert-interval.h"
+#include "spiral-matrix-ii.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -26,7 +26,7 @@ int main() {
   std::vector<std::vector<int>> intervals{
       {1, 2}, {3, 5}, {6, 7}, {8, 10}, {12, 16}};
   std::vector<int> v{4,8};
-  solution::insert(intervals, v);
+  solution::generateMatrix(3);
 
   return 0;
 }
