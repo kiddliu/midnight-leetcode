@@ -1466,6 +1466,9 @@
     <ClInclude Include="spiral-matrix-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="rotate-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

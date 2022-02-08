@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "spiral-matrix-ii.h"
+#include "rotate-list.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,10 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<std::vector<int>> intervals{
-      {1, 2}, {3, 5}, {6, 7}, {8, 10}, {12, 16}};
-  std::vector<int> v{4,8};
-  solution::generateMatrix(3);
+  auto head = buildList({0, 1, 2});
+  auto result = solution::rotateRight(head, 2);
 
   return 0;
 }

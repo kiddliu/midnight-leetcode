@@ -530,6 +530,7 @@
     <ClInclude Include="robot-return-to-origin.h" />
     <ClInclude Include="roman-to-integer.h" />
     <ClInclude Include="rotate-image.h" />
+    <ClInclude Include="rotate-list.h" />
     <ClInclude Include="rotate-string.h" />
     <ClInclude Include="rotated-digits.h" />
     <ClInclude Include="running-sum-of-1d-array.h" />
