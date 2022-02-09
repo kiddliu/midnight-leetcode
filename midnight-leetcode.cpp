@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "rotate-list.h"
+#include "k-diff-pairs-in-an-array.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  auto head = buildList({0, 1, 2});
-  auto result = solution::rotateRight(head, 2);
+  std::vector<int> v{3,1,4,1,5};
+  auto result = solution::findPairs(v, 2);
 
   return 0;
 }
