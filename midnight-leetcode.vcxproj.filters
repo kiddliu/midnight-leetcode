@@ -1475,6 +1475,9 @@
     <ClInclude Include="subarray-sum-equals-k.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="permutation-in-string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
