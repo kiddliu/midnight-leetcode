@@ -611,6 +611,7 @@
     <ClInclude Include="unique-email-addresses.h" />
     <ClInclude Include="unique-morse-code-words.h" />
     <ClInclude Include="unique-number-of-occurrences.h" />
+    <ClInclude Include="unique-paths-ii.h" />
     <ClInclude Include="unique-paths.h" />
     <ClInclude Include="univalued-binary-tree.h" />
     <ClInclude Include="valid-anagram.h" />

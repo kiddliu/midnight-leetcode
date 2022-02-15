@@ -1481,6 +1481,9 @@
     <ClInclude Include="unique-paths.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="unique-paths-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
