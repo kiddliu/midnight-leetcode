@@ -430,6 +430,7 @@
     <ClInclude Include="minimum-number-of-arrows-to-burst-balloons.h" />
     <ClInclude Include="minimum-number-of-moves-to-seat-everyone.h" />
     <ClInclude Include="minimum-operations-to-make-the-array-increasing.h" />
+    <ClInclude Include="minimum-path-sum.h" />
     <ClInclude Include="minimum-subsequence-in-non-increasing-order.h" />
     <ClInclude Include="minimum-time-to-type-word-using-special-typewriter.h" />
     <ClInclude Include="minimum-time-visiting-all-points.h" />
