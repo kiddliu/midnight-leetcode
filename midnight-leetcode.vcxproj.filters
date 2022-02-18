@@ -1487,6 +1487,9 @@
     <ClInclude Include="minimum-path-sum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="remove-k-digits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
