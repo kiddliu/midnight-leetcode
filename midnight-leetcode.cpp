@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "k-diff-pairs-in-an-array.h"
+#include "simplify-path.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -24,7 +24,7 @@ ListNode* buildList(std::vector<int> v) {
 
 int main() {
   std::vector<int> v{3,1,4,1,5};
-  auto result = solution::findPairs(v, 2);
+  auto result = solution::simplifyPath("/home//foo");
 
   return 0;
 }

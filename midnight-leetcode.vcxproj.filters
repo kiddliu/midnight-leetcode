@@ -1490,6 +1490,9 @@
     <ClInclude Include="remove-k-digits.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="simplify-path.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

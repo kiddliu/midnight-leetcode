@@ -553,6 +553,7 @@
     <ClInclude Include="shuffle-string.h" />
     <ClInclude Include="shuffle-the-array.h" />
     <ClInclude Include="sign-of-the-product-of-an-array.h" />
+    <ClInclude Include="simplify-path.h" />
     <ClInclude Include="single-element-in-a-sorted-array.h" />
     <ClInclude Include="single-number-iii.h" />
     <ClInclude Include="single-number.h" />
