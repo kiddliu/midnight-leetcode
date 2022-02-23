@@ -202,6 +202,7 @@
     <ClInclude Include="check-if-two-string-arrays-are-equivalent.h" />
     <ClInclude Include="check-if-word-equals-summation-of-two-words.h" />
     <ClInclude Include="climbing-stairs.h" />
+    <ClInclude Include="clone-graph.h" />
     <ClInclude Include="combination-sum-ii.h" />
     <ClInclude Include="combination-sum.h" />
     <ClInclude Include="concatenation-of-array.h" />
