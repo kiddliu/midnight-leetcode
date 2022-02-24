@@ -1499,6 +1499,9 @@
     <ClInclude Include="clone-graph.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sort-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

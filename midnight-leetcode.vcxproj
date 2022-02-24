@@ -567,6 +567,7 @@
     <ClInclude Include="sort-array-by-parity-ii.h" />
     <ClInclude Include="sort-array-by-parity.h" />
     <ClInclude Include="sort-integers-by-the-number-of-1-bits.h" />
+    <ClInclude Include="sort-list.h" />
     <ClInclude Include="sorting-the-sentence.h" />
     <ClInclude Include="special-array-with-x-elements-greater-than-or-equal-x.h" />
     <ClInclude Include="special-positions-in-a-binary-matrix.h" />
