@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "simplify-path.h"
+#include "search-a-2d-matrix.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,9 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{3,1,4,1,5};
-  auto result = solution::simplifyPath("/home//foo");
+  std::vector<std::vector<int>> v{
+      {1, 3, 5, 7}, {10, 11, 16, 20}, {23, 30, 34, 60}};
+  auto result = solution::searchMatrix(v, 13);
 
   return 0;
 }

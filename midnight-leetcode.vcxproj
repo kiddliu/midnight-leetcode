@@ -540,6 +540,7 @@
     <ClInclude Include="rotated-digits.h" />
     <ClInclude Include="running-sum-of-1d-array.h" />
     <ClInclude Include="same-tree.h" />
+    <ClInclude Include="search-a-2d-matrix.h" />
     <ClInclude Include="search-in-a-binary-search-tree.h" />
     <ClInclude Include="search-in-rotated-sorted-array.h" />
     <ClInclude Include="search-insert-position.h" />
