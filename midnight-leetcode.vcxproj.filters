@@ -1508,6 +1508,9 @@
     <ClInclude Include="sort-colors.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="combinations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

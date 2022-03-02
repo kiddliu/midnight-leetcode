@@ -205,6 +205,7 @@
     <ClInclude Include="clone-graph.h" />
     <ClInclude Include="combination-sum-ii.h" />
     <ClInclude Include="combination-sum.h" />
+    <ClInclude Include="combinations.h" />
     <ClInclude Include="concatenation-of-array.h" />
     <ClInclude Include="consecutive-characters.h" />
     <ClInclude Include="construct-binary-tree-from-inorder-and-postorder-traversal.h" />
