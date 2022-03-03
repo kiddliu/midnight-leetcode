@@ -155,6 +155,7 @@
     <ClInclude Include="add-two-numbers.h" />
     <ClInclude Include="all-elements-in-two-binary-search-trees.h" />
     <ClInclude Include="all-paths-from-source-to-target.h" />
+    <ClInclude Include="arithmetic-slices.h" />
     <ClInclude Include="arranging-coins.h" />
     <ClInclude Include="array-partition-i.h" />
     <ClInclude Include="assign-cookies.h" />
