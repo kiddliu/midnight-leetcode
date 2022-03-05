@@ -245,6 +245,7 @@
     <ClInclude Include="defanging-an-ip-address.h" />
     <ClInclude Include="defuse-the-bomb.h" />
     <ClInclude Include="degree-of-an-array.h" />
+    <ClInclude Include="delete-and-earn.h" />
     <ClInclude Include="delete-characters-to-make-fancy-string.h" />
     <ClInclude Include="delete-columns-to-make-sorted.h" />
     <ClInclude Include="delete-node-in-a-bst.h" />

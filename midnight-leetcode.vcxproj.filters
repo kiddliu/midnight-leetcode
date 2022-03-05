@@ -1514,6 +1514,9 @@
     <ClInclude Include="arithmetic-slices.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="delete-and-earn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

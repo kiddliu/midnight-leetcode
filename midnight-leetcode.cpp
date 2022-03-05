@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "search-a-2d-matrix.h"
+#include "delete-and-earn.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,9 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<std::vector<int>> v{
-      {1, 3, 5, 7}, {10, 11, 16, 20}, {23, 30, 34, 60}};
-  auto result = solution::searchMatrix(v, 13);
+  std::vector<int> v{3, 3, 3, 4, 2, 2};
+  auto result = solution::deleteAndEarn(v);
 
   return 0;
 }
