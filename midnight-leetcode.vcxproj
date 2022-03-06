@@ -586,6 +586,7 @@
     <ClInclude Include="student-attendance-record-i.h" />
     <ClInclude Include="subarray-sum-equals-k.h" />
     <ClInclude Include="subdomain-visit-count.h" />
+    <ClInclude Include="subsets.h" />
     <ClInclude Include="substrings-of-size-three-with-distinct-characters.h" />
     <ClInclude Include="subtract-the-product-and-sum-of-digits-of-an-integer.h" />
     <ClInclude Include="subtree-of-another-tree.h" />

@@ -1517,6 +1517,9 @@
     <ClInclude Include="delete-and-earn.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="subsets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
