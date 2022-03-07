@@ -1520,6 +1520,9 @@
     <ClInclude Include="subsets.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="word-search.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
