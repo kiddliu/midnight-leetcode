@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "word-search.h"
+#include "remove-duplicates-from-sorted-array-ii.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,11 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<std::vector<char>> board{
-      {'A', 'A', 'A', 'A', 'A', 'A'}, {'A', 'A', 'A', 'A', 'A', 'A'},
-      {'A', 'A', 'A', 'A', 'A', 'A'}, {'A', 'A', 'A', 'A', 'A', 'A'},
-      {'A', 'A', 'A', 'A', 'A', 'A'}, {'A', 'A', 'A', 'A', 'A', 'A'}};
-  auto result = solution::exist(board, "AAAAAAAAAAAAAAB");
+  std::vector<int> v{0, 1, 2, 2, 2, 2, 2, 3, 4, 4, 4};
+  auto result = solution::removeDuplicates(v);
 
   return 0;
 }
