@@ -1526,6 +1526,9 @@
     <ClInclude Include="remove-duplicates-from-sorted-array-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="remove-duplicates-from-sorted-list-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
