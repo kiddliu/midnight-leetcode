@@ -547,6 +547,7 @@
     <ClInclude Include="same-tree.h" />
     <ClInclude Include="search-a-2d-matrix.h" />
     <ClInclude Include="search-in-a-binary-search-tree.h" />
+    <ClInclude Include="search-in-rotated-sorted-array-ii.h" />
     <ClInclude Include="search-in-rotated-sorted-array.h" />
     <ClInclude Include="search-insert-position.h" />
     <ClInclude Include="second-largest-digit-in-a-string.h" />
