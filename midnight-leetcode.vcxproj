@@ -475,6 +475,7 @@
     <ClInclude Include="palindrome-number.h" />
     <ClInclude Include="palindrome-partitioning.h" />
     <ClInclude Include="partition-array-into-three-parts-with-equal-sum.h" />
+    <ClInclude Include="partition-list.h" />
     <ClInclude Include="pascals-triangle-ii.h" />
     <ClInclude Include="pascals-triangle.h" />
     <ClInclude Include="path-crossing.h" />
