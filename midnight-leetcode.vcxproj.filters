@@ -1535,6 +1535,9 @@
     <ClInclude Include="partition-list.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-the-duplicate-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

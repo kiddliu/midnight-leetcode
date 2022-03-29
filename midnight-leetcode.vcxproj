@@ -295,6 +295,7 @@
     <ClInclude Include="find-smallest-letter-greater-than-target.h" />
     <ClInclude Include="find-the-difference.h" />
     <ClInclude Include="find-the-distance-value-between-two-arrays.h" />
+    <ClInclude Include="find-the-duplicate-number.h" />
     <ClInclude Include="find-the-highest-altitude.h" />
     <ClInclude Include="find-the-middle-index-in-array.h" />
     <ClInclude Include="find-the-town-judge.h" />
