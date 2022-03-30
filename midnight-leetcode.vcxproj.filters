@@ -1538,6 +1538,9 @@
     <ClInclude Include="find-the-duplicate-number.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="gray-code.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

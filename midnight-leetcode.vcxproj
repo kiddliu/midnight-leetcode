@@ -312,6 +312,7 @@
     <ClInclude Include="get-maximum-in-generated-array.h" />
     <ClInclude Include="goal-parser-interpretation.h" />
     <ClInclude Include="goat-latin.h" />
+    <ClInclude Include="gray-code.h" />
     <ClInclude Include="greatest-common-divisor-of-strings.h" />
     <ClInclude Include="group-anagrams.h" />
     <ClInclude Include="groups-of-special-equivalent-strings.h" />

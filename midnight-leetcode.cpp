@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "search-in-rotated-sorted-array-ii.h"
+#include "gray-code.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -24,7 +24,7 @@ ListNode* buildList(std::vector<int> v) {
 
 int main() {
   std::vector<int> v{1, 1};
-  auto result = solution::search(v, 0);
+  auto result = solution::grayCode(3);
 
   return 0;
 }
