@@ -239,6 +239,7 @@
     <ClInclude Include="daily-temperatures.h" />
     <ClInclude Include="day-of-the-week.h" />
     <ClInclude Include="day-of-the-year.h" />
+    <ClInclude Include="decode-ways.h" />
     <ClInclude Include="decode-xored-array.h" />
     <ClInclude Include="decompress-run-length-encoded-list.h" />
     <ClInclude Include="decrypt-string-from-alphabet-to-integer-mapping.h" />

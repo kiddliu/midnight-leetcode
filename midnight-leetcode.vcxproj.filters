@@ -1544,6 +1544,9 @@
     <ClInclude Include="subsets-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="decode-ways.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

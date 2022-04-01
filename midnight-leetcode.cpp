@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "subsets-ii.h"
+#include "decode-ways.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -24,7 +24,7 @@ ListNode* buildList(std::vector<int> v) {
 
 int main() {
   std::vector<int> v{1, 2, 2};
-  auto result = solution::subsetsWithDup(v);
+  auto result = solution::numDecodings("12");
 
   return 0;
 }
