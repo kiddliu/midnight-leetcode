@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "decode-ways.h"
+#include "swapping-nodes-in-a-linked-list.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{1, 2, 2};
-  auto result = solution::numDecodings("12");
+  std::vector<int> v{1, 2, 3, 4, 5};
+  auto result = solution::swapNodes(buildList(v), 2);
 
   return 0;
 }

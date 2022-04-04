@@ -1547,6 +1547,9 @@
     <ClInclude Include="decode-ways.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="swapping-nodes-in-a-linked-list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
