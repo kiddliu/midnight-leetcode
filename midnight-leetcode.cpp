@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "swapping-nodes-in-a-linked-list.h"
+#include "reverse-linked-list-ii.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -24,7 +24,7 @@ ListNode* buildList(std::vector<int> v) {
 
 int main() {
   std::vector<int> v{1, 2, 3, 4, 5};
-  auto result = solution::swapNodes(buildList(v), 2);
+  auto result = solution::reverseBetween(buildList(v), 3, 4);
 
   return 0;
 }

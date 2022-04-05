@@ -532,6 +532,7 @@
     <ClInclude Include="reshape-the-matrix.h" />
     <ClInclude Include="reverse-bits.h" />
     <ClInclude Include="reverse-integer.h" />
+    <ClInclude Include="reverse-linked-list-ii.h" />
     <ClInclude Include="reverse-linked-list.h" />
     <ClInclude Include="reverse-only-letters.h" />
     <ClInclude Include="reverse-prefix-of-word.h" />
