@@ -145,6 +145,7 @@
   <ItemGroup>
     <ClInclude Include="1-bit-and-2-bit-characters.h" />
     <ClInclude Include="3sum-closest.h" />
+    <ClInclude Include="3sum-with-multiplicity.h" />
     <ClInclude Include="3sum.h" />
     <ClInclude Include="4sum.h" />
     <ClInclude Include="accounts-merge.h" />
