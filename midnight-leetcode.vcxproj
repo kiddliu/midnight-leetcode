@@ -531,6 +531,7 @@
     <ClInclude Include="replace-all-s-to-avoid-consecutive-repeating-characters.h" />
     <ClInclude Include="replace-elements-with-greatest-element-on-right-side.h" />
     <ClInclude Include="reshape-the-matrix.h" />
+    <ClInclude Include="restore-ip-addresses.h" />
     <ClInclude Include="reverse-bits.h" />
     <ClInclude Include="reverse-integer.h" />
     <ClInclude Include="reverse-linked-list-ii.h" />

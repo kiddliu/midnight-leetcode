@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "3sum-with-multiplicity.h"
+#include "restore-ip-addresses.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -24,7 +24,7 @@ ListNode* buildList(std::vector<int> v) {
 
 int main() {
   std::vector<int> v{1, 1, 2, 2, 3, 3, 4, 4, 5, 5};
-  auto result = solution::threeSumMulti(v, 8);
+  auto result = solution::restoreIpAddresses("101023");
 
   return 0;
 }
