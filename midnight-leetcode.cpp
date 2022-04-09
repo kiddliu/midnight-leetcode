@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "restore-ip-addresses.h"
+#include "top-k-frequent-elements.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{1, 1, 2, 2, 3, 3, 4, 4, 5, 5};
-  auto result = solution::restoreIpAddresses("101023");
+  std::vector<int> v{1, 1, 1, 2, 2, 3};
+  auto result = solution::topKFrequent(v, 2);
 
   return 0;
 }

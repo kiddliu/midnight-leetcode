@@ -622,6 +622,7 @@
     <ClInclude Include="three-divisors.h" />
     <ClInclude Include="to-lower-case.h" />
     <ClInclude Include="toeplitz-matrix.h" />
+    <ClInclude Include="top-k-frequent-elements.h" />
     <ClInclude Include="transpose-matrix.h" />
     <ClInclude Include="tree-node.h" />
     <ClInclude Include="truncate-sentence.h" />
