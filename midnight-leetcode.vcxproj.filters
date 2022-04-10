@@ -1562,6 +1562,9 @@
     <ClInclude Include="top-k-frequent-elements.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="unique-binary-search-trees-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
