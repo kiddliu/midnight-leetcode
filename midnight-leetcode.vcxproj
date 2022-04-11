@@ -336,6 +336,7 @@
     <ClInclude Include="insert-into-a-binary-search-tree.h" />
     <ClInclude Include="insertion-sort-list.h" />
     <ClInclude Include="integer-to-roman.h" />
+    <ClInclude Include="interleaving-string.h" />
     <ClInclude Include="intersection-of-two-arrays-ii.h" />
     <ClInclude Include="intersection-of-two-arrays.h" />
     <ClInclude Include="intersection-of-two-linked-lists.h" />

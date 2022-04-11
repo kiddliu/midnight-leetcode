@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "unique-binary-search-trees-ii.h"
+#include "interleaving-string.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -24,7 +24,7 @@ ListNode* buildList(std::vector<int> v) {
 
 int main() {
   std::vector<int> v{1, 1, 1, 2, 2, 3};
-  auto result = solution::generateTrees(3);
+  auto result = solution::isInterleave("aabcc", "dbbca", "aadbbcbcac");
 
   return 0;
 }
