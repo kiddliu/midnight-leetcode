@@ -1568,6 +1568,9 @@
     <ClInclude Include="interleaving-string.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="kth-smallest-element-in-a-bst.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

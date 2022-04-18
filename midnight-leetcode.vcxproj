@@ -358,6 +358,7 @@
     <ClInclude Include="kth-distinct-string-in-an-array.h" />
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
     <ClInclude Include="kth-missing-positive-number.h" />
+    <ClInclude Include="kth-smallest-element-in-a-bst.h" />
     <ClInclude Include="largest-divisible-subset.h" />
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
     <ClInclude Include="largest-odd-number-in-string.h" />

@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "interleaving-string.h"
+#include "kth-smallest-element-in-a-bst.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,9 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{1, 1, 1, 2, 2, 3};
-  auto result = solution::isInterleave("aabcc", "dbbca", "aadbbcbcac");
+  auto root = new TreeNode(5, new TreeNode(3, new TreeNode(2, new TreeNode(1), nullptr),
+                                           new TreeNode(4)), new TreeNode(6));
+  auto result = solution::kthSmallest(root, 3);
 
   return 0;
 }
