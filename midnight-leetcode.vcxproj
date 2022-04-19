@@ -507,6 +507,7 @@
     <ClInclude Include="rank-transform-of-an-array.h" />
     <ClInclude Include="ransom-note.h" />
     <ClInclude Include="rearrange-spaces-between-words.h" />
+    <ClInclude Include="recover-binary-search-tree.h" />
     <ClInclude Include="rectangle-overlap.h" />
     <ClInclude Include="redistribute-characters-to-make-all-strings-equal.h" />
     <ClInclude Include="reformat-date.h" />

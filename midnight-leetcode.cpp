@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "kth-smallest-element-in-a-bst.h"
+#include "recover-binary-search-tree.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,9 +23,9 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  auto root = new TreeNode(5, new TreeNode(3, new TreeNode(2, new TreeNode(1), nullptr),
-                                           new TreeNode(4)), new TreeNode(6));
-  auto result = solution::kthSmallest(root, 3);
+  auto root =
+      new TreeNode(1, new TreeNode(3, nullptr, new TreeNode(2)), nullptr);
+  solution::recoverTree(root);
 
   return 0;
 }
