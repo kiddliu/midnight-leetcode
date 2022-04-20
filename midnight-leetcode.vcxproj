@@ -173,6 +173,7 @@
     <ClInclude Include="binary-gap.h" />
     <ClInclude Include="binary-number-with-alternating-bits.h" />
     <ClInclude Include="binary-prefix-divisible-by-5.h" />
+    <ClInclude Include="binary-search-tree-iterator.h" />
     <ClInclude Include="binary-search.h" />
     <ClInclude Include="binary-tree-inorder-traversal.h" />
     <ClInclude Include="binary-tree-paths.h" />
