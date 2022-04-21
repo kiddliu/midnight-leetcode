@@ -652,6 +652,7 @@
     <ClInclude Include="valid-parentheses.h" />
     <ClInclude Include="valid-perfect-square.h" />
     <ClInclude Include="valid-sudoku.h" />
+    <ClInclude Include="validate-binary-search-tree.h" />
     <ClInclude Include="verifying-an-alien-dictionary.h" />
     <ClInclude Include="walking-robot-simulation.h" />
     <ClInclude Include="water-bottles.h" />
