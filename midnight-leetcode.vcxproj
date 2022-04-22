@@ -176,6 +176,7 @@
     <ClInclude Include="binary-search-tree-iterator.h" />
     <ClInclude Include="binary-search.h" />
     <ClInclude Include="binary-tree-inorder-traversal.h" />
+    <ClInclude Include="binary-tree-level-order-traversal.h" />
     <ClInclude Include="binary-tree-paths.h" />
     <ClInclude Include="binary-tree-postorder-traversal.h" />
     <ClInclude Include="binary-tree-preorder-traversal.h" />
