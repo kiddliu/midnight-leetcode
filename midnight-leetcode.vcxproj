@@ -348,6 +348,7 @@
     <ClInclude Include="island-perimeter.h" />
     <ClInclude Include="isomorphic-strings.h" />
     <ClInclude Include="iterator-for-combination.h" />
+    <ClInclude Include="iterator.h" />
     <ClInclude Include="jewels-and-stones.h" />
     <ClInclude Include="jump-game-ii.h" />
     <ClInclude Include="jump-game-iii.h" />
@@ -488,6 +489,7 @@
     <ClInclude Include="pascals-triangle.h" />
     <ClInclude Include="path-crossing.h" />
     <ClInclude Include="path-sum.h" />
+    <ClInclude Include="peeking-iterator.h" />
     <ClInclude Include="perfect-number.h" />
     <ClInclude Include="permutation-in-string.h" />
     <ClInclude Include="permutations.h" />

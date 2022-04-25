@@ -1583,6 +1583,12 @@
     <ClInclude Include="binary-tree-level-order-traversal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="peeking-iterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="iterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
