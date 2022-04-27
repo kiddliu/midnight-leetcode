@@ -427,6 +427,7 @@
     <ClInclude Include="merge-two-sorted-lists.h" />
     <ClInclude Include="middle-of-the-linked-list.h" />
     <ClInclude Include="min-cost-climbing-stairs.h" />
+    <ClInclude Include="min-cost-to-connect-all-points.h" />
     <ClInclude Include="min-stack.h" />
     <ClInclude Include="minimum-absolute-difference.h" />
     <ClInclude Include="minimum-changes-to-make-alternating-binary-string.h" />
@@ -584,6 +585,7 @@
     <ClInclude Include="smallest-index-with-equal-value.h" />
     <ClInclude Include="smallest-integer-divisible-by-k.h" />
     <ClInclude Include="smallest-range-i.h" />
+    <ClInclude Include="smallest-string-with-swaps.h" />
     <ClInclude Include="sort-array-by-increasing-frequency.h" />
     <ClInclude Include="sort-array-by-parity-ii.h" />
     <ClInclude Include="sort-array-by-parity.h" />

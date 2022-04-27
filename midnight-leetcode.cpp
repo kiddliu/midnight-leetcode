@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "recover-binary-search-tree.h"
+#include "smallest-string-with-swaps.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,9 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  auto root =
-      new TreeNode(1, new TreeNode(3, nullptr, new TreeNode(2)), nullptr);
-  solution::recoverTree(root);
+  std::vector<std::vector<int>> v{{0, 3}, {1, 2}};
+  solution::smallestStringWithSwaps("dcab", v);
 
   return 0;
 }

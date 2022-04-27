@@ -1589,6 +1589,12 @@
     <ClInclude Include="iterator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="min-cost-to-connect-all-points.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="smallest-string-with-swaps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
