@@ -490,6 +490,7 @@
     <ClInclude Include="pascals-triangle.h" />
     <ClInclude Include="path-crossing.h" />
     <ClInclude Include="path-sum.h" />
+    <ClInclude Include="path-with-minimum-effort.h" />
     <ClInclude Include="peeking-iterator.h" />
     <ClInclude Include="perfect-number.h" />
     <ClInclude Include="permutation-in-string.h" />
