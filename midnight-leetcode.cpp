@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "path-with-minimum-effort.h"
+#include "binary-tree-zigzag-level-order-traversal.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,9 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<std::vector<int>> v{{1, 10, 6, 7, 9, 10, 4, 9}};
-  auto result = solution::minimumEffortPath(v);
+  auto root = new TreeNode(3, new TreeNode(9),
+                           new TreeNode(20, new TreeNode(15), new TreeNode(7)));
+  auto result = solution::zigzagLevelOrder(root);
 
   return 0;
 }

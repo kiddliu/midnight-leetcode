@@ -181,6 +181,7 @@
     <ClInclude Include="binary-tree-postorder-traversal.h" />
     <ClInclude Include="binary-tree-preorder-traversal.h" />
     <ClInclude Include="binary-tree-tilt.h" />
+    <ClInclude Include="binary-tree-zigzag-level-order-traversal.h" />
     <ClInclude Include="binary-watch.h" />
     <ClInclude Include="buddy-strings.h" />
     <ClInclude Include="build-an-array-with-stack-operations.h" />

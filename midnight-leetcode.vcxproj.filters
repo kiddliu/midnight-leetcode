@@ -1598,6 +1598,9 @@
     <ClInclude Include="path-with-minimum-effort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="binary-tree-zigzag-level-order-traversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
