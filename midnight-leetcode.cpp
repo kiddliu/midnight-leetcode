@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "binary-tree-zigzag-level-order-traversal.h"
+#include "remove-all-adjacent-duplicates-in-string-ii.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,7 +25,7 @@ ListNode* buildList(std::vector<int> v) {
 int main() {
   auto root = new TreeNode(3, new TreeNode(9),
                            new TreeNode(20, new TreeNode(15), new TreeNode(7)));
-  auto result = solution::zigzagLevelOrder(root);
+  auto result = solution::removeDuplicates("pbbcggttciiippooaais", 2);
 
   return 0;
 }

@@ -522,6 +522,7 @@
     <ClInclude Include="reformat-the-string.h" />
     <ClInclude Include="relative-ranks.h" />
     <ClInclude Include="relative-sort-array.h" />
+    <ClInclude Include="remove-all-adjacent-duplicates-in-string-ii.h" />
     <ClInclude Include="remove-all-adjacent-duplicates-in-string.h" />
     <ClInclude Include="remove-duplicates-from-sorted-array-ii.h" />
     <ClInclude Include="remove-duplicates-from-sorted-array.h" />
