@@ -1604,6 +1604,9 @@
     <ClInclude Include="remove-all-adjacent-duplicates-in-string-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="132-pattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
