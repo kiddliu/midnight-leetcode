@@ -1607,6 +1607,9 @@
     <ClInclude Include="132-pattern.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="flatten-nested-list-iterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
