@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "132-pattern.h"
+#include "construct-binary-tree-from-preorder-and-inorder-traversal.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v{-1, 3, 2, 0};
-  auto result = solution::find132pattern(v);
+  std::vector<int> v1{1, 2, 3, 4}, v2{1, 2, 3, 4};
+  auto result = solution::buildTree(v1, v2);
 
   return 0;
 }

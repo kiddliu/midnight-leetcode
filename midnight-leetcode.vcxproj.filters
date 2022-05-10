@@ -1610,6 +1610,9 @@
     <ClInclude Include="flatten-nested-list-iterator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="construct-binary-tree-from-preorder-and-inorder-traversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
