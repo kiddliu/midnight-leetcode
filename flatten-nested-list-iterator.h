@@ -18,6 +18,10 @@ class NestedInteger {
     const std::vector<NestedInteger> &getList() const;
 };
 
+/// <summary>
+/// Runtime: 16 ms, faster than 77.26% of C++ online submissions for Flatten Nested List Iterator.
+/// Memory Usage: 12.9 MB, less than 85.41% of C++ online submissions for Flatten Nested List Iterator.
+/// </summary>
 class NestedIterator {
  public:
   NestedIterator(std::vector<NestedInteger> &nestedList) {
