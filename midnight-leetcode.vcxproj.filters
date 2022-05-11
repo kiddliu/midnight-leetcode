@@ -1616,6 +1616,9 @@
     <ClInclude Include="combination-sum-iii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="count-sorted-vowel-strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
