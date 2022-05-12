@@ -227,6 +227,7 @@
     <ClInclude Include="convert-binary-number-in-a-linked-list-to-integer.h" />
     <ClInclude Include="convert-integer-to-the-sum-of-two-no-zero-integers.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
+    <ClInclude Include="convert-sorted-list-to-binary-search-tree.h" />
     <ClInclude Include="count-binary-substrings.h" />
     <ClInclude Include="count-good-triplets.h" />
     <ClInclude Include="count-items-matching-a-rule.h" />

@@ -1619,6 +1619,9 @@
     <ClInclude Include="count-sorted-vowel-strings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="convert-sorted-list-to-binary-search-tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

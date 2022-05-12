@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "construct-binary-tree-from-preorder-and-inorder-traversal.h"
+#include "convert-sorted-list-to-binary-search-tree.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,8 +23,7 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  std::vector<int> v1{1, 2, 3, 4}, v2{1, 2, 3, 4};
-  auto result = solution::buildTree(v1, v2);
+  auto result = solution::sortedListToBST(buildList({-10, -3, 0, 5, 9}));
 
   return 0;
 }
