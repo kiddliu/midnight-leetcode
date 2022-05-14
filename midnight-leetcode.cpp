@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "convert-sorted-list-to-binary-search-tree.h"
+#include "network-delay-time.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -23,7 +23,8 @@ ListNode* buildList(std::vector<int> v) {
 }
 
 int main() {
-  auto result = solution::sortedListToBST(buildList({-10, -3, 0, 5, 9}));
+  std::vector<std::vector<int>> v{{2, 1, 1}, {2, 3, 1}, {3, 4, 1}};
+  auto result = solution::networkDelayTime(v, 4, 2);
 
   return 0;
 }
