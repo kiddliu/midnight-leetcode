@@ -252,6 +252,7 @@
     <ClInclude Include="decode-xored-array.h" />
     <ClInclude Include="decompress-run-length-encoded-list.h" />
     <ClInclude Include="decrypt-string-from-alphabet-to-integer-mapping.h" />
+    <ClInclude Include="deepest-leaves-sum.h" />
     <ClInclude Include="defanging-an-ip-address.h" />
     <ClInclude Include="defuse-the-bomb.h" />
     <ClInclude Include="degree-of-an-array.h" />
