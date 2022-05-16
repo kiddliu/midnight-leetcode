@@ -1628,6 +1628,9 @@
     <ClInclude Include="deepest-leaves-sum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="shortest-path-in-binary-matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
