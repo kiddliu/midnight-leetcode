@@ -332,6 +332,7 @@
     <ClInclude Include="hamming-distance.h" />
     <ClInclude Include="happy-number.h" />
     <ClInclude Include="decode-string.h" />
+    <ClInclude Include="find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.h" />
     <ClInclude Include="height-checker.h" />
     <ClInclude Include="house-robber-iii.h" />
     <ClInclude Include="house-robber.h" />

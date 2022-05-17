@@ -1631,6 +1631,9 @@
     <ClInclude Include="shortest-path-in-binary-matrix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
