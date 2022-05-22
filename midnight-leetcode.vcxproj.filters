@@ -1637,6 +1637,9 @@
     <ClInclude Include="path-sum-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="palindromic-substrings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
