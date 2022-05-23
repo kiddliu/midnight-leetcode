@@ -1640,6 +1640,9 @@
     <ClInclude Include="palindromic-substrings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ones-and-zeroes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

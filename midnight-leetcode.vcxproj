@@ -490,6 +490,7 @@
     <ClInclude Include="number-of-students-unable-to-eat-lunch.h" />
     <ClInclude Include="number-of-valid-words-in-a-sentence.h" />
     <ClInclude Include="odd-even-linked-list.h" />
+    <ClInclude Include="ones-and-zeroes.h" />
     <ClInclude Include="pairs-of-songs-with-total-durations-divisible-by-60.h" />
     <ClInclude Include="palindrome-linked-list.h" />
     <ClInclude Include="palindrome-number.h" />
