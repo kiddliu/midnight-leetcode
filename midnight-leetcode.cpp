@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "path-sum-ii.h"
+#include "flatten-binary-tree-to-linked-list.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,12 +25,10 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  auto root = new TreeNode(-2, nullptr, new TreeNode(-3));
-  //root->left = new TreeNode(
-  //    4, new TreeNode(11, new TreeNode(7), new TreeNode(2)), nullptr);
-  //root->right = new TreeNode(8, new TreeNode(13),
-  //                           new TreeNode(4, new TreeNode(5), new TreeNode(1)));
-  auto result = solution::pathSum(root, -5);
+  auto root = new TreeNode(1);
+  root->left = new TreeNode(2, new TreeNode(3), new TreeNode(4));
+  root->right = new TreeNode(5, nullptr, new TreeNode(6));
+  solution::flatten(root);
 
   return 0;
 }
