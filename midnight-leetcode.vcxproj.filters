@@ -1646,6 +1646,9 @@
     <ClInclude Include="flatten-binary-tree-to-linked-list.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="populating-next-right-pointers-in-each-node-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

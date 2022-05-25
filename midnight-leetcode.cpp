@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "flatten-binary-tree-to-linked-list.h"
+#include "populating-next-right-pointers-in-each-node-ii.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,10 +25,10 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  auto root = new TreeNode(1);
-  root->left = new TreeNode(2, new TreeNode(3), new TreeNode(4));
-  root->right = new TreeNode(5, nullptr, new TreeNode(6));
-  solution::flatten(root);
+  auto root = new Node(3);
+  root->left = new Node(9);
+  root->right = new Node(20, new Node(15), new Node(7), nullptr);
+  solution::connect(root);
 
   return 0;
 }

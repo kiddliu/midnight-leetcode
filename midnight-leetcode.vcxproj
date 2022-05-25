@@ -510,6 +510,7 @@
     <ClInclude Include="permutation-in-string.h" />
     <ClInclude Include="permutations.h" />
     <ClInclude Include="plus-one.h" />
+    <ClInclude Include="populating-next-right-pointers-in-each-node-ii.h" />
     <ClInclude Include="populating-next-right-pointers-in-each-node.h" />
     <ClInclude Include="positions-of-large-groups.h" />
     <ClInclude Include="power-of-four.h" />
