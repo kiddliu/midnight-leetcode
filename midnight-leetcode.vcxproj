@@ -652,6 +652,7 @@
     <ClInclude Include="top-k-frequent-elements.h" />
     <ClInclude Include="transpose-matrix.h" />
     <ClInclude Include="tree-node.h" />
+    <ClInclude Include="triangle.h" />
     <ClInclude Include="truncate-sentence.h" />
     <ClInclude Include="two-out-of-three.h" />
     <ClInclude Include="two-sum-ii-input-array-is-sorted.h" />
