@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "populating-next-right-pointers-in-each-node-ii.h"
+#include "longest-consecutive-sequence.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,10 +25,8 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  auto root = new Node(3);
-  root->left = new Node(9);
-  root->right = new Node(20, new Node(15), new Node(7), nullptr);
-  solution::connect(root);
+  std::vector<int> v{0, 3, 7, 2, 5, 8, 4, 6, 0, 1};
+  auto result = solution::longestConsecutive(v);
 
   return 0;
 }

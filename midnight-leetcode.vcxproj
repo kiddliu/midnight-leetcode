@@ -392,6 +392,7 @@
     <ClInclude Include="long-pressed-name.h" />
     <ClInclude Include="longer-contiguous-segments-of-ones-than-zeros.h" />
     <ClInclude Include="longest-common-prefix.h" />
+    <ClInclude Include="longest-consecutive-sequence.h" />
     <ClInclude Include="longest-continuous-increasing-subsequence.h" />
     <ClInclude Include="longest-harmonious-subsequence.h" />
     <ClInclude Include="longest-nice-substring.h" />
