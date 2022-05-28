@@ -1655,6 +1655,9 @@
     <ClInclude Include="longest-consecutive-sequence.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sum-root-to-leaf-numbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

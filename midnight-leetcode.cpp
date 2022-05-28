@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "longest-consecutive-sequence.h"
+#include "sum-root-to-leaf-numbers.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,8 +25,10 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<int> v{0, 3, 7, 2, 5, 8, 4, 6, 0, 1};
-  auto result = solution::longestConsecutive(v);
+  auto root = new TreeNode(4);
+  root->left = new TreeNode(9, new TreeNode(5), new TreeNode(1));
+  root->right = new TreeNode(0);
+  auto result = solution::sumNumbers(root);
 
   return 0;
 }
