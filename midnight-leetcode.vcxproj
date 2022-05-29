@@ -424,6 +424,7 @@
     <ClInclude Include="maximum-product-difference-between-two-pairs.h" />
     <ClInclude Include="maximum-product-of-three-numbers.h" />
     <ClInclude Include="maximum-product-of-two-elements-in-an-array.h" />
+    <ClInclude Include="maximum-product-of-word-lengths.h" />
     <ClInclude Include="maximum-product-subarray.h" />
     <ClInclude Include="maximum-repeating-substring.h" />
     <ClInclude Include="maximum-score-after-splitting-a-string.h" />

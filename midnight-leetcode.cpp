@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "sum-root-to-leaf-numbers.h"
+#include "maximum-product-of-word-lengths.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,10 +25,8 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  auto root = new TreeNode(4);
-  root->left = new TreeNode(9, new TreeNode(5), new TreeNode(1));
-  root->right = new TreeNode(0);
-  auto result = solution::sumNumbers(root);
+  std::vector<std::string> v{"abcw", "baz", "foo", "bar", "xtfn", "abcdef"};
+  auto result = solution::maxProduct(v);
 
   return 0;
 }
