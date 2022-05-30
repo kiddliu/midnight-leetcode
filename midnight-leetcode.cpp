@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "maximum-product-of-word-lengths.h"
+#include "surrounded-regions.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,8 +25,18 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<std::string> v{"abcw", "baz", "foo", "bar", "xtfn", "abcdef"};
-  auto result = solution::maxProduct(v);
+  std::vector<std::vector<char>> v{
+      {{ 'X', 'O', 'X', 'O', 'X', 'O', 'O', 'O', 'X', 'O' },
+       { 'X', 'O', 'O', 'X', 'X', 'X', 'O', 'O', 'O', 'X' },
+       { 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'X', 'X' },
+       { 'O', 'O', 'O', 'O', 'O', 'O', 'X', 'O', 'O', 'X' },
+       { 'O', 'O', 'X', 'X', 'O', 'X', 'X', 'O', 'O', 'O' },
+       { 'X', 'O', 'O', 'X', 'X', 'X', 'O', 'X', 'X', 'O' },
+       { 'X', 'O', 'X', 'O', 'O', 'X', 'X', 'O', 'X', 'O' },
+       { 'X', 'X', 'O', 'X', 'X', 'O', 'X', 'O', 'O', 'X' },
+       { 'O', 'O', 'O', 'O', 'X', 'O', 'X', 'O', 'X', 'O' },
+       { 'X', 'X', 'O', 'X', 'X', 'X', 'X', 'O', 'O', 'O' }}};
+  solution::solve(v);
 
   return 0;
 }

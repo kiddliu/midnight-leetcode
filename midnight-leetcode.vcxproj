@@ -641,6 +641,7 @@
     <ClInclude Include="sum-root-to-leaf-numbers.h" />
     <ClInclude Include="summary-ranges.h" />
     <ClInclude Include="surface-area-of-3d-shapes.h" />
+    <ClInclude Include="surrounded-regions.h" />
     <ClInclude Include="swap-nodes-in-pairs.h" />
     <ClInclude Include="swapping-nodes-in-a-linked-list.h" />
     <ClInclude Include="symmetric-tree.h" />

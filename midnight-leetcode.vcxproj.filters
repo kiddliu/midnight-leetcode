@@ -1661,6 +1661,9 @@
     <ClInclude Include="maximum-product-of-word-lengths.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="surrounded-regions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
