@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "surrounded-regions.h"
+#include "check-if-a-string-contains-all-binary-codes-of-size-k.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -36,7 +36,7 @@ int main() {
        { 'X', 'X', 'O', 'X', 'X', 'O', 'X', 'O', 'O', 'X' },
        { 'O', 'O', 'O', 'O', 'X', 'O', 'X', 'O', 'X', 'O' },
        { 'X', 'X', 'O', 'X', 'X', 'X', 'X', 'O', 'O', 'O' }}};
-  solution::solve(v);
+  solution::hasAllCodes("00110", 2);
 
   return 0;
 }
