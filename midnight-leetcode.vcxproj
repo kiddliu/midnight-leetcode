@@ -600,6 +600,7 @@
     <ClInclude Include="sign-of-the-product-of-an-array.h" />
     <ClInclude Include="simplify-path.h" />
     <ClInclude Include="single-element-in-a-sorted-array.h" />
+    <ClInclude Include="single-number-ii.h" />
     <ClInclude Include="single-number-iii.h" />
     <ClInclude Include="single-number.h" />
     <ClInclude Include="slowest-key.h" />

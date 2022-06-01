@@ -1667,6 +1667,9 @@
     <ClInclude Include="check-if-a-string-contains-all-binary-codes-of-size-k.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="single-number-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
