@@ -1676,6 +1676,9 @@
     <ClInclude Include="node3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="range-sum-query-2d-immutable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

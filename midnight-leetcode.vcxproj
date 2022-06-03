@@ -529,6 +529,7 @@
     <ClInclude Include="projection-area-of-3d-shapes.h" />
     <ClInclude Include="range-addition-ii.h" />
     <ClInclude Include="range-sum-of-bst.h" />
+    <ClInclude Include="range-sum-query-2d-immutable.h" />
     <ClInclude Include="range-sum-query-immutable.h" />
     <ClInclude Include="rank-transform-of-an-array.h" />
     <ClInclude Include="ransom-note.h" />
