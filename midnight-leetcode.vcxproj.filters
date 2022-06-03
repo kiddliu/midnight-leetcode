@@ -1670,6 +1670,12 @@
     <ClInclude Include="single-number-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="copy-list-with-random-pointer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="node3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

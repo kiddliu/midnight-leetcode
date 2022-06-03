@@ -229,6 +229,7 @@
     <ClInclude Include="convert-integer-to-the-sum-of-two-no-zero-integers.h" />
     <ClInclude Include="convert-sorted-array-to-binary-search-tree.h" />
     <ClInclude Include="convert-sorted-list-to-binary-search-tree.h" />
+    <ClInclude Include="copy-list-with-random-pointer.h" />
     <ClInclude Include="count-binary-substrings.h" />
     <ClInclude Include="count-good-triplets.h" />
     <ClInclude Include="count-items-matching-a-rule.h" />
@@ -478,6 +479,7 @@
     <ClInclude Include="nim-game.h" />
     <ClInclude Include="node.h" />
     <ClInclude Include="node2.h" />
+    <ClInclude Include="node3.h" />
     <ClInclude Include="number-complement.h" />
     <ClInclude Include="number-of-1-bits.h" />
     <ClInclude Include="number-of-days-between-two-dates.h" />
