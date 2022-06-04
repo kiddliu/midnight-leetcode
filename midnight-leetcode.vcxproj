@@ -689,6 +689,7 @@
     <ClInclude Include="verifying-an-alien-dictionary.h" />
     <ClInclude Include="walking-robot-simulation.h" />
     <ClInclude Include="water-bottles.h" />
+    <ClInclude Include="word-break.h" />
     <ClInclude Include="word-pattern.h" />
     <ClInclude Include="word-search.h" />
     <ClInclude Include="x-of-a-kind-in-a-deck-of-cards.h" />
