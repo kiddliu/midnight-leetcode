@@ -403,6 +403,7 @@
     <ClInclude Include="longest-substring-without-repeating-characters.h" />
     <ClInclude Include="longest-uncommon-subsequence-i.h" />
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
+    <ClInclude Include="lru-cache.h" />
     <ClInclude Include="lucky-numbers-in-a-matrix.h" />
     <ClInclude Include="majority-element.h" />
     <ClInclude Include="make-the-string-great.h" />
