@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "word-break.h"
+#include "reverse-words-in-a-string.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -26,7 +26,7 @@ TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
   std::vector<std::string> v{"leet", "code"};
-  solution::wordBreak("leetcode", v);
+  solution::reverseWords("the sky is blue");
 
   return 0;
 }
