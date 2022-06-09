@@ -301,6 +301,7 @@
     <ClInclude Include="find-greatest-common-divisor-of-array.h" />
     <ClInclude Include="find-if-path-exists-in-graph.h" />
     <ClInclude Include="find-lucky-integer-in-an-array.h" />
+    <ClInclude Include="find-minimum-in-rotated-sorted-array.h" />
     <ClInclude Include="find-mode-in-binary-search-tree.h" />
     <ClInclude Include="find-n-unique-integers-sum-up-to-zero.h" />
     <ClInclude Include="find-nearest-point-that-has-the-same-x-or-y-coordinate.h" />

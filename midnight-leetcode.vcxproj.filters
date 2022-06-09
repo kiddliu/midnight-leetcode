@@ -1691,6 +1691,9 @@
     <ClInclude Include="reverse-words-in-a-string.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-minimum-in-rotated-sorted-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
