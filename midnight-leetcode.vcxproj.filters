@@ -1697,6 +1697,9 @@
     <ClInclude Include="minimum-operations-to-reduce-x-to-zero.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="find-peak-element.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

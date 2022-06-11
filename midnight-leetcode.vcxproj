@@ -306,6 +306,7 @@
     <ClInclude Include="find-n-unique-integers-sum-up-to-zero.h" />
     <ClInclude Include="find-nearest-point-that-has-the-same-x-or-y-coordinate.h" />
     <ClInclude Include="find-numbers-with-even-number-of-digits.h" />
+    <ClInclude Include="find-peak-element.h" />
     <ClInclude Include="find-pivot-index.h" />
     <ClInclude Include="find-smallest-letter-greater-than-target.h" />
     <ClInclude Include="find-the-difference.h" />
