@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "find-minimum-in-rotated-sorted-array.h"
+#include "maximum-erasure-value.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,8 +25,8 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<int> v{2, 1};
-  auto result = solution::findMin(v);
+  std::vector<int> v{5, 2, 1, 2, 5, 2, 1, 2, 5};
+  auto result = solution::maximumUniqueSubarray(v);
 
   return 0;
 }

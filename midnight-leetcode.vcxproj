@@ -422,6 +422,7 @@
     <ClInclude Include="maximum-depth-of-binary-tree.h" />
     <ClInclude Include="maximum-depth-of-n-ary-tree.h" />
     <ClInclude Include="maximum-difference-between-increasing-elements.h" />
+    <ClInclude Include="maximum-erasure-value.h" />
     <ClInclude Include="maximum-nesting-depth-of-the-parentheses.h" />
     <ClInclude Include="maximum-number-of-balloons.h" />
     <ClInclude Include="maximum-number-of-balls-in-a-box.h" />
