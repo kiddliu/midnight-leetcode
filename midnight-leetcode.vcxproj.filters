@@ -1703,6 +1703,9 @@
     <ClInclude Include="maximum-erasure-value.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="compare-version-numbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

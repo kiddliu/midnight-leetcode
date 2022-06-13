@@ -214,6 +214,7 @@
     <ClInclude Include="combination-sum-iii.h" />
     <ClInclude Include="combination-sum.h" />
     <ClInclude Include="combinations.h" />
+    <ClInclude Include="compare-version-numbers.h" />
     <ClInclude Include="concatenation-of-array.h" />
     <ClInclude Include="consecutive-characters.h" />
     <ClInclude Include="construct-binary-tree-from-inorder-and-postorder-traversal.h" />
