@@ -1706,6 +1706,9 @@
     <ClInclude Include="compare-version-numbers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="delete-operation-for-two-strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
