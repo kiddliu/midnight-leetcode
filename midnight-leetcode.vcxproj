@@ -597,6 +597,7 @@
     <ClInclude Include="search-in-rotated-sorted-array-ii.h" />
     <ClInclude Include="search-in-rotated-sorted-array.h" />
     <ClInclude Include="search-insert-position.h" />
+    <ClInclude Include="search-suggestions-system.h" />
     <ClInclude Include="second-largest-digit-in-a-string.h" />
     <ClInclude Include="second-minimum-node-in-a-binary-tree.h" />
     <ClInclude Include="self-dividing-numbers.h" />
@@ -671,6 +672,7 @@
     <ClInclude Include="transpose-matrix.h" />
     <ClInclude Include="tree-node.h" />
     <ClInclude Include="triangle.h" />
+    <ClInclude Include="trie.h" />
     <ClInclude Include="truncate-sentence.h" />
     <ClInclude Include="two-out-of-three.h" />
     <ClInclude Include="two-sum-ii-input-array-is-sorted.h" />
