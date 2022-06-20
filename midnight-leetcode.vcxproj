@@ -606,6 +606,7 @@
     <ClInclude Include="set-matrix-zeroes.h" />
     <ClInclude Include="set-mismatch.h" />
     <ClInclude Include="shift-2d-grid.h" />
+    <ClInclude Include="short-encoding-of-words.h" />
     <ClInclude Include="shortest-completing-word.h" />
     <ClInclude Include="shortest-distance-to-a-character.h" />
     <ClInclude Include="shortest-path-in-binary-matrix.h" />
