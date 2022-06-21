@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "fraction-to-recurring-decimal.h"
+#include "furthest-building-you-can-reach.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,8 +25,8 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<int> v{5, 2, 1, 2, 5, 2, 1, 2, 5};
-  auto result = solution::fractionToDecimal(-2147483648, -1);
+  std::vector<int> v{4, 12, 2, 7, 3, 18, 20, 3, 19};
+  auto result = solution::furthestBuilding(v, 10, 2);
 
   return 0;
 }

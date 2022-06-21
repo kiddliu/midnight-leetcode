@@ -1721,6 +1721,9 @@
     <ClInclude Include="short-encoding-of-words.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="furthest-building-you-can-reach.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
