@@ -379,6 +379,7 @@
     <ClInclude Include="koko-eating-bananas.h" />
     <ClInclude Include="kth-distinct-string-in-an-array.h" />
     <ClInclude Include="kth-largest-element-in-a-stream.h" />
+    <ClInclude Include="kth-largest-element-in-an-array.h" />
     <ClInclude Include="kth-missing-positive-number.h" />
     <ClInclude Include="kth-smallest-element-in-a-bst.h" />
     <ClInclude Include="largest-divisible-subset.h" />
