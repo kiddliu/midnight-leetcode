@@ -1771,5 +1771,8 @@
     <None Include="reformat-department-table.sql">
       <Filter>SQL Files</Filter>
     </None>
+    <None Include="nth-highest-salary.sql">
+      <Filter>SQL Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
