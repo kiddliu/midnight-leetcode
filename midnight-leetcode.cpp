@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "furthest-building-you-can-reach.h"
+#include "non-decreasing-array.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,8 +25,8 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<int> v{4, 12, 2, 7, 3, 18, 20, 3, 19};
-  auto result = solution::furthestBuilding(v, 10, 2);
+  std::vector<int> v{4, 2, 1};
+  auto result = solution::checkPossibility(v);
 
   return 0;
 }

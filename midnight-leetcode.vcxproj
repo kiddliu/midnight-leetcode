@@ -491,6 +491,7 @@
     <ClInclude Include="node.h" />
     <ClInclude Include="node2.h" />
     <ClInclude Include="node3.h" />
+    <ClInclude Include="non-decreasing-array.h" />
     <ClInclude Include="number-complement.h" />
     <ClInclude Include="number-of-1-bits.h" />
     <ClInclude Include="number-of-days-between-two-dates.h" />

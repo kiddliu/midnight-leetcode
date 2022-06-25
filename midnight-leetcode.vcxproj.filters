@@ -1727,6 +1727,9 @@
     <ClInclude Include="kth-largest-element-in-an-array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="non-decreasing-array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
