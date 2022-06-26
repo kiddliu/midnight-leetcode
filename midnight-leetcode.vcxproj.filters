@@ -1777,5 +1777,8 @@
     <None Include="nth-highest-salary.sql">
       <Filter>SQL Files</Filter>
     </None>
+    <None Include="rank-scores.sql">
+      <Filter>SQL Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

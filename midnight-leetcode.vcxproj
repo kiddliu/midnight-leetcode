@@ -722,6 +722,7 @@
     <None Include="employees-earning-more-than-their-managers.sql" />
     <None Include="not-boring-movies.sql" />
     <None Include="nth-highest-salary.sql" />
+    <None Include="rank-scores.sql" />
     <None Include="reformat-department-table.sql" />
     <None Include="rising-temperature.sql" />
     <None Include="second-highest-salary.sql" />
