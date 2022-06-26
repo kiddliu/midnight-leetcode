@@ -432,6 +432,7 @@
     <ClInclude Include="maximum-number-of-balloons.h" />
     <ClInclude Include="maximum-number-of-balls-in-a-box.h" />
     <ClInclude Include="maximum-number-of-words-you-can-type.h" />
+    <ClInclude Include="maximum-points-you-can-obtain-from-cards.h" />
     <ClInclude Include="maximum-population-year.h" />
     <ClInclude Include="maximum-product-difference-between-two-pairs.h" />
     <ClInclude Include="maximum-product-of-three-numbers.h" />

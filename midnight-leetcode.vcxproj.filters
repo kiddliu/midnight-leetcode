@@ -1730,6 +1730,9 @@
     <ClInclude Include="non-decreasing-array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="maximum-points-you-can-obtain-from-cards.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
