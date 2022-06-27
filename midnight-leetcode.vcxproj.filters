@@ -1733,6 +1733,9 @@
     <ClInclude Include="maximum-points-you-can-obtain-from-cards.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="partitioning-into-minimum-number-of-deci-binary-numbers.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
