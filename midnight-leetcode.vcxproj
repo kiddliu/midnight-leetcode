@@ -457,6 +457,7 @@
     <ClInclude Include="minimum-absolute-difference.h" />
     <ClInclude Include="minimum-changes-to-make-alternating-binary-string.h" />
     <ClInclude Include="minimum-cost-to-move-chips-to-the-same-position.h" />
+    <ClInclude Include="minimum-deletions-to-make-character-frequencies-unique.h" />
     <ClInclude Include="minimum-difference-between-highest-and-lowest-of-k-scores.h" />
     <ClInclude Include="minimum-distance-between-bst-nodes.h" />
     <ClInclude Include="minimum-absolute-difference-in-bst.h" />
