@@ -1739,6 +1739,9 @@
     <ClInclude Include="minimum-deletions-to-make-character-frequencies-unique.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="queue-reconstruction-by-height.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

@@ -542,6 +542,7 @@
     <ClInclude Include="print-in-order.h" />
     <ClInclude Include="product-of-array-except-self.h" />
     <ClInclude Include="projection-area-of-3d-shapes.h" />
+    <ClInclude Include="queue-reconstruction-by-height.h" />
     <ClInclude Include="range-addition-ii.h" />
     <ClInclude Include="range-sum-of-bst.h" />
     <ClInclude Include="range-sum-query-2d-immutable.h" />
