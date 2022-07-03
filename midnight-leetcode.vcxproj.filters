@@ -1801,5 +1801,8 @@
     <None Include="rank-scores.sql">
       <Filter>SQL Files</Filter>
     </None>
+    <None Include="consecutive-numbers.sql">
+      <Filter>SQL Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
