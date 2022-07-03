@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "maximum-points-you-can-obtain-from-cards.h"
+#include "largest-number.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,8 +25,8 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<int> v{1, 2, 3, 4, 5, 6, 1};
-  auto result = solution::maxScore(v, 3);
+  std::vector<int> v{0, 0};
+  auto result = solution::largestNumber(v);
 
   return 0;
 }

@@ -384,6 +384,7 @@
     <ClInclude Include="kth-smallest-element-in-a-bst.h" />
     <ClInclude Include="largest-divisible-subset.h" />
     <ClInclude Include="largest-number-at-least-twice-of-others.h" />
+    <ClInclude Include="largest-number.h" />
     <ClInclude Include="largest-odd-number-in-string.h" />
     <ClInclude Include="largest-perimeter-triangle.h" />
     <ClInclude Include="largest-substring-between-two-equal-characters.h" />
@@ -710,6 +711,7 @@
     <ClInclude Include="verifying-an-alien-dictionary.h" />
     <ClInclude Include="walking-robot-simulation.h" />
     <ClInclude Include="water-bottles.h" />
+    <ClInclude Include="wiggle-subsequence.h" />
     <ClInclude Include="word-break.h" />
     <ClInclude Include="word-pattern.h" />
     <ClInclude Include="word-search.h" />

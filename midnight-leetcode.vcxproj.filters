@@ -1745,6 +1745,12 @@
     <ClInclude Include="minimum-moves-to-equal-array-elements-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="largest-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wiggle-subsequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
