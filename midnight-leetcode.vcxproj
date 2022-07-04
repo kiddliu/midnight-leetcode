@@ -726,6 +726,7 @@
     <None Include="consecutive-numbers.sql" />
     <None Include="customers-who-never-order.sql" />
     <None Include="delete-duplicate-emails.sql" />
+    <None Include="department-highest-salary.sql" />
     <None Include="duplicate-emails.sql" />
     <None Include="employees-earning-more-than-their-managers.sql" />
     <None Include="not-boring-movies.sql" />

@@ -1804,5 +1804,8 @@
     <None Include="consecutive-numbers.sql">
       <Filter>SQL Files</Filter>
     </None>
+    <None Include="department-highest-salary.sql">
+      <Filter>SQL Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
