@@ -575,6 +575,7 @@
     <ClInclude Include="remove-palindromic-subsequences.h" />
     <ClInclude Include="reorder-data-in-log-files.h" />
     <ClInclude Include="reorder-list.h" />
+    <ClInclude Include="repeated-dna-sequences.h" />
     <ClInclude Include="repeated-substring-pattern.h" />
     <ClInclude Include="replace-all-digits-with-characters.h" />
     <ClInclude Include="replace-all-s-to-avoid-consecutive-repeating-characters.h" />
