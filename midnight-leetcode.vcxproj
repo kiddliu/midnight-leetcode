@@ -597,6 +597,7 @@
     <ClInclude Include="robot-bounded-in-circle.h" />
     <ClInclude Include="robot-return-to-origin.h" />
     <ClInclude Include="roman-to-integer.h" />
+    <ClInclude Include="rotate-array.h" />
     <ClInclude Include="rotate-image.h" />
     <ClInclude Include="rotate-list.h" />
     <ClInclude Include="rotate-string.h" />
