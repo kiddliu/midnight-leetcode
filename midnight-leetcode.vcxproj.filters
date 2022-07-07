@@ -1813,5 +1813,8 @@
     <None Include="department-highest-salary.sql">
       <Filter>SQL Files</Filter>
     </None>
+    <None Include="word-frequency.sh">
+      <Filter>Bash Scripts</Filter>
+    </None>
   </ItemGroup>
 </Project>

@@ -740,6 +740,7 @@
     <None Include="swap-salary.sql" />
     <None Include="tenth-line.sh" />
     <None Include="valid-phone-numbers.sh" />
+    <None Include="word-frequency.sh" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
