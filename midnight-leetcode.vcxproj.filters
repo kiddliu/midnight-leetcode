@@ -1816,5 +1816,8 @@
     <None Include="word-frequency.sh">
       <Filter>Bash Scripts</Filter>
     </None>
+    <None Include="transpose-file.sh">
+      <Filter>Bash Scripts</Filter>
+    </None>
   </ItemGroup>
 </Project>

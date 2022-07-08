@@ -739,6 +739,7 @@
     <None Include="second-highest-salary.sql" />
     <None Include="swap-salary.sql" />
     <None Include="tenth-line.sh" />
+    <None Include="transpose-file.sh" />
     <None Include="valid-phone-numbers.sh" />
     <None Include="word-frequency.sh" />
   </ItemGroup>
