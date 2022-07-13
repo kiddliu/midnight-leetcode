@@ -1760,6 +1760,15 @@
     <ClInclude Include="binary-tree-right-side-view.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="number-of-islands.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bitwise-and-of-numbers-range.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="matchsticks-to-square.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

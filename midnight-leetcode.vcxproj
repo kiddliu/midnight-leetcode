@@ -185,6 +185,7 @@
     <ClInclude Include="binary-tree-tilt.h" />
     <ClInclude Include="binary-tree-zigzag-level-order-traversal.h" />
     <ClInclude Include="binary-watch.h" />
+    <ClInclude Include="bitwise-and-of-numbers-range.h" />
     <ClInclude Include="buddy-strings.h" />
     <ClInclude Include="build-an-array-with-stack-operations.h" />
     <ClInclude Include="build-array-from-permutation.h" />
@@ -418,6 +419,7 @@
     <ClInclude Include="majority-element.h" />
     <ClInclude Include="make-the-string-great.h" />
     <ClInclude Include="make-two-arrays-equal-by-reversing-sub-arrays.h" />
+    <ClInclude Include="matchsticks-to-square.h" />
     <ClInclude Include="matrix-cells-in-distance-order.h" />
     <ClInclude Include="matrix-diagonal-sum.h" />
     <ClInclude Include="max-consecutive-ones.h" />
@@ -503,6 +505,7 @@
     <ClInclude Include="number-of-different-integers-in-a-string.h" />
     <ClInclude Include="number-of-equivalent-domino-pairs.h" />
     <ClInclude Include="number-of-good-pairs.h" />
+    <ClInclude Include="number-of-islands.h" />
     <ClInclude Include="number-of-lines-to-write-string.h" />
     <ClInclude Include="number-of-recent-calls.h" />
     <ClInclude Include="number-of-rectangles-that-can-form-the-largest-square.h" />
