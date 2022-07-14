@@ -247,6 +247,7 @@
     <ClInclude Include="count-square-sum-triples.h" />
     <ClInclude Include="count-the-number-of-consistent-strings.h" />
     <ClInclude Include="counting-bits.h" />
+    <ClInclude Include="course-schedule.h" />
     <ClInclude Include="cousins-in-binary-tree.h" />
     <ClInclude Include="crawler-log-folder.h" />
     <ClInclude Include="create-target-array-in-the-given-order.h" />

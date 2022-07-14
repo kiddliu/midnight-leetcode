@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "number-of-islands.h"
+#include "course-schedule.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,8 +25,8 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<std::vector<char>> v{{'1', '1'}};
-  auto result = solution::numIslands(v);
+  std::vector<std::vector<int>> v{{1, 0}};
+  auto result = solution::canFinish(2, v);
 
   return 0;
 }
