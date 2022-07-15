@@ -424,6 +424,7 @@
     <ClInclude Include="matchsticks-to-square.h" />
     <ClInclude Include="matrix-cells-in-distance-order.h" />
     <ClInclude Include="matrix-diagonal-sum.h" />
+    <ClInclude Include="max-area-of-island.h" />
     <ClInclude Include="max-consecutive-ones.h" />
     <ClInclude Include="maximize-distance-to-closest-person.h" />
     <ClInclude Include="maximize-sum-of-array-after-k-negations.h" />

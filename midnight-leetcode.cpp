@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "course-schedule.h"
+#include "max-area-of-island.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,8 +25,9 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<std::vector<int>> v{{1, 0}};
-  auto result = solution::canFinish(2, v);
+  std::vector<std::vector<int>> v{{ 1, 1, 0, 0, 0 }, { 1, 1, 0, 0, 0 },
+                                  { 0, 0, 0, 1, 1 }, { 0, 0, 0, 1, 1 }};
+  auto result = solution::maxAreaOfIsland(v);
 
   return 0;
 }
