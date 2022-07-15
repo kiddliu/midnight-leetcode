@@ -1772,6 +1772,9 @@
     <ClInclude Include="course-schedule.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="implement-trie-prefix-tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

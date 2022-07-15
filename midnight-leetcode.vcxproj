@@ -354,6 +354,7 @@
     <ClInclude Include="implement-queue-using-stacks.h" />
     <ClInclude Include="implement-stack-using-queues.h" />
     <ClInclude Include="implement-strstr.h" />
+    <ClInclude Include="implement-trie-prefix-tree.h" />
     <ClInclude Include="increasing-decreasing-string.h" />
     <ClInclude Include="increasing-order-search-tree.h" />
     <ClInclude Include="insert-interval.h" />
