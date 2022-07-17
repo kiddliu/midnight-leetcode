@@ -1778,6 +1778,9 @@
     <ClInclude Include="max-area-of-island.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="minimum-size-subarray-sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

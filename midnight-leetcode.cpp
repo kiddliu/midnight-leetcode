@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "max-area-of-island.h"
+#include "minimum-size-subarray-sum.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,9 +25,8 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<std::vector<int>> v{{ 1, 1, 0, 0, 0 }, { 1, 1, 0, 0, 0 },
-                                  { 0, 0, 0, 1, 1 }, { 0, 0, 0, 1, 1 }};
-  auto result = solution::maxAreaOfIsland(v);
+  std::vector<int> v{1, 1, 1, 1, 1, 1, 1, 1};
+  auto result = solution::minSubArrayLen(11, v);
 
   return 0;
 }
