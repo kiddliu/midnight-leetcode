@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "minimum-size-subarray-sum.h"
+#include "course-schedule-ii.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,8 +25,8 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<int> v{1, 1, 1, 1, 1, 1, 1, 1};
-  auto result = solution::minSubArrayLen(11, v);
+  std::vector<std::vector<int>> v{{1, 0}};
+  auto result = solution::findOrder(2, v);
 
   return 0;
 }
