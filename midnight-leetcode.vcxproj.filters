@@ -1784,6 +1784,9 @@
     <ClInclude Include="course-schedule-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="house-robber-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
