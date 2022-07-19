@@ -225,6 +225,7 @@
     <ClInclude Include="construct-the-rectangle.h" />
     <ClInclude Include="container-with-most-water.h" />
     <ClInclude Include="contains-duplicate-ii.h" />
+    <ClInclude Include="contains-duplicate-iii.h" />
     <ClInclude Include="contains-duplicate.h" />
     <ClInclude Include="convert-1d-array-into-2d-array.h" />
     <ClInclude Include="convert-a-number-to-hexadecimal.h" />

@@ -7,11 +7,10 @@
 #include <string>
 #include <vector>
 
+#include "contains-duplicate-iii.h"
 #include "list-node.h"
 #include "node2.h"
 #include "tree-node.h"
-
-#include "course-schedule-ii.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,8 +24,8 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<std::vector<int>> v{{1, 0}};
-  auto result = solution::findOrder(2, v);
+      std::vector<int> v{1,2,3,1};
+  auto result = solution::containsNearbyAlmostDuplicate(v, 3, 0);
 
   return 0;
 }
