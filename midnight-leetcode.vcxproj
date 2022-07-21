@@ -514,6 +514,7 @@
     <ClInclude Include="number-of-good-pairs.h" />
     <ClInclude Include="number-of-islands.h" />
     <ClInclude Include="number-of-lines-to-write-string.h" />
+    <ClInclude Include="number-of-matching-subsequences.h" />
     <ClInclude Include="number-of-recent-calls.h" />
     <ClInclude Include="number-of-rectangles-that-can-form-the-largest-square.h" />
     <ClInclude Include="number-of-segments-in-a-string.h" />

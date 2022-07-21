@@ -7,10 +7,11 @@
 #include <string>
 #include <vector>
 
-#include "contains-duplicate-iii.h"
 #include "list-node.h"
 #include "node2.h"
 #include "tree-node.h"
+
+#include "number-of-matching-subsequences.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -24,8 +25,8 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-      std::vector<int> v{1,2,3,1};
-  auto result = solution::containsNearbyAlmostDuplicate(v, 3, 0);
+  std::vector<std::string> v{"a", "bb", "acd", "ace"};
+  auto result = solution::numMatchingSubseq("abcde", v);
 
   return 0;
 }
