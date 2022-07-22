@@ -429,6 +429,7 @@
     <ClInclude Include="matrix-diagonal-sum.h" />
     <ClInclude Include="max-area-of-island.h" />
     <ClInclude Include="max-consecutive-ones.h" />
+    <ClInclude Include="maximal-square.h" />
     <ClInclude Include="maximize-distance-to-closest-person.h" />
     <ClInclude Include="maximize-sum-of-array-after-k-negations.h" />
     <ClInclude Include="maximum-69-number.h" />

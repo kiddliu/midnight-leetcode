@@ -1793,6 +1793,9 @@
     <ClInclude Include="number-of-matching-subsequences.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="maximal-square.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

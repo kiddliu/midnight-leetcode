@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "number-of-matching-subsequences.h"
+#include "maximal-square.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,8 +25,11 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<std::string> v{"a", "bb", "acd", "ace"};
-  auto result = solution::numMatchingSubseq("abcde", v);
+  std::vector<std::vector<char>> v{{'1', '0', '1', '0', '0'},
+                                   {'1', '0', '1', '1', '1'},
+                                   {'1', '1', '1', '1', '1'},
+                                   {'1', '0', '0', '1', '0'}};
+  auto result = solution::maximalSquare(v);
 
   return 0;
 }
