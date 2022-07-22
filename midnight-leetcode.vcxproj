@@ -235,6 +235,7 @@
     <ClInclude Include="convert-sorted-list-to-binary-search-tree.h" />
     <ClInclude Include="copy-list-with-random-pointer.h" />
     <ClInclude Include="count-binary-substrings.h" />
+    <ClInclude Include="count-complete-tree-nodes.h" />
     <ClInclude Include="count-good-triplets.h" />
     <ClInclude Include="count-items-matching-a-rule.h" />
     <ClInclude Include="count-largest-group.h" />

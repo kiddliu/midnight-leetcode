@@ -1796,6 +1796,9 @@
     <ClInclude Include="maximal-square.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="count-complete-tree-nodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
