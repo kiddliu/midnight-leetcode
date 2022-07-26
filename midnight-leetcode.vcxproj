@@ -422,6 +422,7 @@
     <ClInclude Include="lowest-common-ancestor-of-a-binary-search-tree.h" />
     <ClInclude Include="lru-cache.h" />
     <ClInclude Include="lucky-numbers-in-a-matrix.h" />
+    <ClInclude Include="majority-element-ii.h" />
     <ClInclude Include="majority-element.h" />
     <ClInclude Include="make-the-string-great.h" />
     <ClInclude Include="make-two-arrays-equal-by-reversing-sub-arrays.h" />

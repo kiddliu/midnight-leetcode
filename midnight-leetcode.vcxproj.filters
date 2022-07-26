@@ -1805,6 +1805,9 @@
     <ClInclude Include="rectangle-area.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="majority-element-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
