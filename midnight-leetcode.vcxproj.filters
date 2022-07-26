@@ -1808,6 +1808,9 @@
     <ClInclude Include="majority-element-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="lowest-common-ancestor-of-a-binary-tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
