@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "search-a-2d-matrix-ii.h"
+#include "different-ways-to-add-parentheses.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -30,7 +30,7 @@ int main() {
                                   {3, 6, 9, 16, 22},
                                   {10, 13, 14, 17, 24},
                                   {18, 21, 23, 26, 30}};
-  auto result = solution::searchMatrix(v, 20);
+  auto result = solution::diffWaysToCompute("2-1-1");
 
   return 0;
 }

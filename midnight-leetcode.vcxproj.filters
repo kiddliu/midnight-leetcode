@@ -1811,6 +1811,9 @@
     <ClInclude Include="lowest-common-ancestor-of-a-binary-tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="different-ways-to-add-parentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

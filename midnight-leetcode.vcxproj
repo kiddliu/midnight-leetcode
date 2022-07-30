@@ -284,6 +284,7 @@
     <ClInclude Include="determine-whether-matrix-can-be-obtained-by-rotation.h" />
     <ClInclude Include="di-string-match.h" />
     <ClInclude Include="diameter-of-binary-tree.h" />
+    <ClInclude Include="different-ways-to-add-parentheses.h" />
     <ClInclude Include="distance-between-bus-stops.h" />
     <ClInclude Include="distribute-candies-to-people.h" />
     <ClInclude Include="distribute-candies.h" />
