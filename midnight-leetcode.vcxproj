@@ -566,6 +566,7 @@
     <ClInclude Include="range-sum-of-bst.h" />
     <ClInclude Include="range-sum-query-2d-immutable.h" />
     <ClInclude Include="range-sum-query-immutable.h" />
+    <ClInclude Include="range-sum-query-mutable.h" />
     <ClInclude Include="rank-transform-of-an-array.h" />
     <ClInclude Include="ransom-note.h" />
     <ClInclude Include="rearrange-spaces-between-words.h" />
@@ -710,6 +711,7 @@
     <ClInclude Include="two-sum-ii-input-array-is-sorted.h" />
     <ClInclude Include="two-sum-iv-input-is-a-bst.h" />
     <ClInclude Include="two-sum.h" />
+    <ClInclude Include="ugly-number-ii.h" />
     <ClInclude Include="ugly-number.h" />
     <ClInclude Include="uncommon-words-from-two-sentences.h" />
     <ClInclude Include="unique-binary-search-trees-ii.h" />

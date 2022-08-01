@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "different-ways-to-add-parentheses.h"
+#include "ugly-number-ii.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -25,12 +25,14 @@ ListNode* buildList(std::vector<int> v) {
 TreeNode* buildTree(std::string s) { return nullptr; }
 
 int main() {
-  std::vector<std::vector<int>> v{{1, 4, 7, 11, 15},
-                                  {2, 5, 8, 12, 19},
-                                  {3, 6, 9, 16, 22},
-                                  {10, 13, 14, 17, 24},
-                                  {18, 21, 23, 26, 30}};
-  auto result = solution::diffWaysToCompute("2-1-1");
+  //std::vector<std::vector<int>> v{{1, 4, 7, 11, 15},
+  //                                {2, 5, 8, 12, 19},
+  //                                {3, 6, 9, 16, 22},
+  //                                {10, 13, 14, 17, 24},
+  //                                {18, 21, 23, 26, 30}};
+  //auto result = solution::diffWaysToCompute("2-1-1");
+
+  auto result = solution::nthUglyNumber(1480);
 
   return 0;
 }

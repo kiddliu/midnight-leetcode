@@ -1814,6 +1814,12 @@
     <ClInclude Include="different-ways-to-add-parentheses.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="range-sum-query-mutable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ugly-number-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
