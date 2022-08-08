@@ -415,6 +415,7 @@
     <ClInclude Include="longest-consecutive-sequence.h" />
     <ClInclude Include="longest-continuous-increasing-subsequence.h" />
     <ClInclude Include="longest-harmonious-subsequence.h" />
+    <ClInclude Include="longest-increasing-subsequence.h" />
     <ClInclude Include="longest-nice-substring.h" />
     <ClInclude Include="longest-palindrome.h" />
     <ClInclude Include="longest-palindromic-substring.h" />
