@@ -184,6 +184,7 @@
     <ClInclude Include="binary-tree-right-side-view.h" />
     <ClInclude Include="binary-tree-tilt.h" />
     <ClInclude Include="binary-tree-zigzag-level-order-traversal.h" />
+    <ClInclude Include="binary-trees-with-factors.h" />
     <ClInclude Include="binary-watch.h" />
     <ClInclude Include="bitwise-and-of-numbers-range.h" />
     <ClInclude Include="buddy-strings.h" />
