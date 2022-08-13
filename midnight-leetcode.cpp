@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "binary-trees-with-factors.h"
+#include "h-index.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -32,8 +32,8 @@ int main() {
   //                                {18, 21, 23, 26, 30}};
   //auto result = solution::diffWaysToCompute("2-1-1");
 
-  std::vector<int> v{18, 3, 6, 2};
-  auto result = solution::numFactoredBinaryTrees(v);
+  std::vector<int> v{3,0,6,1,5};
+  auto result = solution::hIndex(v);
 
   return 0;
 }

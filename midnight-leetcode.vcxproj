@@ -347,6 +347,7 @@
     <ClInclude Include="group-anagrams.h" />
     <ClInclude Include="groups-of-special-equivalent-strings.h" />
     <ClInclude Include="guess-number-higher-or-lower.h" />
+    <ClInclude Include="h-index.h" />
     <ClInclude Include="hamming-distance.h" />
     <ClInclude Include="happy-number.h" />
     <ClInclude Include="decode-string.h" />
