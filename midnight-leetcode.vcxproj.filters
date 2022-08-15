@@ -1832,6 +1832,9 @@
     <ClInclude Include="h-index-ii.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="perfect-squares.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

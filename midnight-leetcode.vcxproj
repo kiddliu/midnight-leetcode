@@ -550,6 +550,7 @@
     <ClInclude Include="path-with-minimum-effort.h" />
     <ClInclude Include="peeking-iterator.h" />
     <ClInclude Include="perfect-number.h" />
+    <ClInclude Include="perfect-squares.h" />
     <ClInclude Include="permutation-in-string.h" />
     <ClInclude Include="permutations.h" />
     <ClInclude Include="plus-one.h" />
