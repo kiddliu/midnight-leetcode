@@ -1829,6 +1829,9 @@
     <ClInclude Include="h-index.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="h-index-ii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
