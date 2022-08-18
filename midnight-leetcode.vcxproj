@@ -579,6 +579,7 @@
     <ClInclude Include="rectangle-area.h" />
     <ClInclude Include="rectangle-overlap.h" />
     <ClInclude Include="redistribute-characters-to-make-all-strings-equal.h" />
+    <ClInclude Include="reduce-array-size-to-the-half.h" />
     <ClInclude Include="reformat-date.h" />
     <ClInclude Include="reformat-phone-number.h" />
     <ClInclude Include="reformat-the-string.h" />

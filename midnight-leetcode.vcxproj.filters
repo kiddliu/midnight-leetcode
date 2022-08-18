@@ -1835,6 +1835,9 @@
     <ClInclude Include="perfect-squares.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="reduce-array-size-to-the-half.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
