@@ -672,6 +672,7 @@
     <ClInclude Include="spiral-matrix-ii.h" />
     <ClInclude Include="spiral-matrix.h" />
     <ClInclude Include="split-a-string-in-balanced-strings.h" />
+    <ClInclude Include="split-array-into-consecutive-subsequences.h" />
     <ClInclude Include="sqrtx.h" />
     <ClInclude Include="squares-of-a-sorted-array.h" />
     <ClInclude Include="string-matching-in-an-array.h" />
