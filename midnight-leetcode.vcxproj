@@ -336,6 +336,7 @@
     <ClInclude Include="flood-fill.h" />
     <ClInclude Include="fraction-to-recurring-decimal.h" />
     <ClInclude Include="furthest-building-you-can-reach.h" />
+    <ClInclude Include="game-of-life.h" />
     <ClInclude Include="gas-station.h" />
     <ClInclude Include="generate-a-string-with-characters-that-have-odd-counts.h" />
     <ClInclude Include="generate-parentheses.h" />

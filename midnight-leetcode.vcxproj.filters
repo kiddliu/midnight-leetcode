@@ -1841,6 +1841,9 @@
     <ClInclude Include="split-array-into-consecutive-subsequences.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="game-of-life.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">
