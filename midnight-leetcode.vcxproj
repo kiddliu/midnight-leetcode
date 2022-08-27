@@ -155,6 +155,7 @@
     <ClInclude Include="add-strings.h" />
     <ClInclude Include="add-to-array-form-of-integer.h" />
     <ClInclude Include="add-two-numbers.h" />
+    <ClInclude Include="additive-number.h" />
     <ClInclude Include="all-elements-in-two-binary-search-trees.h" />
     <ClInclude Include="all-paths-from-source-to-target.h" />
     <ClInclude Include="arithmetic-slices.h" />
@@ -190,6 +191,7 @@
     <ClInclude Include="buddy-strings.h" />
     <ClInclude Include="build-an-array-with-stack-operations.h" />
     <ClInclude Include="build-array-from-permutation.h" />
+    <ClInclude Include="bulls-and-cows.h" />
     <ClInclude Include="calculate-money-in-leetcode-bank.h" />
     <ClInclude Include="can-make-arithmetic-progression-from-sequence.h" />
     <ClInclude Include="can-place-flowers.h" />

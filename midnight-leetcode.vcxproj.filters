@@ -1844,6 +1844,12 @@
     <ClInclude Include="game-of-life.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="bulls-and-cows.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="additive-number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="combine-two-tables.sql">

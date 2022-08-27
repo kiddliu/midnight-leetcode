@@ -11,7 +11,7 @@
 #include "node2.h"
 #include "tree-node.h"
 
-#include "perfect-squares.h"
+#include "additive-number.h"
 
 ListNode* buildList(std::vector<int> v) {
   auto head = new ListNode(), current = head;
@@ -33,7 +33,7 @@ int main() {
   //auto result = solution::diffWaysToCompute("2-1-1");
 
   std::vector<int> v{3,0,6,1,5};
-  auto result = solution::numSquares(12);
+  auto result = solution::isAdditiveNumber("199100199");
 
   return 0;
 }
